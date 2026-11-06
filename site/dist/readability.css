@@ -1,0 +1,59 @@
+/* Load after the page styles. Local title subset; visitor-written text keeps
+   the system fallbacks. The accompanying font is licensed under SIL OFL 1.1. */
+@font-face {
+  font-family:"Jiangmen Noto Serif";
+  src:url("assets/fonts/noto-serif-sc-editorial-400.woff2") format("woff2");
+  font-style:normal;
+  font-weight:400;
+  font-display:swap;
+}
+
+/* Break safely if the viewport or a visitor's text size changes. */
+h1,.hero h1 { white-space:normal; overflow-wrap:break-word; }
+.hero-copy,.page-hero>*,.letter-intro { min-width:0; }
+.hero h1 { letter-spacing:var(--track-tight); }
+
+/* Decorative Roman lettering may be smaller; meaningful Chinese is not. */
+.brand small,.site-header .brand small { font-size:var(--text-2xs); letter-spacing:1.1px; line-height:var(--line-snug); }
+.round-stamp small { font-size:var(--text-2xs); letter-spacing:var(--track-label); }
+.eyebrow,.hero-copy .eyebrow,.chapter-copy .eyebrow,
+.letters-body .letter-intro .eyebrow,
+.hero-foot,.section-head>p,.section-head>span,.chapter-counter,
+.source-link,.collect,.image-disclosure,.film-caption,
+.postcard-preview p,.postcard label small,.postcard .primary,
+.local-note,.draft-status,.closing a,.footer-top,.footer-bottom,
+details,.reset,.explore-index,
+.page-body .page-kicker,.page-body .page-hero-note,
+.page-body .page-contents small,.page-body .story-figure figcaption,
+.page-body .story-label,.page-body .story-source,.page-body .page-text-link,
+.page-body .page-footer,.page-body .page-footer .page-footer-line,
+.page-body .about-strip figcaption,.page-body .about-section-heading p,
+.page-body .making-step small,.page-body .film-details dt,
+.letters-body .passport-hint {
+  font-size:var(--small-text);
+}
+.hero-copy .eyebrow { letter-spacing:var(--track-normal); }
+.hero-foot,.footer-bottom { letter-spacing:var(--track-normal); flex-wrap:wrap; }
+.image-disclosure { line-height:var(--line-tight); background:var(--scrim); }
+.art-label { background:var(--scrim); }
+
+/* These muted labels sit on both the cream paper and pale chapter panels. */
+.chapter-counter,.postcard-preview p,.postcard label small,.local-note,.draft-status,
+.page-body .page-hero-note,.page-body .page-contents small,
+.page-body .story-figure figcaption,.page-body .story-source,
+.page-body .page-footer,.page-body .about-strip figcaption,
+.page-body .about-section-heading p,.page-body .making-step small,
+.page-body .film-details dt { color:var(--ink-soft); }
+
+@media(max-width:700px) {
+  .topbar.site-header nav,.chapter-tabs button { font-size:var(--text-sm); }
+  .source-link,.text-link,.primary,.secondary,#toast { font-size:var(--text-sm); }
+  .art-label { font-size:var(--text-sm); letter-spacing:var(--track-normal); }
+  .page-body .page-contents span,.page-body .source-list { font-size:var(--text-sm); }
+  .eyebrow,.page-body .page-kicker { letter-spacing:var(--track-normal); }
+  .hero-foot { gap:4px 16px; }
+  .film-caption { flex-wrap:wrap; gap:var(--space-3); }
+  .film-caption a { min-height:44px; display:inline-flex; align-items:center; }
+  .chapter-counter { letter-spacing:var(--track-normal); }
+  .explore-index { font-size:var(--text-xs); letter-spacing:0; }
+}

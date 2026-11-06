@@ -1,0 +1,23 @@
+.tour-intro { padding:40px 0 28px;border-bottom:1px solid var(--paper-line);margin-bottom:28px;max-width:850px; }
+.tour-intro h1 { font-family:var(--serif);font-size:var(--text-display);font-weight:400;line-height:var(--line-tight);margin:13px 0 18px; }
+.tour-intro .page-lead { max-width:43em; }
+.tour-note { color:var(--ink-soft);font-size:var(--text-sm);line-height:var(--line-loose);margin-top:12px; }
+.tour-grid { display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px; }
+.tour-step { min-width:0;border:1px solid var(--paper-line);background:var(--paper-raise); }
+.tour-step figure { margin:0; }
+.tour-step img { display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:cover; }
+.tour-step figcaption { font-size:var(--text-xs);padding:8px 20px;color:var(--ink-soft); }
+.tour-step-copy { padding:14px 24px 24px; }
+.tour-step-meta { display:flex;justify-content:space-between;gap:14px;font-size:var(--text-sm);color:var(--orange);margin:0 0 10px; }
+.tour-step h2 { font-family:var(--serif);font-size:var(--text-2xl);line-height:var(--line-snug);font-weight:400;margin:0 0 12px; }
+.tour-step-copy>p:not(.tour-step-meta) { font-size:var(--text-base);line-height:var(--line-loose);margin-bottom:10px; }
+.tour-step-link,.tour-more a { display:inline-flex;align-items:center;min-height:44px;font-size:var(--text-md);text-decoration:underline;text-underline-offset:5px; }
+.tour-more { padding:32px 0;margin-top:30px;border-top:1px solid var(--paper-line); }
+.tour-more h2 { font-size:var(--text-2xl);font-weight:400;font-family:var(--serif); }
+.tour-more nav { display:flex;flex-wrap:wrap;gap:8px 28px;margin-top:15px; }
+.site-utility { border-top:1px solid var(--paper-line);margin:24px 0 0;padding:14px 0;display:flex;flex-wrap:wrap;align-items:center;gap:8px 24px;font-size:var(--text-md); }
+.site-utility nav { display:flex;flex-wrap:wrap;gap:8px 24px; }
+.site-utility nav>a { display:inline-flex;align-items:center;min-height:44px;text-decoration:underline;text-underline-offset:5px; }
+main:not(.page-shell)>.site-utility { margin-inline:6%; }
+body>footer.site-utility { margin:0 auto;padding-inline:6%; }
+@media(max-width:700px) { .tour-grid { grid-template-columns:minmax(0,1fr);gap:var(--space-5); }.tour-intro { padding-top:22px; }.tour-step-copy { padding:10px 19px 20px; }.tour-step h2 { font-size:var(--text-2xl); } }

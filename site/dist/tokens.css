@@ -1,0 +1,193 @@
+/* Design tokens for the whole site.
+   Light values live in :root; the dark palette is one override on
+   [data-theme="dark"], so the two can never drift apart. JavaScript resolves
+   the theme and writes data-theme before the first paint; with JavaScript off
+   the page stays light and readable, and `color-scheme: light` keeps browsers
+   from force-darkening it. */
+
+:root {
+  color-scheme: light;
+
+  /* — surfaces — */
+  --paper: #f5f0e6;
+  --paper-raise: #faf7ef;
+  --paper-sunk: #e9e8da;
+  --paper-tint: #e8eddf;
+  --paper-line: #d8d7c8;
+  --paper-line-strong: #c4c8b7;
+  --paper-image: #e2e5d5;
+  --paper-glass: #f5f0e6f7;
+  --paper-glass-soft: #f5f0e6eb;
+
+  /* — text — */
+  --ink: #183d36;
+  --ink-soft: #53695d;
+  --ink-faint: #899b8d;
+  --on-dark: #f5f0e6;
+  --on-photo: #fff6e2;
+
+  /* — accents — */
+  --orange: #a14f2d;
+  --orange-soft: #f0e2d6;
+  --gold: #d7b978;
+  --gold-deep: #a95b32;
+  --gold-ink: #49321e;
+
+  /* — solid inverse blocks (buttons, selected states, toast) — */
+  --inverse-bg: #183d36;
+  --inverse-bg-hover: #28574b;
+  --inverse-fg: #f5f0e6;
+
+  /* — media — */
+  --film: #0f2824;
+  --film-raise: #102d27;
+  --film-raise-hover: #23473b;
+  --scrim: #183d36d9;
+  --scrim-soft: #183d3680;
+  --scrim-modal: #102a26bb;
+  --veil: #183d3635;
+
+  /* — control borders — */
+  --line-control: #7d8f83;
+
+  /* — translucent ink — */
+  --ink-a06: #183d3610;
+  --ink-a09: #183d3617;
+  --ink-a15: #183d3626;
+  --ink-a30: #183d364d;
+
+  /* — type — */
+  --serif: "Jiangmen Noto Serif", "Noto Serif SC", "Noto Serif CJK SC", "Songti SC", "STSong", "SimSun", serif;
+  --sans: "PingFang SC", "Microsoft YaHei", "Noto Sans SC", "Noto Sans CJK SC", "Droid Sans Fallback", system-ui, sans-serif;
+  --text-2xs: 10px;
+  --text-xs: 12px;
+  --text-sm: 13px;
+  --text-md: 14px;
+  --text-base: 15px;
+  --text-lg: 17px;
+  --text-xl: 21px;
+  --text-2xl: 27px;
+  --text-3xl: 35px;
+  --text-display: clamp(35px, 4.2vw, 60px);
+  --text-form: 16px;
+  --small-text: var(--text-xs);
+  --line-tight: 1.5;
+  --line-snug: 1.7;
+  --line-normal: 1.8;
+  --line-loose: 1.95;
+  --track-tight: .02em;
+  --track-normal: .08em;
+  --track-wide: 2px;
+  --track-label: 1px;
+
+  /* — rhythm — */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 22px;
+  --space-6: 28px;
+  --space-7: 40px;
+  --space-8: 56px;
+  --space-9: 72px;
+  --section-y: var(--space-9);
+  --section-y-tight: var(--space-8);
+  --shell-max: 1180px;
+  --shell-pct: 88%;
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+
+  --paper: #141c1a;
+  --paper-raise: #1b2523;
+  --paper-sunk: #0f1614;
+  --paper-tint: #22302b;
+  --paper-line: #2c3935;
+  --paper-line-strong: #3b4a44;
+  --paper-image: #1e2a27;
+  --paper-glass: #141c1af7;
+  --paper-glass-soft: #141c1aeb;
+
+  --ink: #e9e5d9;
+  --ink-soft: #a9b6ae;
+  --ink-faint: #7e8d85;
+  --on-dark: #e9e5d9;
+  --on-photo: #fff6e2;
+
+  --orange: #e08a5f;
+  --orange-soft: #33241c;
+  --gold: #d9bd7e;
+  --gold-deep: #d9a06a;
+  --gold-ink: #2a1d12;
+
+  --inverse-bg: #2f4a42;
+  --inverse-bg-hover: #3d5f55;
+  --inverse-fg: #e9e5d9;
+
+  --film: #0a1412;
+  --film-raise: #132120;
+  --film-raise-hover: #22423a;
+  --scrim: #0a1412d9;
+  --scrim-soft: #0a141280;
+  --scrim-modal: #050b0abb;
+  --veil: #0a14123d;
+
+  --line-control: #6f8179;
+
+  --ink-a06: #e9e5d910;
+  --ink-a09: #e9e5d917;
+  --ink-a15: #e9e5d926;
+  --ink-a30: #e9e5d94d;
+}
+
+@media (max-width: 700px) {
+  :root {
+    --section-y: var(--space-7);
+    --section-y-tight: var(--space-6);
+    --text-3xl: 27px;
+    --text-2xl: 25px;
+    --text-display: 35px;
+    --small-text: var(--text-sm);
+  }
+}
+
+/* Printing always returns to paper and ink, whatever the reader chose. */
+@media print {
+  :root,
+  :root[data-theme="dark"] {
+    --paper: #fff;
+    --paper-raise: #fff;
+    --paper-sunk: #fff;
+    --paper-tint: #fff;
+    --paper-line: #bbb;
+    --paper-line-strong: #999;
+    --paper-image: #eee;
+    --paper-glass: #fff;
+    --paper-glass-soft: #fff;
+    --ink: #111;
+    --ink-soft: #333;
+    --ink-faint: #555;
+    --on-dark: #111;
+    --orange: #a14f2d;
+    --orange-soft: #fff;
+    --gold: #a14f2d;
+    --gold-deep: #a14f2d;
+    --gold-ink: #111;
+    --inverse-bg: #111;
+    --inverse-bg-hover: #111;
+    --inverse-fg: #fff;
+    --film: #fff;
+    --film-raise: #fff;
+    --film-raise-hover: #fff;
+    --scrim: transparent;
+    --scrim-soft: transparent;
+    --scrim-modal: transparent;
+    --veil: transparent;
+    --line-control: #666;
+    --ink-a06: transparent;
+    --ink-a09: transparent;
+    --ink-a15: transparent;
+    --ink-a30: transparent;
+  }
+}

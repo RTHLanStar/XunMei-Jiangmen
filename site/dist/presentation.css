@@ -1,0 +1,91 @@
+/* Keyboard fallback across pages; no changes to pointer or right-click policy. */
+:where(a,button,input,select,textarea,summary,[tabindex]):focus-visible {
+  outline:3px solid var(--orange);
+  outline-offset:4px;
+}
+.print-tools { display:flex;flex-wrap:wrap;align-items:center;gap:8px 16px;margin-top:18px; }
+.print-tools[hidden],.print-tools [hidden] { display:none !important; }
+.print-tools button { min-height:44px;padding:8px 16px;border:1px solid currentColor;border-radius:2px;background:transparent;color:var(--ink);font:inherit;font-size:var(--text-sm);cursor:pointer; }
+.print-tools span,.print-tools p { margin:0;max-width:100%;font-size:var(--text-sm);line-height:var(--line-normal);color:var(--ink-soft); }
+.print-tools p { flex-basis:100%; }
+.print-selection { display:none; }
+@media (forced-colors:active) {
+  :where(a,button,input,select,textarea,summary,[tabindex]):focus-visible { outline-color:Highlight; }
+  .print-tools button { border-color:ButtonText;color:ButtonText;background:ButtonFace; }
+}
+@media print {
+  @page { size:auto;margin:15mm; }
+  html,body { background:#fff !important;color:#111 !important;overflow:visible !important; }
+  body { font-size:10pt !important;line-height:1.6 !important; }
+  *,*::before,*::after { animation:none !important;transition:none !important;box-shadow:none !important;text-shadow:none !important; }
+  [hidden] { display:none !important; }
+  .topbar,.site-header,.skip,.skip-link,.site-utility,.guide-tabs,.guide-toolbar,.guide-saved,
+  .guide-cover,.experience-links,.route-jump,.route-finder-form,
+  .route-copy,.route-copy-fallback,.route-copy-status,.card-actions,
+  .companion-details,.print-tools,.faq-controls,.faq-search,.faq-toolbar,
+  .faq-filter,.faq-filters,.faq-topics,.faq-actions,.faq-pagination,.faq-shortcuts,
+  .faq-chevron,.faq-aliases,.faq-permalink,.travel-passport-guide-status,
+  [data-print-tools],[data-no-print],.back-to-top,#toast,video,
+  body>iframe,body>aside { display:none !important; }
+  .page-shell,.guide-body .page-shell { width:100% !important;max-width:none !important;margin:0 !important;padding:0 !important; }
+  .page-hero { display:block !important;min-height:0 !important;padding:0 0 5mm !important; }
+  .page-hero h1 { max-width:none !important;font-size:24pt !important;line-height:1.4 !important; }
+  .page-hero p,.page-hero .page-lead { max-width:none !important;font-size:10pt !important;line-height:1.6 !important; }
+  .page-hero .page-kicker { font-size:8pt !important;margin-bottom:2mm !important; }
+  .guide-hero,.travel-photos .guide-hero { display:block;padding:0 0 6mm !important; }
+  .guide-hero h1 { font-size:24pt !important;line-height:1.35 !important; }
+  .guide-hero .page-lead { max-width:none !important;margin:3mm 0 0 !important;font-size:10pt !important; }
+  .guide-hero .eyebrow { margin:0 0 2mm !important;font-size:8pt !important; }
+  .area-grid,.guide-grid,.route-grid,.review-grid,.route-finder-picks { display:block !important;margin:3mm 0 !important; }
+  .area-grid>a,.area-grid>section { display:inline-block;width:48%;vertical-align:top;padding:2mm !important;border:0 !important; }
+  .guide-intro { margin:0 0 5mm !important; }
+  .guide-intro:has(.area-grid) { display:none !important; }
+  .print-selection { display:block;font-size:9pt;margin:0 0 4mm; }
+  .guide-intro h2,.guide-heading { font-size:17pt !important;margin:3mm 0 !important; }
+  .guide-results { min-height:0;margin:0 0 4mm;font-size:9pt; }
+  .guide-card,.route-card,.review-card,.route-finder-pick,.faq-item {
+    display:flow-root;padding:4mm 0 !important;margin:0 0 4mm !important;
+    border:0 !important;border-bottom:1px solid #888 !important;
+    background:#fff !important;break-inside:avoid-page;
+  }
+  .guide-card[hidden],.route-card[hidden],.faq-item[hidden] { display:none !important; }
+  .faq-answer,.faq-sources,.faq-aliases,.faq-permalink { font-size:9pt !important;line-height:1.6 !important; }
+  .faq-item summary { font-size:11pt !important;min-height:0 !important; }
+  .faq-item>summary { padding:2mm 0 !important; }
+  .faq-question { font-size:12pt !important; }
+  .faq-content { padding:1mm 0 2mm !important; }
+  .faq-category { margin:0 0 2mm !important;font-size:8pt !important; }
+  .faq-answer p { margin:0 0 2mm !important; }
+  .faq-sources { margin:2mm 0 !important;padding-top:2mm !important; }
+  .faq-sources { overflow-wrap:anywhere; }
+  .guide-card h2,.guide-card h3,.route-card h2,.review-card h3 { font-size:16pt !important;margin:0 0 2mm !important; }
+  .guide-card>p,.guide-card>p:not(.card-index):not(.card-meta),.route-card>p,
+  .guide-facts,.route-steps p,.review-card p,.review-card li { font-size:9pt !important;margin-block:2mm !important; }
+  .guide-card>.place-photo,.route-card>.place-photo { float:right;width:46mm;max-width:35%;margin:0 0 3mm 4mm !important;break-inside:avoid; }
+  .guide-card>.place-photo .photo-window,.route-card>.place-photo .photo-window { padding-top:62.5% !important;background:#eee !important; }
+  .guide-card>.place-photo figcaption,.route-card>.place-photo figcaption { padding:1mm 0 0 !important;font-size:7pt !important;line-height:var(--line-tight); }
+  .photo-required-credit { font-size:8pt !important; }
+  .card-index,.card-meta,.card-tags span,.route-meta,.guide-small { font-size:8pt !important; }
+  .card-tags span { padding:0 1.5mm !important; }
+  .guide-facts { display:block !important; }
+  .guide-facts dt { font-weight:600;float:left;clear:left;margin-right:2mm; }
+  .guide-facts dd { margin-bottom:1mm; }
+  .source-details { clear:both;margin:2mm 0 0 !important;padding-top:2mm !important;font-size:8pt !important;line-height:1.5 !important; }
+  .source-details summary { display:block;min-height:0;padding:0;font-size:8pt;font-weight:600; }
+  .source-details p,.source-details ul,.source-details li { margin-block:1.5mm !important; }
+  .source-details a,.review-card a { min-height:0 !important;padding:0 !important;font-size:inherit !important; }
+  /* CSS-only printing keeps collapsed source/answer content available too. */
+  details:not(.companion-details)>:not(summary) { display:block !important; }
+  details:not(.companion-details)::details-content { content-visibility:visible !important;height:auto !important; }
+  .source-details a[href^="http"]::after,.faq-source a[href^="http"]::after,
+  .faq-sources a[href^="http"]::after { content:" (" attr(href) ")";font-size:7pt;overflow-wrap:anywhere; }
+  a { color:#111 !important;text-decoration:underline;overflow-wrap:anywhere; }
+  .route-finder { padding:4mm !important;margin:0 0 5mm !important;border:1px solid #888;background:#fff; }
+  .route-finder-heading h2 { font-size:17pt !important; }
+  .route-finder-results { padding-top:3mm !important; }
+  .route-finder-heading p,.route-finder-pick p,.route-finder-pick dl,.route-finder-results>p { font-size:9pt !important; }
+  .route-steps { margin:3mm 0 !important; }
+  .route-steps>li { padding-bottom:2mm !important; }
+  .guide-note { margin:5mm 0 !important;padding-left:3mm !important;font-size:8pt !important; }
+  .page-footer,.guide-footer { margin:4mm 0 0 !important;padding:3mm 0 0 !important;font-size:8pt !important; }
+}

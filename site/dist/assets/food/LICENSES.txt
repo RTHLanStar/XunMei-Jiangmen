@@ -1,0 +1,66 @@
+美食配图来源
+4张摄影用于菜式参考，10张为明确标注的AI菜式示意；非本站探店或试吃记录。
+
+实景照片·摄于开平
+DragonSamYU
+CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+https://commons.wikimedia.org/wiki/File:Chikan_Doufujiao.jpg
+等比缩小并转换为 WebP；未改变照片内容。网页可能以 object-fit 局部显示。
+
+黄鳝饭参考·摄于开平，并非台山店内实拍
+DragonSamYU
+CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+https://commons.wikimedia.org/wiki/File:Rice_with_Asian_Swamp_Eel_-_Kaiping_-_20181027.jpg
+等比缩小并转换为 WebP；未改变照片内容。网页可能以 object-fit 局部显示。
+
+粤式烧鹅参考·摄于广州，非古井烧鹅实拍
+Guangzhou Private Tours by Janvi
+CC BY 4.0 https://creativecommons.org/licenses/by/4.0
+https://commons.wikimedia.org/wiki/File:Cantonese_roast_goose_served_in_Guangzhou,_China,_June_2026.jpg
+等比缩小并转换为 WebP；未改变照片内容。网页可能以 object-fit 局部显示。
+
+粤式烧鹅参考·非马冈鹅品种或开平店内实拍
+Ceeseven
+CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+https://commons.wikimedia.org/wiki/File:Roast_Goose_Rice.JPG
+等比缩小并转换为 WebP；未改变照片内容。网页可能以 object-fit 局部显示。
+
+外海面 · AI菜式示意
+ImageGen生成；原图本地路径、完整提示词与制作记录见参赛包材料/美食照片/AI生成记录.json。
+AI菜式示意，非门店实拍或试吃记录，不能证明原料产地。
+
+陈皮排骨 · AI菜式示意
+ImageGen生成；原图本地路径、完整提示词与制作记录见参赛包材料/美食照片/AI生成记录.json。
+AI菜式示意，非门店实拍或试吃记录，不能证明原料产地。
+
+恩平濑粉 · AI菜式示意
+ImageGen生成；原图本地路径、完整提示词与制作记录见参赛包材料/美食照片/AI生成记录.json。
+AI菜式示意，非门店实拍或试吃记录，不能证明原料产地。
+
+古劳鱼皮角 · AI菜式示意
+ImageGen生成；原图本地路径、完整提示词与制作记录见参赛包材料/美食照片/AI生成记录.json。
+AI菜式示意，非门店实拍或试吃记录，不能证明原料产地。
+
+荷塘鱼饼 · AI菜式示意
+ImageGen生成；原图本地路径、完整提示词与制作记录见参赛包材料/美食照片/AI生成记录.json。
+AI菜式示意，非门店实拍或试吃记录，不能证明原料产地。
+
+凉瓜排骨汤 · AI菜式示意
+ImageGen生成；原图本地路径、完整提示词与制作记录见参赛包材料/美食照片/AI生成记录.json。
+AI菜式示意，非门店实拍或试吃记录，不能证明原料产地。
+
+礼乐排骨 · AI菜式示意
+ImageGen生成；原图本地路径、完整提示词与制作记录见参赛包材料/美食照片/AI生成记录.json。
+AI菜式示意，非门店实拍或试吃记录，不能证明原料产地。
+
+恩平烧饼 · AI菜式示意
+ImageGen生成；原图本地路径、完整提示词与制作记录见参赛包材料/美食照片/AI生成记录.json。
+AI菜式示意，非门店实拍或试吃记录，不能证明原料产地。
+
+台山咸汤圆 · AI菜式示意
+ImageGen生成；原图本地路径、完整提示词与制作记录见参赛包材料/美食照片/AI生成记录.json。
+AI菜式示意，非门店实拍或试吃记录，不能证明原料产地。
+
+开平咸鸡笼 · AI菜式示意
+ImageGen生成；原图本地路径、完整提示词与制作记录见参赛包材料/美食照片/AI生成记录.json。
+AI菜式示意，非门店实拍或试吃记录，不能证明原料产地。
