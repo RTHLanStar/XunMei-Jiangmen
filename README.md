@@ -5,6 +5,7 @@
 《侨乡来信 · 江门》是一件以侨乡文化为主题的 AIGC 多页面互动网站，配套一支 66 秒艺术短片。作品以原创书信体叙事串联开平碉楼、赤坎骑楼、西江水岸与新会陈皮，并把"观看"延伸为可参与的收藏、写信与旅行规划。
 
 - **作品形态**：九页纯静态站点，可直接部署到任意静态虚拟主机，无需后端、数据库或账号体系。
+- **在线预览**：<https://rthlanstar.github.io/XunMei-Jiangmen/>
 - **内容规模**：4 章风物 · 20 项景点 · 14 项美食 · 6 条编辑路线 · 87 条本地问答。
 - **技术形态**：HTML5 + CSS3 + 原生 JavaScript；Python 3 负责内容生成与静态验收。
 
@@ -134,6 +135,10 @@ flowchart LR
 | 重新构建 | Python 3.8 及以上 |
 | 浏览器回归（可选） | Node.js 18 及以上，以及本机 Playwright 与 Chromium |
 
+### 在线预览
+
+公开预览地址：<https://rthlanstar.github.io/XunMei-Jiangmen/>。该站点由 GitHub Pages 从 `gh-pages` 分支发布，内容与 `site/dist/` 一致，适合评审直接查看；更新站点后需同步该分支。
+
 ### 方式一：直接打开（读者）
 
 ```bash
@@ -180,6 +185,8 @@ python 制作源文件/build.py --package
 2. 保持 `.html` 直接可访问，无需 URL 重写、PHP 或数据库。
 3. 若更换域名或子目录，先修改 `制作源文件/experience_presentation.py` 中的 `BASE_URL`，再重新构建，使 canonical 与 Open Graph 元数据指向实际地址。
 
+本仓库的公开预览由 `gh-pages` 分支提供：该分支根目录即 `site/dist/` 的内容，并包含 `.nojekyll`。更新站点后，将新构建结果同步到该分支即可重新发布。
+
 ## 🔧 配置项说明
 
 站点没有运行时配置文件，也没有后端环境变量。可调整项集中在设计令牌、生成器常量、数据文件与浏览器存储键四类。
@@ -188,7 +195,7 @@ python 制作源文件/build.py --package
 
 | 配置项 | 位置 | 默认值 | 作用 |
 | --- | --- | --- | --- |
-| `BASE_URL` | `制作源文件/experience_presentation.py` | `https://qxlx.ccot.pro/v2.2/` | 生成 canonical、`og:url` 与 `og:image` 的部署基址 |
+| `BASE_URL` | `制作源文件/experience_presentation.py` | `https://rthlanstar.github.io/XunMei-Jiangmen/` | 生成 canonical、`og:url` 与 `og:image` 的部署基址 |
 | `AUTHOR_URL` | `制作源文件/experience_presentation.py` | `https://github.com/RTHLanStar` | 页面署名与作者链接 |
 | `KNOCKET_SCRIPT` | `制作源文件/build-travel-guide.py` | Knocket SDK，`identifier=7cacdcf02616dcfa4e` | 第三方在线客服浮动入口；站内问答不依赖该服务 |
 | 样式合并顺序 | `制作源文件/build-travel-guide.py` | `tokens.css` 起，`presentation.css` 止 | 决定层叠优先级；`tokens.css` 必须首位，打印规则必须末位 |
@@ -239,6 +246,8 @@ python 制作源文件/build.py --package
 ```text
 XunMei-Jiangmen/
 ├── README.md                     # 项目说明（本文件）
+├── 先读我.txt                     # 快速阅读与运行说明
+├── 文件清单.json                  # 全部文件的大小与 SHA-256
 ├── LICENSE                       # CC BY-NC-ND 4.0 官方法律文本
 ├── NOTICE.md                     # 署名、许可范围与第三方素材例外
 ├── DESIGN.md                     # 设计约束、素材边界与维护规则

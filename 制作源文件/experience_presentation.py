@@ -7,7 +7,7 @@ from html import escape
 import json
 import re
 
-BASE_URL = "https://qxlx.ccot.pro/v2.2/"
+BASE_URL = "https://rthlanstar.github.io/XunMei-Jiangmen/"
 AUTHOR_URL = "https://github.com/RTHLanStar"
 PAGE_META = {
     "index.html": ("侨乡来信 · 江门", "沿一封来信，读江门的楼、街、水与味；收藏四枚风物印记，把侨乡写进自己的明信片。"),

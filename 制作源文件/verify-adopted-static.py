@@ -6,7 +6,7 @@ import json,re,sys
 ROOT=Path(__file__).resolve().parent.parent
 DIST=ROOT/'site/dist'
 PAGES=('index','stories','letters','about','travel','food','routes','faq','tour')
-BASE='https://qxlx.ccot.pro/v2.2/'
+BASE='https://rthlanstar.github.io/XunMei-Jiangmen/'
 SDK='https://trtc.io/knocket-sdk/sdk.js?identifier=7cacdcf02616dcfa4e&v=1792401160166'
 class Page(HTMLParser):
  def __init__(self):super().__init__();self.tags=[];self.ids=[]

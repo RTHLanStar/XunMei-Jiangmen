@@ -1,0 +1,1882 @@
+{
+  ".gitignore": {
+    "bytes": 288,
+    "sha256": "84e6b826153fcca32006200c9b714f06b32cd0c5198122acf417abe984e5d95b"
+  },
+  "DESIGN.md": {
+    "bytes": 10377,
+    "sha256": "fc95ca8e6fe63eeb0712fe42a3883027b08f107c4237c8665face79e24f12af6"
+  },
+  "LICENSE": {
+    "bytes": 19127,
+    "sha256": "38762e3777f4ec00a6f769062a7c3f704fb78ce08303ecff88558da4c49cf9ea"
+  },
+  "NOTICE.md": {
+    "bytes": 2961,
+    "sha256": "095e4a976dff0cf609601bea986ae856223194944dc3a50c6dacc5b9023bc795"
+  },
+  "README.md": {
+    "bytes": 26574,
+    "sha256": "d38613cfed5c7df395925f77608e9dab76eeb8bc2d58f3df9765827f28d0d9dd"
+  },
+  "site/dist/about.html": {
+    "bytes": 14096,
+    "sha256": "83711449da1adfbd1d51ff81f712aed6fdf535510c5e4d039b03896512a8e18c"
+  },
+  "site/dist/app.js": {
+    "bytes": 14881,
+    "sha256": "b9685be212a5e0c5d7473fe7235bf35e529a0c30062ab97501de1ead40b41280"
+  },
+  "site/dist/assets/atlas-data.js": {
+    "bytes": 1206366,
+    "sha256": "c4e516669f4df1bf773d67b0930d9c6a84755d6faba5cb939179dd0a7d250897"
+  },
+  "site/dist/assets/chenpi-mark.png": {
+    "bytes": 57647,
+    "sha256": "0955e63ee827e2b8969d48b9bf053d10109e2a3b82f7e3120feec86998571fcf"
+  },
+  "site/dist/assets/chenpi-touch.png": {
+    "bytes": 49513,
+    "sha256": "1dc0a9da314195dd0f2824e09518526cb4d094d916efdebeed136aaff153b330"
+  },
+  "site/dist/assets/faq-data.json": {
+    "bytes": 176382,
+    "sha256": "6ebbef8ce3248efc41a6412628dcc9ccdf5207382f79a91b975673b347c08cd5"
+  },
+  "site/dist/assets/favicon-64.png": {
+    "bytes": 7579,
+    "sha256": "37916df0c6b299eed1f7b32c16d020df44e733c704e3d1b7535359623d796647"
+  },
+  "site/dist/assets/film-poster.jpg": {
+    "bytes": 262224,
+    "sha256": "750ff195a96a57ca058cc79a042263ec154183f9abf21bb05f8a58d923f42d69"
+  },
+  "site/dist/assets/film-poster.webp": {
+    "bytes": 104058,
+    "sha256": "f4fd22dc7b48d3a1a54ecf6987a74dfc34a87c715f8e0d4f23dd974a3f9f84e6"
+  },
+  "site/dist/assets/fonts/noto-serif-sc-editorial-400.woff2": {
+    "bytes": 63488,
+    "sha256": "8d3fd26791efa61115cc663177ffdec525e72db0beaacb97813816c6a217d14b"
+  },
+  "site/dist/assets/fonts/OFL-Noto-Serif-SC.txt": {
+    "bytes": 4444,
+    "sha256": "64538aaa923b7e75559725ecf64eff7b18f623857b8e6d31a7347743ab27e907"
+  },
+  "site/dist/assets/food/chenpi-dishes-480.webp": {
+    "bytes": 24816,
+    "sha256": "672e562f20406c53c7336ee21d1ea24507b4bb47e0bea50d61818e7a22d94461"
+  },
+  "site/dist/assets/food/chenpi-dishes-960.webp": {
+    "bytes": 70576,
+    "sha256": "98e8b254c17f40dfa1d36b0ef2e2737004800ebbdf2daf6a6c3af49d268e0ccd"
+  },
+  "site/dist/assets/food/chikan-tofu-480.webp": {
+    "bytes": 20038,
+    "sha256": "1897a998d9e36ffad47c75161bee74f7f8dc1f4ae63b19d7b0c41afbd25e2a50"
+  },
+  "site/dist/assets/food/chikan-tofu-960.webp": {
+    "bytes": 61084,
+    "sha256": "17ce3f941673aae6164ee2525187c243f860b479f334ef867c464ce003de83e8"
+  },
+  "site/dist/assets/food/duruan-bitter-melon-480.webp": {
+    "bytes": 18510,
+    "sha256": "59eab056c3a74e4df2ddaadc91bfa617fc7290e42c93af6c1163da9ae7de0c53"
+  },
+  "site/dist/assets/food/duruan-bitter-melon-960.webp": {
+    "bytes": 51276,
+    "sha256": "f0ddca77b34a739dc4a9edd85739c323646c21e2d99bfef27a923d05a8525592"
+  },
+  "site/dist/assets/food/enping-laifen-480.webp": {
+    "bytes": 21400,
+    "sha256": "ef74acb848e6cd28c0b6cf39fcaa26650ffb3717bdb70a86bc4b50d5771c0f5a"
+  },
+  "site/dist/assets/food/enping-laifen-960.webp": {
+    "bytes": 55428,
+    "sha256": "9fa9a7522ddfca92f7ddc89b41b1c70c0de5e8702a82da94336b16d893d738ff"
+  },
+  "site/dist/assets/food/enping-shaobing-480.webp": {
+    "bytes": 20326,
+    "sha256": "73a2f16db0a3ff58d724850bdfd7165f969357f18bc11263e036ebf75183838d"
+  },
+  "site/dist/assets/food/enping-shaobing-960.webp": {
+    "bytes": 59566,
+    "sha256": "14e92a055670824f43da9f25b17aed06f236e6ee85fea0e5793eeb7503372613"
+  },
+  "site/dist/assets/food/gujing-goose-480.webp": {
+    "bytes": 30102,
+    "sha256": "0de7f6f92690929355893246dffab6e4c12cf5a2515eda8bbe077af63ce6c269"
+  },
+  "site/dist/assets/food/gujing-goose-960.webp": {
+    "bytes": 105302,
+    "sha256": "e8f567392bb54e8b3179fd245811fa1d096909b1697bcd5cf8a11af54db46ccf"
+  },
+  "site/dist/assets/food/gulao-fish-dumplings-480.webp": {
+    "bytes": 17692,
+    "sha256": "23303c11d9de5b6dd7fcee60eb93da2705d837a171650fba323d45c784ebfd37"
+  },
+  "site/dist/assets/food/gulao-fish-dumplings-960.webp": {
+    "bytes": 51176,
+    "sha256": "87ee6a8a94f0708414ddd7903c42f980024f23c98a57509d4698546182332bda"
+  },
+  "site/dist/assets/food/hetang-fish-cakes-480.webp": {
+    "bytes": 22034,
+    "sha256": "fdd08f6e16f70af900e83fdcc3511776f978424040ea66d3a1737b9e6c9b2960"
+  },
+  "site/dist/assets/food/hetang-fish-cakes-960.webp": {
+    "bytes": 68848,
+    "sha256": "86021662edb7681bb0f49a27cebc2d1701e025837ff4d1ff71357328e546400b"
+  },
+  "site/dist/assets/food/kaiping-xianjilong-480.webp": {
+    "bytes": 21014,
+    "sha256": "cc20373fb725d65f5364d946e22069b62fb3c0ce8674e618d6d85d89de864cf9"
+  },
+  "site/dist/assets/food/kaiping-xianjilong-960.webp": {
+    "bytes": 59894,
+    "sha256": "26507a94ec035a138adde3c3bf87eb4a034568660366b03308aecbff49dff04b"
+  },
+  "site/dist/assets/food/LICENSES.txt": {
+    "bytes": 3747,
+    "sha256": "09385389294938ad24d5be37b4a51c8cc31081db5204ca4f6979ec4e470ca793"
+  },
+  "site/dist/assets/food/lile-ribs-480.webp": {
+    "bytes": 18640,
+    "sha256": "6385052524ed339a638870bcfb53aeaa4f82c94757291bf60260d5f80b5950b4"
+  },
+  "site/dist/assets/food/lile-ribs-960.webp": {
+    "bytes": 48950,
+    "sha256": "efc0773349ee946d4869a1191d3c90cd1bac0a16310220f34bd19483aac82e26"
+  },
+  "site/dist/assets/food/magang-goose-480.webp": {
+    "bytes": 21604,
+    "sha256": "daa672d65c7374868e04b72369506607af230c5727351ae192f057b5e6129474"
+  },
+  "site/dist/assets/food/magang-goose-960.webp": {
+    "bytes": 69022,
+    "sha256": "73de21eeda84ec1fb49058975e28829ee3dc938d12585ab89ba9e144d4bfa9c6"
+  },
+  "site/dist/assets/food/photo-credits.json": {
+    "bytes": 9708,
+    "sha256": "f4d6ccdb074bd4e7244228e5cdd28dca0fd64a7d9ca1948ae6eac60f0003ceb3"
+  },
+  "site/dist/assets/food/taishan-eel-rice-480.webp": {
+    "bytes": 20654,
+    "sha256": "888136bf47ff76d73b683f68c4c54d3c14854413fbddd607e1542b25b47d514c"
+  },
+  "site/dist/assets/food/taishan-eel-rice-960.webp": {
+    "bytes": 56120,
+    "sha256": "b71d1109e7bc7984944e7a1598c5fa7fafe9f56eb3a25f20b79626e0c1225f3f"
+  },
+  "site/dist/assets/food/taishan-savory-tangyuan-480.webp": {
+    "bytes": 21356,
+    "sha256": "a1cef80c2785d0a556243d6a925dad63d27ce05f81f4dd1078e6f3d47e373ac2"
+  },
+  "site/dist/assets/food/taishan-savory-tangyuan-960.webp": {
+    "bytes": 65854,
+    "sha256": "e031ef66c4894bdf783670f91fc187fa962f0324fe1525e1f14eb04b43fde5bb"
+  },
+  "site/dist/assets/food/waihai-noodles-480.webp": {
+    "bytes": 26130,
+    "sha256": "a5d8cbc7e682dc7cc2a6b7a2dfe9d46e3cf0cfeabeac3668c78438a4e3e91fc7"
+  },
+  "site/dist/assets/food/waihai-noodles-960.webp": {
+    "bytes": 70614,
+    "sha256": "531b77d1a1509c8d8cc6c0823420c130d44579c53b16f07fcfe04a99b0e1951e"
+  },
+  "site/dist/assets/jiangmen-atlas.png": {
+    "bytes": 9566000,
+    "sha256": "db48225ceab816e90a212e26cef4e5545ad5ac6af4638fce4c97851679c716a5"
+  },
+  "site/dist/assets/jiangmen-atlas.webp": {
+    "bytes": 904676,
+    "sha256": "0b26093da0fa2cebd0a8677a86e0b80a6713ddba5f4b64cacf773c840c5dc1ab"
+  },
+  "site/dist/assets/qiaoxiang-letter.mp4": {
+    "bytes": 17852777,
+    "sha256": "beabfc5e51d97324068b26ab9253b41b7248ae85e8e7d6c9ace9a3f13ee951fd"
+  },
+  "site/dist/assets/scene-0.webp": {
+    "bytes": 256024,
+    "sha256": "2daf4527f34c06001a5b0a95b32d335e2b709a6cefb4af74af2386699c6f1d67"
+  },
+  "site/dist/assets/scene-1.webp": {
+    "bytes": 246060,
+    "sha256": "95bab773ede20a34c4a366b9cc6b16c19be2876c704fbaa6aeb4970ab62d8578"
+  },
+  "site/dist/assets/scene-2.webp": {
+    "bytes": 179926,
+    "sha256": "6d1efbc8aae171cea03ebd291c85886a7846e16899b81e803aba834a42f8ec10"
+  },
+  "site/dist/assets/scene-3.webp": {
+    "bytes": 196138,
+    "sha256": "b82f803274fd03aa86c2522ae4784b86ddf6c1ea95ea40edf43e7477c1fee738"
+  },
+  "site/dist/assets/subtitles.vtt": {
+    "bytes": 1441,
+    "sha256": "40bd07adcc861bbc995da73b53fbd6e2d3b57d36352527802b8fc07165880514"
+  },
+  "site/dist/assets/travel/baisha-480.webp": {
+    "bytes": 13878,
+    "sha256": "e0d6a63a63506ad23de4900214c5105b5351beb7ea7894d4ac3ddfddca156c4c"
+  },
+  "site/dist/assets/travel/baisha-960.webp": {
+    "bytes": 42062,
+    "sha256": "c6555005bd9c04ffa3c392c38c1e5b0fb9ded36c22422015c108c6a7f7ff9454"
+  },
+  "site/dist/assets/travel/baishuidai-480.webp": {
+    "bytes": 8322,
+    "sha256": "dc762f3cbd7efba15e64ff1cfce493218c13919d9fd912fb2832bc24abc5cf6d"
+  },
+  "site/dist/assets/travel/baishuidai-960.webp": {
+    "bytes": 27184,
+    "sha256": "6aa78db904b1dee1c7104183ee60293fc4b71dc836826647596207785002c813"
+  },
+  "site/dist/assets/travel/bird-480.webp": {
+    "bytes": 46692,
+    "sha256": "dd143aec1873613abbc093054f793dd858b47e98f2ab3d22b40f85e77d470bae"
+  },
+  "site/dist/assets/travel/bird-960.webp": {
+    "bytes": 166440,
+    "sha256": "1cbd7b0642b37e89311b57ac35550ea1755e51acbf85a7ce01aa4c9f6e0f0c9d"
+  },
+  "site/dist/assets/travel/chenpi-480.webp": {
+    "bytes": 21016,
+    "sha256": "c79ec2f7479395f6ae088237c95215365fd032b27de95bd9c55d720078d4dea7"
+  },
+  "site/dist/assets/travel/chenpi-960.webp": {
+    "bytes": 57562,
+    "sha256": "ae1844b27dd0c96b7de186bbbdf188d3dded0535d9afadc6c45c373e6379749b"
+  },
+  "site/dist/assets/travel/chenpi-village-480.webp": {
+    "bytes": 20720,
+    "sha256": "7d2aaea6b441ecedfaaecfd62bf1d8044d6214ad21ca17ae99fee118cd0a6bba"
+  },
+  "site/dist/assets/travel/chenpi-village-960.webp": {
+    "bytes": 81460,
+    "sha256": "3684b2ba9c7e7595363b7e8677ddbaed956dfc346fe5d474d5103fcf5c6f4f45"
+  },
+  "site/dist/assets/travel/chikan-480.webp": {
+    "bytes": 23320,
+    "sha256": "8615b30a99bc8834a1a0340177082b4d5e2530070fe0b5993cf640c8bffd72b4"
+  },
+  "site/dist/assets/travel/chikan-960.webp": {
+    "bytes": 88828,
+    "sha256": "c5e9aa31143590832acc677781aec025485468ec2e7c83ce7c5a414e484bd9fb"
+  },
+  "site/dist/assets/travel/chuandao-480.webp": {
+    "bytes": 7556,
+    "sha256": "b6adbe2a27818f3ea21eb2e2a9280b0c78dd34951c23d5d5b4f780e302dda46a"
+  },
+  "site/dist/assets/travel/chuandao-960.webp": {
+    "bytes": 26058,
+    "sha256": "1db464798b5a893d84333d00af6966a09fc2393700e432e7d69d4835ce7c603f"
+  },
+  "site/dist/assets/travel/dayan-480.webp": {
+    "bytes": 7566,
+    "sha256": "ffaf44ed386825f6a331b91588ef5d94e687511379543052626157a7ecfc191b"
+  },
+  "site/dist/assets/travel/dayan-960.webp": {
+    "bytes": 30584,
+    "sha256": "8f9939545217407fab0edd4879deb039cd7f406abe427d9a9adfb2c15d017449"
+  },
+  "site/dist/assets/travel/guifeng-480.webp": {
+    "bytes": 28992,
+    "sha256": "4cfa162cfcd5209eb6db01570228e2b67ae3d02970fc9cc64a73175f96e2084e"
+  },
+  "site/dist/assets/travel/guifeng-960.webp": {
+    "bytes": 120248,
+    "sha256": "960b0760f1f98b3359f1e1f007d800f09a947049e3304b64c12f519a77157da4"
+  },
+  "site/dist/assets/travel/gulao-480.webp": {
+    "bytes": 44068,
+    "sha256": "b420f18ca78a903fc8c813d1255ffa224f38d54a5784e232d93402f95c71fc53"
+  },
+  "site/dist/assets/travel/gulao-960.webp": {
+    "bytes": 182824,
+    "sha256": "34971dce0fa0099f7aedd02975ae9553946df4013ed5c5bc289601ccd5abf81e"
+  },
+  "site/dist/assets/travel/haikoubu-480.webp": {
+    "bytes": 21458,
+    "sha256": "8c8f81c3739a98581291c60020595ee16a1e86348f791389b3a840d44a8a31af"
+  },
+  "site/dist/assets/travel/haikoubu-960.webp": {
+    "bytes": 80976,
+    "sha256": "dc8b9a847215dac294bd8a0d23ebc5c200668f9d3eb0314e3598e0232e275b07"
+  },
+  "site/dist/assets/travel/jinjiang-480.webp": {
+    "bytes": 34788,
+    "sha256": "0c8fc67b34f01d6316daa3e0a1dfeda43f81df7789b0e0290a33a664a0dcffe3"
+  },
+  "site/dist/assets/travel/jinjiang-960.webp": {
+    "bytes": 54476,
+    "sha256": "707a08bfcf1508ae3a58a53dfcc37f672bd026e75787a684952627e68d29738e"
+  },
+  "site/dist/assets/travel/liang-480.webp": {
+    "bytes": 25760,
+    "sha256": "1f5f3e11c9b2fcc8c96a0266122cbdb7761b50047b94237d7842cd6d21b9099d"
+  },
+  "site/dist/assets/travel/liang-960.webp": {
+    "bytes": 107800,
+    "sha256": "44bf314a57686e745b1d1a62190ab19a814ed2387b81248751f97c76c7e9ad33"
+  },
+  "site/dist/assets/travel/LICENSES.txt": {
+    "bytes": 8297,
+    "sha256": "a17ef75b247bbfa97bf08b5ac04b2d71ed9267eecad8fcdf541a27766e675213"
+  },
+  "site/dist/assets/travel/liyuan-480.webp": {
+    "bytes": 9702,
+    "sha256": "aecf3570546867c876067dc0f038e1d5b23cbde697e39f5c0299b59dd4211298"
+  },
+  "site/dist/assets/travel/liyuan-960.webp": {
+    "bytes": 29102,
+    "sha256": "dcce6d91a6f6f07ec0c1a44a07e4ba073f6c135b2b6538024dd5dfc6491fc4d0"
+  },
+  "site/dist/assets/travel/longdi-480.webp": {
+    "bytes": 23962,
+    "sha256": "f692b68f661260f831554be7dca5b34d2082b483cd428bf55c63534f40edd341"
+  },
+  "site/dist/assets/travel/longdi-960.webp": {
+    "bytes": 76826,
+    "sha256": "6461a5351b81fba60ca48657145c089f0fed147d7eee65e669d2d814750190dc"
+  },
+  "site/dist/assets/travel/majianglong-480.webp": {
+    "bytes": 35264,
+    "sha256": "c648a6362480b819edba950826874faa8eda940ae4cc91103f8046ab660aaa01"
+  },
+  "site/dist/assets/travel/majianglong-960.webp": {
+    "bytes": 173136,
+    "sha256": "363d2e3312b48c603ea0c06ade1c75140a9e3864a9fe892afb1c291f44a2393d"
+  },
+  "site/dist/assets/travel/meijia-480.webp": {
+    "bytes": 29782,
+    "sha256": "7c33318b13fafd3fe9fd0097803eb9aef89450be4fee4655dc5d691d38091c99"
+  },
+  "site/dist/assets/travel/meijia-960.webp": {
+    "bytes": 139152,
+    "sha256": "c2827d7189ea0c9c64e25164c2ae6fcce73794df3d64402fba265e98ae7d765f"
+  },
+  "site/dist/assets/travel/photo-credits.json": {
+    "bytes": 20386,
+    "sha256": "a090e383138e967de61215d3e484a4f1d0dd79a5ceed883ee8c7f305ab8a58c6"
+  },
+  "site/dist/assets/travel/qiming-480.webp": {
+    "bytes": 50596,
+    "sha256": "4252697025d7f1b0cb8a9b72c831d4bccefec6971b9f904b73c62c67a4815655"
+  },
+  "site/dist/assets/travel/qiming-960.webp": {
+    "bytes": 227006,
+    "sha256": "0bc4394a4966f4dff89d37951c6572b92d14f57cdce2248622defd948d5aeb4a"
+  },
+  "site/dist/assets/travel/shaobai-480.webp": {
+    "bytes": 44246,
+    "sha256": "a077f43836d4a695b5065f618ac45c564884687ab662f1d4f18b277630b597d2"
+  },
+  "site/dist/assets/travel/shaobai-960.webp": {
+    "bytes": 74624,
+    "sha256": "46b7431a01fb7efc7fe1128a4c50957c0295a77618df2e68943810f6144d445a"
+  },
+  "site/dist/assets/travel/xiema-480.webp": {
+    "bytes": 29676,
+    "sha256": "435572c8817177f7b7d063ad8f99b893d802ba8970413c7653d8ed574312d5e4"
+  },
+  "site/dist/assets/travel/xiema-960.webp": {
+    "bytes": 46522,
+    "sha256": "46fee895f5f47d9c71cacca68e3e64e415264f5f59031352cf6600667e641a19"
+  },
+  "site/dist/assets/travel/zili-480.webp": {
+    "bytes": 22862,
+    "sha256": "c1552a883b5abd223712fba6204e778109fd5bec321a8ebd05f6f9cc8fcabee9"
+  },
+  "site/dist/assets/travel/zili-960.webp": {
+    "bytes": 94838,
+    "sha256": "6cb0be39b3639a40e2becb57a35e08377d28d21146a3f60407c666dafa33e8c8"
+  },
+  "site/dist/chapters.js": {
+    "bytes": 2216,
+    "sha256": "2cc43eccb8c68d9298bfee6760394b9c848acd7472580c367f45c7c75b6d490b"
+  },
+  "site/dist/common.js": {
+    "bytes": 3674,
+    "sha256": "fe06e855721be58ee973e26c46c0e45349b1dd9098f2a564a8b75142ae37649e"
+  },
+  "site/dist/daily-letter.css": {
+    "bytes": 4881,
+    "sha256": "7d654a39c678eacc2c4088e3e98d7b5275a0b008ec2529da816bcb99cc7d23b8"
+  },
+  "site/dist/daily-letter.js": {
+    "bytes": 2937,
+    "sha256": "ae40a83ce7e396b122a175ad9b850d6c03a11fb45e6b21eeb770c1a96e317847"
+  },
+  "site/dist/faq.css": {
+    "bytes": 5398,
+    "sha256": "cf899d809e3930671dbe3817ccede9e195091e7bd3ac41084a77e06eeaeaab78"
+  },
+  "site/dist/faq.html": {
+    "bytes": 195371,
+    "sha256": "0fb5ab105df5d1c5e4851616c27ad5f67fbf766ba2e8955e1ca34bc04ad40d8f"
+  },
+  "site/dist/faq.js": {
+    "bytes": 4914,
+    "sha256": "cc31f75defdd464614cca57c8d36f381d5a3fcb6a7526b21d4d5564c4d69bec7"
+  },
+  "site/dist/food.html": {
+    "bytes": 63652,
+    "sha256": "54284daf5ecc1fceb2928a9d2d2807bf9bcd187defb800303533ee2ac7c7e198"
+  },
+  "site/dist/guide.css": {
+    "bytes": 13642,
+    "sha256": "aec3050086effd69d3a10726912b025a801f8fac6ceb3aa877fd35736c6c2834"
+  },
+  "site/dist/guide.js": {
+    "bytes": 10578,
+    "sha256": "79a63067d550564cfb5ca12397509d6237b66559179e5cfc05de2b528b7bd878"
+  },
+  "site/dist/index.html": {
+    "bytes": 73362,
+    "sha256": "edbd90711f9ef6c3070167777ddd8023aff4a3a1c2291404c91d5d33b613d8a6"
+  },
+  "site/dist/letters.css": {
+    "bytes": 2353,
+    "sha256": "e2cea36eab7556b493536dd9264f3f7260fb74ca7417d062af1d47ce7d0da389"
+  },
+  "site/dist/letters.html": {
+    "bytes": 21529,
+    "sha256": "43fbef639c6d46c8e1636301daceb3049bc80ed490413528249de06d2ddf651a"
+  },
+  "site/dist/pages.css": {
+    "bytes": 10554,
+    "sha256": "38a55197d058a1804d30c9cd846639b8474feb3f38b8730b4d793f7b64d3af07"
+  },
+  "site/dist/polish.css": {
+    "bytes": 5529,
+    "sha256": "bbe9c7b0ec907d905aa276e9efb7382b9086318ece985787a2be704d974ff745"
+  },
+  "site/dist/polish.js": {
+    "bytes": 5620,
+    "sha256": "81574c62b030e9f77bd554dae9c05dbdc583511f389cc25aaa245d3024221182"
+  },
+  "site/dist/postcard.js": {
+    "bytes": 19242,
+    "sha256": "43c165deb4aa0df30837167dce1724c7c03a3aee1707cd94d86f2003670875d2"
+  },
+  "site/dist/presentation.css": {
+    "bytes": 7223,
+    "sha256": "8693f6e6559fa267cc21f57382231cd6a779044d5e2d9b048c5afd69445d368a"
+  },
+  "site/dist/presentation.js": {
+    "bytes": 2351,
+    "sha256": "d02e2bbcefcd0c930795c2274b1c29e16847066022dabde4f2267d84c3b4bdea"
+  },
+  "site/dist/readability.css": {
+    "bytes": 3205,
+    "sha256": "bdfa02dcc94a36e32011d4b9a8cacb3115aa472fde962a6b597c9b03fc1253ac"
+  },
+  "site/dist/route-finder.css": {
+    "bytes": 5117,
+    "sha256": "fd1fbd8b17c16b806c3bedda00ecb915578f06af58271fb0cc15260f321493b2"
+  },
+  "site/dist/route-finder.js": {
+    "bytes": 2168,
+    "sha256": "215bd260f339ca435d3e4dae9ebed21a3e2f96bc0ccb36ee7acd0fafe865c13c"
+  },
+  "site/dist/routes.html": {
+    "bytes": 44351,
+    "sha256": "f7666de0c4276ec11adbb46490496cb348db1b046db7d40ce532aa41462528b5"
+  },
+  "site/dist/site-0b19d0ba6bbf.css": {
+    "bytes": 51137,
+    "sha256": "f6e6e69f20663bc4484820c12f98285177cb5f77d52ebeb7b673ea8fa1bd1366"
+  },
+  "site/dist/site-1463b3de32f1.css": {
+    "bytes": 71153,
+    "sha256": "5e0eea578479729f6d8202b2c248e83f4360f2178ff81655335d8ab7460f8c3f"
+  },
+  "site/dist/site-42f3e7403847.css": {
+    "bytes": 49990,
+    "sha256": "9cac7fec517532ae13aab9abfee9bca239e42c0f5ca0d61e3ab5ce7a864321c4"
+  },
+  "site/dist/site-472b389f5065.css": {
+    "bytes": 85516,
+    "sha256": "3ba6c34a17fbfa016a92618ac2c96d7bfc5aca4ccac22b16b54f2661c6f7538e"
+  },
+  "site/dist/site-493004b95a02.css": {
+    "bytes": 71151,
+    "sha256": "ce3a17474516fe36aa37798c8a48797cf55885a85d55c9176df3dccd0a56e8a1"
+  },
+  "site/dist/site-606f56fb6dc1.css": {
+    "bytes": 51138,
+    "sha256": "0ed2f567976d678df8bf8378660e0238aaba152b702a2983a5b59c5bcc33a89b"
+  },
+  "site/dist/site-8ffb5d965ab6.css": {
+    "bytes": 86560,
+    "sha256": "630a0887ec81c48a4819018cc77cbf1202d58ebfff9162dc3069231f51e5217b"
+  },
+  "site/dist/site-b52d4b498bf3.css": {
+    "bytes": 48374,
+    "sha256": "c5f4cc601023fef11ad3a28631e97b2d2ac667edbdf2f956ca4f31e20ef9caf3"
+  },
+  "site/dist/site-bdc4d204255a.css": {
+    "bytes": 98679,
+    "sha256": "a65e9d4a006ae824ce7c91c55b91d165b10f95a312c3c28b59578f82e624607b"
+  },
+  "site/dist/site-c666b7cfb9fd.css": {
+    "bytes": 51198,
+    "sha256": "69685b05898b3fd23a22ef8e64cee35cb283477d09aecda33d3c1cbf6ffeb85d"
+  },
+  "site/dist/site-e11d0340c1e6.css": {
+    "bytes": 50314,
+    "sha256": "249c79798191d90eb83cad634462a6239ae49afa3a875c4985673b2308d5f074"
+  },
+  "site/dist/site-e61dc6a78034.css": {
+    "bytes": 51262,
+    "sha256": "f2a66da2db5d5c2b1a0cf4fc3a371b1a44a9a89cdaea3d284156e79cc3742e5c"
+  },
+  "site/dist/site.css": {
+    "bytes": 98679,
+    "sha256": "a65e9d4a006ae824ce7c91c55b91d165b10f95a312c3c28b59578f82e624607b"
+  },
+  "site/dist/stories-data.js": {
+    "bytes": 2209,
+    "sha256": "25094bef4df6e70eeb4c17cdc291cbb05c633f95e5d3a7bc37162bc56ceabc26"
+  },
+  "site/dist/stories.html": {
+    "bytes": 13490,
+    "sha256": "b3ee6f6d95835a2f0bf39b974223e483a18a375112af952233070f0d70204094"
+  },
+  "site/dist/style.css": {
+    "bytes": 21668,
+    "sha256": "16772ef7620dee5278915969d35e60aab2f15365a4e40bcf72eadea7cdedb8e4"
+  },
+  "site/dist/theme.js": {
+    "bytes": 2294,
+    "sha256": "f84677058650e8897d8408606bd07f02e6bbe022007c8a41f0b91c7ed909358c"
+  },
+  "site/dist/tokens.css": {
+    "bytes": 4577,
+    "sha256": "08430b8fe10f7563826f171935bbc6816fa4338135b2591209af1685fd041303"
+  },
+  "site/dist/tour.css": {
+    "bytes": 2374,
+    "sha256": "f98559c42dac4ff809f0c2dbb761026754f6b7ac8adfc435ca4148c0be70599d"
+  },
+  "site/dist/tour.html": {
+    "bytes": 8882,
+    "sha256": "bf2e3ea19925e503717edb9fe06ec2316074cf5021fdb9f6f00dd29f89ba5781"
+  },
+  "site/dist/travel-experiences.css": {
+    "bytes": 1704,
+    "sha256": "77ab8207bbfa1e74ff1744b1923dd7baa22c52a37756ccc267d84dd4eb24ddf9"
+  },
+  "site/dist/travel-passport.css": {
+    "bytes": 9946,
+    "sha256": "2e5a4054cb40f5e679b6710be1948c860d393d359b661c42a7ff50632337eb85"
+  },
+  "site/dist/travel-passport.js": {
+    "bytes": 17112,
+    "sha256": "9129906c582b5894886beb079fd8d5935115b02ecd586c12437ec2043e8fc749"
+  },
+  "site/dist/travel.html": {
+    "bytes": 113935,
+    "sha256": "57c2dbf69fb2ebed50187bdb675ae11af54a029162eaf6401d291440b7922b3a"
+  },
+  "先读我.txt": {
+    "bytes": 2972,
+    "sha256": "e0a413297c22b7c4dc77ab758ff5327b0627f22c2cb52beef3cf813c4ec16caf"
+  },
+  "制作源文件/browser-runtime.cjs": {
+    "bytes": 1346,
+    "sha256": "b825ce55c8145ed2588fd861d609cf86b77ab0bc6872a6f92c051bad00a9e6c3"
+  },
+  "制作源文件/build-food-photos.py": {
+    "bytes": 7662,
+    "sha256": "993fe181d99f9b1bed6df85fd53af837a9687623e1a6850104622bb0751003a5"
+  },
+  "制作源文件/build-title-font.py": {
+    "bytes": 5248,
+    "sha256": "54128d4e8b3234bfa4032525a0d9da116ad22676405ee04d3ab0a4984f0ff445"
+  },
+  "制作源文件/build-travel-guide.py": {
+    "bytes": 30935,
+    "sha256": "163e9762dab2d2c62fefdd6a7f9937ef5ae3b43b8db3ff31a448dab1f5339f8e"
+  },
+  "制作源文件/build-travel-photos.py": {
+    "bytes": 4964,
+    "sha256": "6b6ce606b17493e75c8bdead2872988355c92a60596280dd06c889a1a0665dd8"
+  },
+  "制作源文件/build.py": {
+    "bytes": 991,
+    "sha256": "7f97e49b2b334efda174813c8dfe15d723bfd72408c87f227dd523bf1724d70b"
+  },
+  "制作源文件/experience_faq.py": {
+    "bytes": 9421,
+    "sha256": "f2f14e47f9f8831bad556d9c3cda630d923f6c56b8535f22492ba6c33b47abf9"
+  },
+  "制作源文件/experience_letter.py": {
+    "bytes": 6544,
+    "sha256": "547e1f7fa6ad6dc3b8581dee60d96ce71178c729286ebcf98deb2fbb825ea774"
+  },
+  "制作源文件/experience_pairings.py": {
+    "bytes": 6687,
+    "sha256": "14bbdae802e4cd7f90b9a7bac1b12018ad6db68a954effb2c73baf83ce966155"
+  },
+  "制作源文件/experience_passport.py": {
+    "bytes": 6407,
+    "sha256": "8771e76068dd60e8048d37d70fe0698c21e1236ea5eed5a37bef8c0d667f7d9d"
+  },
+  "制作源文件/experience_presentation.py": {
+    "bytes": 5186,
+    "sha256": "f77cba338cca0ec35f413c1ac8e1d197a37f827674c8760f789a485dfa4a2d7f"
+  },
+  "制作源文件/experience_routes.py": {
+    "bytes": 10207,
+    "sha256": "fd3301528c03a7058d7c8c8515cb6fa762f99eebb3eacac6a85021d0b7e72a3d"
+  },
+  "制作源文件/experience_tour.py": {
+    "bytes": 2823,
+    "sha256": "6e9d2e3a353ed9dad6aa08fb632cbad78895055e35714bb126a833efc91da3d5"
+  },
+  "制作源文件/fixtures/legacy-site.css": {
+    "bytes": 45263,
+    "sha256": "18af6b21e869641815b9748c0b326633b555faa3930b621ff95c3f3e9d516aa8"
+  },
+  "制作源文件/optimize-assets.py": {
+    "bytes": 3779,
+    "sha256": "5f2118e8ea4b34ae21bc74dac222ca5c46cc72024d843b0269cb063c8d200e80"
+  },
+  "制作源文件/package-final.py": {
+    "bytes": 14097,
+    "sha256": "e5c1b7286410b3b124e79a4e1c30dab86b64f7813b4462be723d0f2a7cb52747"
+  },
+  "制作源文件/package-static-host.py": {
+    "bytes": 4640,
+    "sha256": "e9329d21720afa36537f96c3e178e42ad98fea1a4cbd731f4f5f5c5f2c29dce7"
+  },
+  "制作源文件/release_files.py": {
+    "bytes": 849,
+    "sha256": "921b2a11ae7be09d4152d5d35c7ca486fa33c15f1bd58763d6fb5c6e1b140de6"
+  },
+  "制作源文件/verify-adopted-static.py": {
+    "bytes": 4541,
+    "sha256": "591137a5564e26744494f7671da9e4b496ec6f2cf7b175c9616e613a8f503289"
+  },
+  "制作源文件/verify-chapter-carousel.cjs": {
+    "bytes": 11877,
+    "sha256": "8c00b769a4f1580de98f593a9494a84f5030c08313d01f8e78c0c7ac1c6b5670"
+  },
+  "制作源文件/verify-daily-letter.cjs": {
+    "bytes": 7848,
+    "sha256": "d494bd1e71f0fda82ee54d1313c1a56e22af904b30f1f9b12dac82eabfb73f29"
+  },
+  "制作源文件/verify-daily-letter.py": {
+    "bytes": 5012,
+    "sha256": "fc9267df8631bc449e9170b85a55425c21385339e5bb88905e5e98355183e10d"
+  },
+  "制作源文件/verify-faq-integration.cjs": {
+    "bytes": 7743,
+    "sha256": "024752c18328ca04daa0c7ae798285e18298d8122686da12d501b49fb96c46ff"
+  },
+  "制作源文件/verify-faq.cjs": {
+    "bytes": 8171,
+    "sha256": "da55a2924910a236df71513ef8732fef7875c955daef30e84818f4dc99e24542"
+  },
+  "制作源文件/verify-faq.py": {
+    "bytes": 4032,
+    "sha256": "0fd7dea699e60f386f4298363ce0063d3847f3124239ba35695b028dbb7873b4"
+  },
+  "制作源文件/verify-mobile-layout.cjs": {
+    "bytes": 8429,
+    "sha256": "052a4b836d281b82012f3d6f095b3a996b8a1484b9b6be1fdd36e81863615f4b"
+  },
+  "制作源文件/verify-presentation.cjs": {
+    "bytes": 8021,
+    "sha256": "ee03c581fe18c8ec752c40b0425b9f24a4322581f0b78a44fd09b92ebce6bd22"
+  },
+  "制作源文件/verify-presentation.py": {
+    "bytes": 3319,
+    "sha256": "918e403fb3cb1abd6d0ca6f5b78ec52a25512275155046cae8f335cc4ba11553"
+  },
+  "制作源文件/verify-qa-coexist.cjs": {
+    "bytes": 5672,
+    "sha256": "3b8caea6c4097b27f1c67015ea9d15ad4c611c819618cbf3b8f814969805e739"
+  },
+  "制作源文件/verify-reading-tools.cjs": {
+    "bytes": 8035,
+    "sha256": "f5cc64d19211911b0721fb0594b38c78cd0b6129c2b25fdfc2921ea5a7189015"
+  },
+  "制作源文件/verify-sdk-integration.cjs": {
+    "bytes": 3441,
+    "sha256": "49a9156fad5bd0d35b72e528586d697ef0ad980db9f207b9e48548231817785e"
+  },
+  "制作源文件/verify-theme-ui.cjs": {
+    "bytes": 12856,
+    "sha256": "bb7a920a6f8cb978502ed23fa9e60ac74718fe5219fcdef9c0b7b4984bf1adf5"
+  },
+  "制作源文件/verify-title-typewriter.cjs": {
+    "bytes": 5526,
+    "sha256": "11b20b081e34dfacb9302d33f39667e187d5fe9df62b0c32918cf7819bb2a135"
+  },
+  "制作源文件/verify-travel-build.py": {
+    "bytes": 3593,
+    "sha256": "114a5327b489163c3a3d14b82448efa006a635ccdfa0777ae60be7ddbe331b3d"
+  },
+  "制作源文件/verify-travel-experiences-passport.cjs": {
+    "bytes": 11204,
+    "sha256": "4efa91c415c4adfb8e7ac80c88ef0fd2edff2c75a73fb61c5530b3ec0b1acf10"
+  },
+  "制作源文件/verify-travel-experiences.cjs": {
+    "bytes": 9784,
+    "sha256": "7c4807cd12e12533cfab13eb4d5666de794db9c6263a83143466ef61d6f6860d"
+  },
+  "制作源文件/verify-travel-guide.cjs": {
+    "bytes": 13273,
+    "sha256": "7c3ea13250ed65c4b9af11046eddfd5058fdeee960a661e76810eaffef390950"
+  },
+  "制作源文件/verify-travel-passport.cjs": {
+    "bytes": 11282,
+    "sha256": "336e75f256d12b62c556cb222dc0827b563ce76311b7b6c024aac04144706efc"
+  },
+  "制作源文件/verify-travel-photos.cjs": {
+    "bytes": 15295,
+    "sha256": "68b54a725622931bdc97ec6731140a1c1be3d31b895b31394bc129026ae8f85e"
+  },
+  "制作源文件/video/atlas.png": {
+    "bytes": 3022063,
+    "sha256": "9303869e66fa298cf203deb96f060c888b75aed5a792a59e0f8b0939acf625fd"
+  },
+  "制作源文件/video/DESIGN.md": {
+    "bytes": 1843,
+    "sha256": "99f16648139f14cf8f92e80facd14f08b54eaec0738d2fcb3a8fc49476363753"
+  },
+  "制作源文件/video/hyperframes.json": {
+    "bytes": 318,
+    "sha256": "53dbce1e19aa713cbb12ee0bc4d206143b45ab15e6ffbfcaa8f69572d4d24d50"
+  },
+  "制作源文件/video/index.html": {
+    "bytes": 9847,
+    "sha256": "ac9a6a4718e9c75aa10c36e8b6f6e8507acaedc2dd9c45c041224742574a8548"
+  },
+  "制作源文件/video/make-video.py": {
+    "bytes": 6422,
+    "sha256": "0d2bfcd45bfebe76b0ef032b609ae6860032580c081d01071e86c62961f24055"
+  },
+  "制作源文件/video/meta.json": {
+    "bytes": 81,
+    "sha256": "ebbf27b8d63b57b6aa1f543092245ea8feb87683c15f50e3d9fa87a842ceaa14"
+  },
+  "制作源文件/video/mix-final.py": {
+    "bytes": 1478,
+    "sha256": "3b246bb0164281db63b2b4783111ab4373c51cf1581e9b8195b00f855a766c83"
+  },
+  "制作源文件/video/music.wav": {
+    "bytes": 11642444,
+    "sha256": "14654db679addc44feb647dd33c7ee2032334f497847c532802c49aeefa3f005"
+  },
+  "制作源文件/video/neural-narrate.py": {
+    "bytes": 1220,
+    "sha256": "f4f7be11c9836d07b90fcc1e1b742aaee299ccb6bd456c843066f0f01ef77eda"
+  },
+  "制作源文件/video/package.json": {
+    "bytes": 294,
+    "sha256": "57ab516f25ce2a46e8b01db0e0042ea6260ed893b32ce98fa8478e20a918d169"
+  },
+  "制作源文件/video/scenes.json": {
+    "bytes": 2264,
+    "sha256": "dde48fede77721feaf5ddefbcd1752f6694aa8c9b32ac29f81f11c061129039d"
+  },
+  "制作源文件/video/subtitles.srt": {
+    "bytes": 784,
+    "sha256": "5faed28a6dc8739ed8450bcb804c849b8c2edd79619b3c717ce7ff1c9fbdb845"
+  },
+  "制作源文件/video/subtitles.vtt": {
+    "bytes": 776,
+    "sha256": "f3c73df10be68d734af772fc5a95d2ece8fbd819cbf15351df38555a1fbaf6bf"
+  },
+  "制作源文件/video/voice-0.wav": {
+    "bytes": 772174,
+    "sha256": "da9c26363bf1a0aad9c1bf6027f3f536fe94f4e21aa1db09100bc24abcaba148"
+  },
+  "制作源文件/video/voice-1.wav": {
+    "bytes": 680014,
+    "sha256": "fb504877c7d0ef3d0421081b57b12fd5f76ce318457ac9bb3119d8eb8f16303a"
+  },
+  "制作源文件/video/voice-2.wav": {
+    "bytes": 746830,
+    "sha256": "a071877d92cfa4b9f1b6bb2643fab70f5caa80a9c98060be44dfd4350e488221"
+  },
+  "制作源文件/video/voice-3.wav": {
+    "bytes": 785998,
+    "sha256": "2cfbcfdb8efa3d709795f30ab06199b25cfe878bd8f90b02d6e027b45ad9b2d6"
+  },
+  "制作源文件/video/voice-4.wav": {
+    "bytes": 924238,
+    "sha256": "68849d3066faa11687abec72016dcc2e1864b139a20319f87689f6fac50fad41"
+  },
+  "制作源文件/video/voice-5.wav": {
+    "bytes": 746830,
+    "sha256": "1293d024d0ab4a007881cfeaab6e4616f69e485c070c6b493ff3ed7ba0ad6bc8"
+  },
+  "制作源文件/video-v2/ambience.wav": {
+    "bytes": 19008102,
+    "sha256": "ae8857bdd5f334e03e92df8070a0fd3a0f9f43f10d2bb5f5d502c9ea734a87c7"
+  },
+  "制作源文件/video-v2/audio-report.json": {
+    "bytes": 5623,
+    "sha256": "7579c6ac208ccb4bb2d92b301802cb4409b1d8d897ca82469331a87332b6a86a"
+  },
+  "制作源文件/video-v2/build-audio.py": {
+    "bytes": 11678,
+    "sha256": "927bd744be8b68ed80d16e305d028eb037a578a2f4395270f56e0c487143dfe7"
+  },
+  "制作源文件/video-v2/build-video.py": {
+    "bytes": 7624,
+    "sha256": "c640e7550e5bed78f31e4d180c6d668c97e155b864f28aa5f312698ee5de929a"
+  },
+  "制作源文件/video-v2/captions.json": {
+    "bytes": 2219,
+    "sha256": "4fb76e283fe0078923ccb6566f535d4c8cb926b698d0ba9397428b63c0bfd106"
+  },
+  "制作源文件/video-v2/DESIGN.md": {
+    "bytes": 1293,
+    "sha256": "01c1f33c67fb25b77681517deb5ad7b87e1e7b406c9db17520c90b7e74b94c59"
+  },
+  "制作源文件/video-v2/final-mix.wav": {
+    "bytes": 19008102,
+    "sha256": "75f9f7e5ecd17b3da43889d6b867a8b3d3b917fcfc8691baa0c16f98222d36d9"
+  },
+  "制作源文件/video-v2/gsap.min.js": {
+    "bytes": 72779,
+    "sha256": "c174bfce53a729418d57a8ad8625e7247c793a22fef8e2851e3cfa3de9cd8280"
+  },
+  "制作源文件/video-v2/hyperframes.json": {
+    "bytes": 271,
+    "sha256": "42cd313092d63233fc669af475a8390c25922ce03149fbd904b7d17eee8a1ddd"
+  },
+  "制作源文件/video-v2/images/architecture-prompts.json": {
+    "bytes": 8436,
+    "sha256": "d5956d26f099d3d1881444741f653a2be87d26b2bea5ad93dd1ec1bf975c3a9a"
+  },
+  "制作源文件/video-v2/images/letter.png": {
+    "bytes": 2495600,
+    "sha256": "164eba7e4900b24267535f676561e46febea41974c33c43c61c78c0ba8c86397"
+  },
+  "制作源文件/video-v2/images/peel-detail.png": {
+    "bytes": 2264759,
+    "sha256": "f025106d6b792130e42ead2e89ab88f92415c896ed8018427e5362a91edb7a7d"
+  },
+  "制作源文件/video-v2/images/peel-wide.png": {
+    "bytes": 2523231,
+    "sha256": "a11ac64b0a1088646474f546f2cc8f98bba2f155bf41dddd45177f4cc33b19db"
+  },
+  "制作源文件/video-v2/images/river-detail.png": {
+    "bytes": 2204192,
+    "sha256": "66366865a6304c2028bae763741bd3a704bf25d0307a15116c167f2adc91ffc2"
+  },
+  "制作源文件/video-v2/images/river-peel-prompts.json": {
+    "bytes": 9779,
+    "sha256": "2ae4319a50bd5a4c33716e337520db74fd03dd95069c4ce88ece35e7773f58ed"
+  },
+  "制作源文件/video-v2/images/river-wide.png": {
+    "bytes": 2342745,
+    "sha256": "3bdc813cadd82a1dac6c515b369ddc1e3dc81c0af0f0d777f8149825a8a3db11"
+  },
+  "制作源文件/video-v2/images/street-detail.png": {
+    "bytes": 2743815,
+    "sha256": "33fde9703e362ccec3c21497d87e8f1d40caae644490245f440db0c65b22fa89"
+  },
+  "制作源文件/video-v2/images/street-wide.png": {
+    "bytes": 2696457,
+    "sha256": "818820048aa488304bb043607e07871238e2088f6d48f81469957be3e833dcbd"
+  },
+  "制作源文件/video-v2/images/tower-detail.png": {
+    "bytes": 2709810,
+    "sha256": "11145082e27c320cf82e2bd16c9039604e4dc636548f911e77efa277c0f7a341"
+  },
+  "制作源文件/video-v2/images/tower-wide.png": {
+    "bytes": 2736929,
+    "sha256": "db0089742b1008bb5d90ae056c497c76e7405fe27a3f5d3ea15dd30f642c159e"
+  },
+  "制作源文件/video-v2/index.html": {
+    "bytes": 16740,
+    "sha256": "fbd660ced6e017b23f3078d9ac485af50673ea8d616084e0c64677a4068084b7"
+  },
+  "制作源文件/video-v2/meta.json": {
+    "bytes": 286,
+    "sha256": "2d3595b4ab7b5c9db15289fecb72b223de6c1e80bdb88f01258ff6d4abd706e2"
+  },
+  "制作源文件/video-v2/music.wav": {
+    "bytes": 11642444,
+    "sha256": "14654db679addc44feb647dd33c7ee2032334f497847c532802c49aeefa3f005"
+  },
+  "制作源文件/video-v2/package.json": {
+    "bytes": 272,
+    "sha256": "afc62bce4c8e3ec4af5c82c14924fe749d7a5d8c286b94080fca669c90bb8853"
+  },
+  "制作源文件/video-v2/scenes.json": {
+    "bytes": 1909,
+    "sha256": "a268b4105c538e7fc27eda5423ad26b513a269927de71f44fc159b42a18795ba"
+  },
+  "制作源文件/video-v2/subtitles.srt": {
+    "bytes": 1522,
+    "sha256": "b9d0f37236adc4e1f527a186a1495da706bebb4459d7ab2c3d00d0466abac143"
+  },
+  "制作源文件/video-v2/subtitles.vtt": {
+    "bytes": 1441,
+    "sha256": "40bd07adcc861bbc995da73b53fbd6e2d3b57d36352527802b8fc07165880514"
+  },
+  "制作源文件/video-v2/voice-0.wav": {
+    "bytes": 772174,
+    "sha256": "da9c26363bf1a0aad9c1bf6027f3f536fe94f4e21aa1db09100bc24abcaba148"
+  },
+  "制作源文件/video-v2/voice-1.wav": {
+    "bytes": 680014,
+    "sha256": "fb504877c7d0ef3d0421081b57b12fd5f76ce318457ac9bb3119d8eb8f16303a"
+  },
+  "制作源文件/video-v2/voice-2.wav": {
+    "bytes": 746830,
+    "sha256": "a071877d92cfa4b9f1b6bb2643fab70f5caa80a9c98060be44dfd4350e488221"
+  },
+  "制作源文件/video-v2/voice-3.wav": {
+    "bytes": 785998,
+    "sha256": "2cfbcfdb8efa3d709795f30ab06199b25cfe878bd8f90b02d6e027b45ad9b2d6"
+  },
+  "制作源文件/video-v2/voice-4.wav": {
+    "bytes": 924238,
+    "sha256": "68849d3066faa11687abec72016dcc2e1864b139a20319f87689f6fac50fad41"
+  },
+  "制作源文件/video-v2/voice-5.wav": {
+    "bytes": 746830,
+    "sha256": "1293d024d0ab4a007881cfeaab6e4616f69e485c070c6b493ff3ed7ba0ad6bc8"
+  },
+  "制作源文件/标题字体来源.json": {
+    "bytes": 6206,
+    "sha256": "4ce178b9ce84cdae7546fa6450690753e17253e7bc80edfe168e77db3dfcd147"
+  },
+  "材料/AI图像生成记录.json": {
+    "bytes": 20870,
+    "sha256": "6dc487dce94443e24cb340f87f58ac85be860f14f28c1160c8eb8685a0f9b3a4"
+  },
+  "材料/中文字幕.srt": {
+    "bytes": 1522,
+    "sha256": "b9d0f37236adc4e1f527a186a1495da706bebb4459d7ab2c3d00d0466abac143"
+  },
+  "材料/主题与视觉验收/主题与视觉验证.json": {
+    "bytes": 9121,
+    "sha256": "5acde7c7d9e10e49076630585accc6fa5dd36bcbeb28582e092aede85f140175"
+  },
+  "材料/主题与视觉验收/验收说明-2026-10-24.md": {
+    "bytes": 8367,
+    "sha256": "9a52790dac7eeb58d1a7d0523d1386b77c78d93e940152253cdcd29e2ce2a99e"
+  },
+  "材料/交互设计说明.txt": {
+    "bytes": 1260,
+    "sha256": "5f415b4aadc4f3bd26cd819fbc4476fe4a97da07ab64d6a2af9471bca131ade1"
+  },
+  "材料/今日来信验证/模块-1440.png": {
+    "bytes": 534488,
+    "sha256": "19750e5897e57ee0f7b216ba52d82000f022b476685f6c3c3b8af0bf487e6e5d"
+  },
+  "材料/今日来信验证/模块-320.png": {
+    "bytes": 232120,
+    "sha256": "3240b96373cc5d434c07a118b6db1e3e1db1064056b88cca266d382e383b20da"
+  },
+  "材料/今日来信验证/模块-390.png": {
+    "bytes": 265383,
+    "sha256": "1fd834bbfd2340207301795650811a4eeffed73e39b8807d45d5c72df45a87ea"
+  },
+  "材料/今日来信验证/独立模块验证.json": {
+    "bytes": 1112,
+    "sha256": "f8fb04e5fb05314f8b3d1005555b2cc95cbecdc598ec2020d4e331a1bd7e3038"
+  },
+  "材料/仿真陈皮图标源图.png": {
+    "bytes": 1772036,
+    "sha256": "5340d189f8781407dab093db5e23c6af75d58f1bab25026864b9e86e0f167377"
+  },
+  "材料/体验优化说明.txt": {
+    "bytes": 2155,
+    "sha256": "c7f31eac8b89b9afff0b9f447f9dc914b0d2b47dacfcf43ba5a59cd31830f8dc"
+  },
+  "材料/体验优化验证/紧凑入口-1440.png": {
+    "bytes": 110663,
+    "sha256": "51ca3aa0d7db5f73cac61ac72c025974b073897bad62e221b50bf77c6a111039"
+  },
+  "材料/体验优化验证/紧凑入口-390.png": {
+    "bytes": 102023,
+    "sha256": "b6b3878dee3d5dbbef50f5d2aab362684077c7d5ad841d8e18febbcbc1619c1e"
+  },
+  "材料/体验优化验证/视频-手机.png": {
+    "bytes": 94274,
+    "sha256": "74773013d18773aa3eeeb8c7598f6520c54436b99ee9313168d67efeec35f6bc"
+  },
+  "材料/体验优化验证/首页-1440.png": {
+    "bytes": 934105,
+    "sha256": "2cf8e67f78b708c94f94b84dd5176936d73cbd8f29b83c3514d0fa50be704ab4"
+  },
+  "材料/体验优化验证/首页-390.png": {
+    "bytes": 253234,
+    "sha256": "8ee2ea545de05e1f157b0f673f60962083151f2c2ba26bfe458e8af9fa92bece"
+  },
+  "材料/体验优化验证/验证结果.json": {
+    "bytes": 20671,
+    "sha256": "834c585d7f9ae46e3edf1a43572910d38ced74aeed94ad583dd7a2fc3ee0fcb5"
+  },
+  "材料/作品说明.txt": {
+    "bytes": 8168,
+    "sha256": "06fe4b5b2f8cf6a68c73c306ce88badee7239feddc76fc496b66799ea0f0b107"
+  },
+  "材料/修改建议采纳说明-2026-10-19.md": {
+    "bytes": 6278,
+    "sha256": "2a8819c646b3edb7eff6ad9592d4469614521261bb3883b905bab3c7d44e0aff"
+  },
+  "材料/全景点配图与旅行升级说明-2026-10-16.txt": {
+    "bytes": 4001,
+    "sha256": "7844829256817fb854f094130abd8f4077e1ca7c6012c2157c1a2b5c4c2def5c"
+  },
+  "材料/分享与打印验证/filtered-faq-print.pdf": {
+    "bytes": 264375,
+    "sha256": "fdb759759df752b699be24cd7e5661c5484da37a7ba15cc480b18d184b83b02c"
+  },
+  "材料/分享与打印验证/filtered-faq-print.png": {
+    "bytes": 267403,
+    "sha256": "7224994ac3efe8abd0d2ff5d30b9e686775cae1240ae48c753f6dd499b92cca9"
+  },
+  "材料/分享与打印验证/filtered-travel-print-2.png": {
+    "bytes": 396747,
+    "sha256": "1e71cd16f4bb5df634be947812b76a10301ccf32247a8dd44288fbcd7820691a"
+  },
+  "材料/分享与打印验证/filtered-travel-print.pdf": {
+    "bytes": 1617884,
+    "sha256": "eb6f018aa0fad67d1c735f7a1b51a51a11f5149da68042428413a9dc0c6e0d00"
+  },
+  "材料/分享与打印验证/filtered-travel-print.png": {
+    "bytes": 258133,
+    "sha256": "374e254defe2c898d6dc9aa35087c8afeb64c64fcb8cc365752c3c9dc7fdcbf5"
+  },
+  "材料/分享与打印验证/metadata-report.json": {
+    "bytes": 958,
+    "sha256": "e9a1dbfbd6f8cdd5755cb6aacdf7084a176f82e779b0060737a70a052ef717df"
+  },
+  "材料/分享与打印验证/presentation-report.json": {
+    "bytes": 923,
+    "sha256": "52594511d3db7ead0f3b2f9c77353d6182e0a2e79d033abc382b11302f88f966"
+  },
+  "材料/分镜与旁白.txt": {
+    "bytes": 2099,
+    "sha256": "abf611ab3e242681b126d04f84a28bec6de49a27005c3585e5368097b288f96e"
+  },
+  "材料/在线离线问答验证/faq-320-both.png": {
+    "bytes": 132511,
+    "sha256": "9dd76dad9e2e0e77e0aa98662a623f37c04f4174303d49a91357f9b3203f01a4"
+  },
+  "材料/在线离线问答验证/faq-390-offline.png": {
+    "bytes": 140826,
+    "sha256": "d10b5b9ad0052d9fe58e58e17f5ef4fbcd1068d4bf8734f84e616d623cd1b36a"
+  },
+  "材料/在线离线问答验证/共存功能验证.json": {
+    "bytes": 672,
+    "sha256": "929bbb193bc988b91f1ddea02d2cd8c49c05aa405a07b339d1b756f17d05511a"
+  },
+  "材料/在线离线问答验证/共存只读核查.json": {
+    "bytes": 3920,
+    "sha256": "161e58130db5aea603b2345beaf6a37d143b070394e093a1809fa0614800ea22"
+  },
+  "材料/在线离线问答验证/本轮验收.json": {
+    "bytes": 590,
+    "sha256": "b3b8c686d849871fef3049949ed855cde1f700adf565f2f7c52506bcfe8428e2"
+  },
+  "材料/在线预览说明.txt": {
+    "bytes": 370,
+    "sha256": "00f417d9c8961166257c0abed8ddb5e927fd16b2690cf00c2afa7e6019a81883"
+  },
+  "材料/多页面升级说明.txt": {
+    "bytes": 3082,
+    "sha256": "c85b38acdea184a32a26e03cf4bf81fbe38d2385c870f3d6f29ca435745dbb0f"
+  },
+  "材料/多页面验证/about-1440.png": {
+    "bytes": 1354715,
+    "sha256": "255007be8ac39d4cddf9ca2642a703a69100ccd217c7313d9eefea429116313d"
+  },
+  "材料/多页面验证/about-390.png": {
+    "bytes": 1057476,
+    "sha256": "e471dfb093fb03a01e39fae64410d54f0db1d2d53524204ef7cdc924b88cc032"
+  },
+  "材料/多页面验证/index-1440.png": {
+    "bytes": 999929,
+    "sha256": "c2706775dbbe46ee2115b239208e16e90b42ca8514d57219ab2990408326ceeb"
+  },
+  "材料/多页面验证/index-390.png": {
+    "bytes": 313104,
+    "sha256": "f526cf78d341a7125a11eaf9396c9a013fe481f8474144fb6841b5ce7b0ec78d"
+  },
+  "材料/多页面验证/letters-1440.png": {
+    "bytes": 543806,
+    "sha256": "45514770fd28b2f45952a7b1e8c93f07b59e7f207e9743673ca974723e6c1e48"
+  },
+  "材料/多页面验证/letters-390.png": {
+    "bytes": 432087,
+    "sha256": "ca55279d754b2e1cd09cdeb3e4beefee4d4cac9ca00e1b6dd09ae3caf01803e8"
+  },
+  "材料/多页面验证/stories-1440.png": {
+    "bytes": 2563072,
+    "sha256": "80e2cda6c52c9de8ef07923ebd093091322ff44172890ad95e5bc44085cd3972"
+  },
+  "材料/多页面验证/stories-390.png": {
+    "bytes": 1441501,
+    "sha256": "1f67d5c99219b6fc3f07c460fedfcfed667963851a0cb6ecc261180e76736691"
+  },
+  "材料/多页面验证/明信片-新版.png": {
+    "bytes": 2018179,
+    "sha256": "3b32723c5c66eae4c164a65876215c93d09dfeedba19bfc6b2af6781b45ba3ce"
+  },
+  "材料/多页面验证/明信片-离线.png": {
+    "bytes": 1664304,
+    "sha256": "a4445da07ce826d3121557f37d8c9271ade5e61c6d751b78c4bfff89ebb9e25f"
+  },
+  "材料/多页面验证/来信编辑-桌面.png": {
+    "bytes": 613957,
+    "sha256": "869d6202db433ab255810b4fa23fc1725538dbfaf09facbfe6e5bca6e3cd8380"
+  },
+  "材料/多页面验证/检查结果.json": {
+    "bytes": 6734,
+    "sha256": "4f17a42ad99b74e36d3a395f4e038dd90ef7eb862caf3f85b4d5292e20515f03"
+  },
+  "材料/多页面验证/边界验证.json": {
+    "bytes": 4047,
+    "sha256": "dbc5b8098bb44d3857eb19620ea1848ea82e424609869a60d8167b25cc437e4c"
+  },
+  "材料/多页面验证/集齐后的来信.png": {
+    "bytes": 29116,
+    "sha256": "97e3039edde765e0795c48d0544851094ff923584f93fdef3b1f09ddba763ba8"
+  },
+  "材料/多页面验证/首页-桌面.png": {
+    "bytes": 1035962,
+    "sha256": "8fb4f525cfb50435ddfbb258f81ecf1904d8fbcdd2927ae7bd4df200fed3fffb"
+  },
+  "材料/字体可读性验证.json": {
+    "bytes": 34842,
+    "sha256": "76d88366499b1808ae1e48c8b6fcb980bb9040233e11df7c61e455042cb45689"
+  },
+  "材料/建议优化验证/faq-1440.png": {
+    "bytes": 199801,
+    "sha256": "c5a13a94eb0fef2509e291198ac41052f666149911239db8886b28a988cedd62"
+  },
+  "材料/建议优化验证/faq-390.png": {
+    "bytes": 149633,
+    "sha256": "91b931d8fe716354d3b0e230188258d54d7917818adb45bd21f5bc35c8552729"
+  },
+  "材料/建议优化验证/faq-print.png": {
+    "bytes": 103687,
+    "sha256": "86c346d9eb13d556861915b684d01c5a7f39e1eb8b04af8f67cdc67141f65417"
+  },
+  "材料/建议优化验证/food-print.png": {
+    "bytes": 139801,
+    "sha256": "0069951f8068a88eaae31debfe7d4a01d996f88812273ae2a4c52ac0638275d7"
+  },
+  "材料/建议优化验证/routes-print.png": {
+    "bytes": 84687,
+    "sha256": "714d5d20551c182dfb4aec72f6045875442d18d0c304b1ce2fd831c49ff9a175"
+  },
+  "材料/建议优化验证/tour-1440.png": {
+    "bytes": 854975,
+    "sha256": "77680c319635463e5616a8a0167954472996776fab2a4be338f559ad19f7b385"
+  },
+  "材料/建议优化验证/tour-390-loaded.png": {
+    "bytes": 219105,
+    "sha256": "2a0918e63ce90958394d199b491291e9e798446d0df294607658adc9af469547"
+  },
+  "材料/建议优化验证/tour-390.png": {
+    "bytes": 219105,
+    "sha256": "2a0918e63ce90958394d199b491291e9e798446d0df294607658adc9af469547"
+  },
+  "材料/建议优化验证/travel-print.png": {
+    "bytes": 184568,
+    "sha256": "ac5535170e100d8633f6432e4a7bf999a5268046eb6cfb7ec739737565e9a05d"
+  },
+  "材料/建议优化验证/本轮验收汇总.json": {
+    "bytes": 797,
+    "sha256": "5a59cef9065168fa32c329bd8836a1f92456008a6add97049a8fa40e5ec506e7"
+  },
+  "材料/建议优化验证/构建并发干扰记录.json": {
+    "bytes": 1429364,
+    "sha256": "e1034488d68eda4ef9fde7332fc88042ea2d81f8e4efeb3cf654c0892281df24"
+  },
+  "材料/建议优化验证/浏览器验收.json": {
+    "bytes": 792,
+    "sha256": "6ef300ef0b1af11780ee22a0c67655ac92cc615847814d84d2ae2579e687cc52"
+  },
+  "材料/建议优化验证/静态验收.json": {
+    "bytes": 206,
+    "sha256": "908c08443e4562852a4f5285dc9e42bfd857d85d5ad20cd42ebcf092c271f60e"
+  },
+  "材料/影像升级记录.json": {
+    "bytes": 1475,
+    "sha256": "d88b27f6b6de8224b246f02bc8f55eb6f2d640b52dc53e0d0c45a8e0041791d6"
+  },
+  "材料/影像升级说明.txt": {
+    "bytes": 1604,
+    "sha256": "93305abf9286bdcc66debcc5d7e4089e741aefd731ed902db87eec11d3332ee1"
+  },
+  "材料/影像最终验证.json": {
+    "bytes": 7165,
+    "sha256": "b4192878c0a06a03b08682ce77c7a6024f215e87be84054af47b5042762c92fb"
+  },
+  "材料/恢复原客服验证/01-sdk-loaded.png": {
+    "bytes": 16660,
+    "sha256": "dff2f4245e9521cefc00331de4ec48c9bb035b414cf7040d0eecba6c4a913432"
+  },
+  "材料/恢复原客服验证/实际SDK验证.json": {
+    "bytes": 1556,
+    "sha256": "8dac56a430d52c39da775f10280447d754cc7d5a1f6a75126d22193de5986df9"
+  },
+  "材料/恢复原客服验证/恢复验收.json": {
+    "bytes": 797,
+    "sha256": "5a59cef9065168fa32c329bd8836a1f92456008a6add97049a8fa40e5ec506e7"
+  },
+  "材料/恢复原客服验证/线上HTML只读核查.json": {
+    "bytes": 405,
+    "sha256": "bf270404f54b680aef94647596c5616d8518c3a631f747605ae7086b26993185"
+  },
+  "材料/手机兼容与图文升级说明.txt": {
+    "bytes": 1947,
+    "sha256": "1f54d2d09c891ce6a4f291f9121841f206144285d8e5e1c42f0602eeed28930a"
+  },
+  "材料/手机布局回归/chenpi-card-1440.png": {
+    "bytes": 369497,
+    "sha256": "32e1ff3e2c9091de1a48ea39ecca264430b085d1d426ddbd17a112c3d541b238"
+  },
+  "材料/手机布局回归/chenpi-card-390.png": {
+    "bytes": 192224,
+    "sha256": "44bffc6ad20f53ed05ef7608eaf694d19d5b1956f30351289877d92d5cba2424"
+  },
+  "材料/手机布局回归/FAIL-travel-390-3-css-failed.png": {
+    "bytes": 817430,
+    "sha256": "bfee2c88fa3eced896d381c3142a55f0976daee1872b345fc4930af95420bbf1"
+  },
+  "材料/手机布局回归/FAIL-travel-390-3-stale-css.png": {
+    "bytes": 1114266,
+    "sha256": "6cc13495f6aa21b2b71d89be6dd538c13a409b9c0b7c446cb2f7196d4dabbeb3"
+  },
+  "材料/手机布局回归/food-390-3-css-failed.png": {
+    "bytes": 645352,
+    "sha256": "c65b4c63d22d2a0936a9e39df833e599891184748fccf599240c67362df689ad"
+  },
+  "材料/手机布局回归/food-390-3-no-aspect-ratio.png": {
+    "bytes": 1060932,
+    "sha256": "a0313606bd008d549ade757d759e46eab16da781539b38aa5ab1ccdfde320e41"
+  },
+  "材料/手机布局回归/food-390-3-normal.png": {
+    "bytes": 1043329,
+    "sha256": "14ac0ca600a59d870494d46da3ddf037e99df09745067ddc22f42f1cc6f12044"
+  },
+  "材料/手机布局回归/food-390-3-stale-css.png": {
+    "bytes": 1064023,
+    "sha256": "1a9f451db6c56d207dc45d046b3c517d30548b79ceb59142a83c96e210808b7a"
+  },
+  "材料/手机布局回归/food-390-3-text-200.png": {
+    "bytes": 1004632,
+    "sha256": "06ea8ab0b48a15aa087e534979ee7bb545ec51033b02262fb17af6325731d4d8"
+  },
+  "材料/手机布局回归/food-card-1-1440.png": {
+    "bytes": 457501,
+    "sha256": "1c729a21961f0cf5cf1a6434194a896440686044f96ba25af32959f8e2c00672"
+  },
+  "材料/手机布局回归/food-card-1-390.png": {
+    "bytes": 223277,
+    "sha256": "875873f3a389a5450f302958ba3f0d6a8677b92af839a17d8940ca54566b9752"
+  },
+  "材料/手机布局回归/food-card-2-1440.png": {
+    "bytes": 452506,
+    "sha256": "c5848c874e78cb6e24ec4da1fd5506f4502750a626a81338b07e7f8eb9484001"
+  },
+  "材料/手机布局回归/food-card-2-390.png": {
+    "bytes": 224600,
+    "sha256": "0393848549de6843d46afda4bb788fe80a17f85baab8fdfa3284f02bde2d9740"
+  },
+  "材料/手机布局回归/routes-390-3-css-failed.png": {
+    "bytes": 294373,
+    "sha256": "b7e838fd60d7c4cff758bc8a6860cc805f1c5f76aac40b0f33d829be98b13b0d"
+  },
+  "材料/手机布局回归/routes-390-3-no-aspect-ratio.png": {
+    "bytes": 871999,
+    "sha256": "4939b983764c9a9a5ec4bfc5ddc2b0c1c2e50fa70e469da070893eb53bd82e29"
+  },
+  "材料/手机布局回归/routes-390-3-stale-css.png": {
+    "bytes": 1104413,
+    "sha256": "b177b6826ccc1ed7ff0d7092e14fcd3257619c9dfccff1f1cd402b72cadf219b"
+  },
+  "材料/手机布局回归/routes-390-3-text-200.png": {
+    "bytes": 1013152,
+    "sha256": "0902876aa1f705fad3588088725faf9617a75d951487e23b4af45a2a64772d0c"
+  },
+  "材料/手机布局回归/travel-390-3-css-failed.png": {
+    "bytes": 1068079,
+    "sha256": "0dbec590a57fcb62b1960dec98c6ddf19a5d7805ac4550e9ccd4ff099fc453de"
+  },
+  "材料/手机布局回归/travel-390-3-no-aspect-ratio.png": {
+    "bytes": 2113948,
+    "sha256": "5f937674d5030cdb2e60f9d86afa7a33c8df5d770227274a7c1105d15c226398"
+  },
+  "材料/手机布局回归/travel-390-3-normal.png": {
+    "bytes": 2013682,
+    "sha256": "5fd24d8d94ccfabe0e81fbec23f49b33d6151cecdd8518e153b95eb190e489ea"
+  },
+  "材料/手机布局回归/travel-390-3-stale-css.png": {
+    "bytes": 1895713,
+    "sha256": "0325fe2b073e6b1e493212e9fc28e0e5de3a7cefba41e9507a7570334aeddf63"
+  },
+  "材料/手机布局回归/travel-390-3-text-200.png": {
+    "bytes": 998797,
+    "sha256": "a0cdf81e6e90f2cdaf31a77725dec771b35f0276fe734ca80a8e8c46c877ae66"
+  },
+  "材料/手机布局回归/修复前红灯.json": {
+    "bytes": 19513,
+    "sha256": "2780a43184b58ff970eca74d63a6dfe2b5046cbeb995326ec8c7d8300ee95df6"
+  },
+  "材料/手机布局回归/验证结果.json": {
+    "bytes": 1473629,
+    "sha256": "acdcdc5ca1efe0ed41db8951c9bf7240466f0cc0989c5016e0f3537a38902705"
+  },
+  "材料/提交与使用说明.txt": {
+    "bytes": 4517,
+    "sha256": "116360ae61599c9ec171709dcfcaff70eb515c9cc2dca40ce35b39279ef9f285"
+  },
+  "材料/收藏动画验证.json": {
+    "bytes": 452,
+    "sha256": "ae37f7493de30902d362e4c691aed71249de1e623d4483b17ba8e03e599fe689"
+  },
+  "材料/收藏碎裂动画.png": {
+    "bytes": 104004,
+    "sha256": "2d185b21bc077b038b93f1d1df00a5342d27cd36a2e4f9ab664a9f77e94911c6"
+  },
+  "材料/旅行体验升级说明-2026-10-18.txt": {
+    "bytes": 7734,
+    "sha256": "f1d4a1d039bdbf7bc35de787c6b40b83fee22de6b95fb5d88db70c7c22db94cb"
+  },
+  "材料/旅行体验验证/food-互荐-320.png": {
+    "bytes": 156525,
+    "sha256": "107e133f491be40aa1381d8da93c5123d3475700ab2f4079cbc18ef25f6efdc1"
+  },
+  "材料/旅行体验验证/travel-互荐-320.png": {
+    "bytes": 149107,
+    "sha256": "b50f8ccfd5c2975064495b94a40d698aa9cc21fa99ba747f70d3793afbde0f60"
+  },
+  "材料/旅行体验验证/今天怎么逛-390.png": {
+    "bytes": 426007,
+    "sha256": "b46397720fd9fa541d02b34101d9d79c838b3cae57978648d1312b7f3d9f1313"
+  },
+  "材料/旅行体验验证/今日来信-390.png": {
+    "bytes": 1661658,
+    "sha256": "64934973e37424a8f98c85dbbfc8854c576407c4f40a9831b213c57fb1dccd92"
+  },
+  "材料/旅行体验验证/最终验收.json": {
+    "bytes": 1049,
+    "sha256": "e4ad0ab8658851e57236ea2e63886858a264f9fc40e1178439e58e55c9e906bb"
+  },
+  "材料/旅行体验验证/集成验证.json": {
+    "bytes": 797,
+    "sha256": "b7a7bc7024b69fd90db133515169dccdb042145af40301ef1cb052485e795dc8"
+  },
+  "材料/旅行体验验证/静态构建验证.json": {
+    "bytes": 946,
+    "sha256": "9733659c80be79ad8aae042fff3734154899a9c8becccb2ac4aba2f75aacc5fb"
+  },
+  "材料/旅行内容研究-景点.json": {
+    "bytes": 39390,
+    "sha256": "277902fbcd755517b11068b21fa7fc3f20207a733dfad7b07697336936d4d8d3"
+  },
+  "材料/旅行内容研究-美食.json": {
+    "bytes": 22895,
+    "sha256": "8a7c99dd6f416842b4b8078a20df3435289f9c458059f24ce35c5bfd5f59e8d2"
+  },
+  "材料/旅行护照验证/护照-390.png": {
+    "bytes": 141383,
+    "sha256": "d9fda29ca8383db9188eda5647a14aaa9dd645de03d9094a5867cf3541fe9979"
+  },
+  "材料/旅行护照验证/整合-护照-1440.png": {
+    "bytes": 195849,
+    "sha256": "bd4853482121434b55b41bd9c910d9222c48811b3247f73b68cecc80e3f70e60"
+  },
+  "材料/旅行护照验证/整合-护照-320.png": {
+    "bytes": 118317,
+    "sha256": "baa0ec8b27c2c523237f3f72fbeffcd5264a0b85e54e3ef1cb024d0af3e1244a"
+  },
+  "材料/旅行护照验证/整合-旅行纪念卡-20景点.png": {
+    "bytes": 313296,
+    "sha256": "4e149a0288b0ee2153321b7ba87ac31eecd172ddc6bc3376bbf757e2c5ed8ba7"
+  },
+  "材料/旅行护照验证/整合-行前卡-空记录.png": {
+    "bytes": 250416,
+    "sha256": "51ac67bab1b912e74e2327dbc5899a7cddbd42d9143ef651196a47877b132888"
+  },
+  "材料/旅行护照验证/整合-页面-1440.png": {
+    "bytes": 106624,
+    "sha256": "15d0a67a17d1b9547dce7dec8f820e7f828a05613d9b49c403fe08e1a92d8135"
+  },
+  "材料/旅行护照验证/整合-页面-320.png": {
+    "bytes": 70376,
+    "sha256": "3b996a184e4a756c45b902a80ad76a4f047e51794a2582ee42bba37dd9edb27e"
+  },
+  "材料/旅行护照验证/整合验证结果.json": {
+    "bytes": 742,
+    "sha256": "16db18ebf9c7f32278efc2d3dd3321d21d0782c01d94b799d5abdf8101f64535"
+  },
+  "材料/旅行护照验证/纪念卡-全部景点.png": {
+    "bytes": 304395,
+    "sha256": "38dd1244b83a0929eea0cfff41db92e3fe0ece970fce88b0e2e21aecfe84c635"
+  },
+  "材料/旅行指南升级说明.txt": {
+    "bytes": 5130,
+    "sha256": "27d03d78b11dee8d18a56e0a33f3fb00c41ad5005dda5492928d50d49ae643e2"
+  },
+  "材料/旅行指南验证/food-1440.png": {
+    "bytes": 2015355,
+    "sha256": "4ec775290dac64afcd6fb48948ea0740c5dbc3280be023c560c55e96ee1c7f9e"
+  },
+  "材料/旅行指南验证/food-390.png": {
+    "bytes": 1965156,
+    "sha256": "03816ad283e93888b456228c51f3b71177d9c49c18b574fe05b12bc410c77ebd"
+  },
+  "材料/旅行指南验证/routes-1440.png": {
+    "bytes": 1570596,
+    "sha256": "a5c8d1c7007764cd011d8435ec9366b941b3797420f3135397c4bcb5bb1d0404"
+  },
+  "材料/旅行指南验证/routes-390.png": {
+    "bytes": 1554671,
+    "sha256": "a08cbbb4d9e5b2ef9be82c4075a198715c4ab74deebc4de298cbfb6c812196f9"
+  },
+  "材料/旅行指南验证/travel-1440.png": {
+    "bytes": 2501545,
+    "sha256": "35f47a64ef9cbb3b5c658c9d9a65c42b0f22e70ed82043a6984a9891f29167ff"
+  },
+  "材料/旅行指南验证/travel-390.png": {
+    "bytes": 2363004,
+    "sha256": "4096d3fa7483b4ef738f8df7ef515c50d2bac3b0a7e4c96e2a9e68f297a498b0"
+  },
+  "材料/旅行指南验证/扩充-恩平烧饼-390.png": {
+    "bytes": 753692,
+    "sha256": "7c21cf629948d73a9ebf1297cfe2db3b39e18262a37179f1209c8f014e3bcf5b"
+  },
+  "材料/旅行指南验证/扩充-江海路线-390.png": {
+    "bytes": 1093848,
+    "sha256": "bfd3810347edaec5f09d31c281b433c1adfc696e71ee3e917cd68cf81c1db755"
+  },
+  "材料/旅行指南验证/扩充-江海路线视口-390.png": {
+    "bytes": 947128,
+    "sha256": "26d67b15c6fe6d15114b2b892085a5a359c1352822e0b199ce42717c64310558"
+  },
+  "材料/旅行指南验证/扩充-荷塘鱼饼-390.png": {
+    "bytes": 735999,
+    "sha256": "585a5b6a1621c30e1b4d33d11e8897b546bd4797fa9feddfec33e369cdae402b"
+  },
+  "材料/旅行指南验证/扩充-路线三四卡-1440.png": {
+    "bytes": 933375,
+    "sha256": "03db9f58f5ee88922676c4042623ac654e09692f8352bbb0227841c9b753030d"
+  },
+  "材料/旅行指南验证/扩充-陈少白故居-390.png": {
+    "bytes": 794273,
+    "sha256": "076aa5d44069c87d0afe6a5c9ac514d58db760e52d5368bc398edf9d8faec94e"
+  },
+  "材料/旅行指南验证/验证结果.json": {
+    "bytes": 3668,
+    "sha256": "ba96ad091b5ad84a23160519b2ebd5a15e0f8a170a69269c7322ae43643e78e6"
+  },
+  "材料/旅行搭配建议-2026-10-18.json": {
+    "bytes": 6457,
+    "sha256": "28f2e2757bfc98f8819d88d12166b2b397799066abbaa783047283b6326c4cb4"
+  },
+  "材料/旅行照片/expanded-east/baisha-source.html": {
+    "bytes": 123542,
+    "sha256": "7dbf59bd0cbdd86e559d6f30951aa9d06b2fcd0dd84433174ac2338777518586"
+  },
+  "材料/旅行照片/expanded-east/baishuidai-source.html": {
+    "bytes": 115557,
+    "sha256": "8e51433f36d03e740b16edbec901103311dce57b6b6993f2966c545b8412a87e"
+  },
+  "材料/旅行照片/expanded-east/fetched.json": {
+    "bytes": 2249,
+    "sha256": "eedbf7c65092d17814e3e90a8bbc72b2d676029037645ecfe086c7e19fd3c4ff"
+  },
+  "材料/旅行照片/expanded-east/guifeng-source.html": {
+    "bytes": 114322,
+    "sha256": "24b76b6742a5e8b9c72d7a83010805e9f22fad098668fce062ffe8e682d1aec3"
+  },
+  "材料/旅行照片/expanded-east/guifeng-yuhu-source.html": {
+    "bytes": 103505,
+    "sha256": "943a3f9ba9a02f8853b6afa18ac6301bd67a8aaa85037c2aa5521b905c57378e"
+  },
+  "材料/旅行照片/expanded-east/jinjiang-alt.html": {
+    "bytes": 20884,
+    "sha256": "0a585a1edda713111a5b11d8da6f2db401c1a19153678640beb04d662324820e"
+  },
+  "材料/旅行照片/expanded-east/jinjiang-source.html": {
+    "bytes": 27686,
+    "sha256": "e2e93f8a8bce25fef5d7da061d06a8567e9aaae2d04f5a689db843686ae2db05"
+  },
+  "材料/旅行照片/expanded-east/manifest.json": {
+    "bytes": 9492,
+    "sha256": "27fd9385b21f4e35c21085ba7f0e103a6b1578a67c014ef6a9bb3a20c7c2f61f"
+  },
+  "材料/旅行照片/expanded-east/origins/baisha-0.jpg": {
+    "bytes": 6228362,
+    "sha256": "cc69b1a783267e883d7c1e773b8bfd62b81c28df1838c6cd77bbe279f490ca30"
+  },
+  "材料/旅行照片/expanded-east/origins/baishuidai-0.jpg": {
+    "bytes": 1207143,
+    "sha256": "62ed9e08f17c15d81c9c6775b30f3318ee5189e0ad63b8441ad3ea4f56fbb37c"
+  },
+  "材料/旅行照片/expanded-east/origins/guifeng-0.jpg": {
+    "bytes": 360367,
+    "sha256": "4791a2fe3fd59d9ebdb7652bf0d434a7b7f876c632e03120ee04d0fd0f30daea"
+  },
+  "材料/旅行照片/expanded-east/origins/jinjiang-0.jpg": {
+    "bytes": 197109,
+    "sha256": "24de9550d91dd06aa1ca2f4c542d690f8924ad968d7234caf4ae6b919795413a"
+  },
+  "材料/旅行照片/expanded-east/origins/shaobai-0.jpg": {
+    "bytes": 150594,
+    "sha256": "26c9c166e2a9d9fb0ece60def271129086a2153051dd85b5746578c5cb38eebf"
+  },
+  "材料/旅行照片/expanded-east/origins/xiema-3.jpg": {
+    "bytes": 87453,
+    "sha256": "7827ac043a522d0bad7d7ede20a12a9bb3e4f18d8b36ccf7e834a990937bf245"
+  },
+  "材料/旅行照片/expanded-east/qxwh-list.html": {
+    "bytes": 23637,
+    "sha256": "231d58bb9d931b229184585a68cd24d701701d4946ea3aff50382d5e26238109"
+  },
+  "材料/旅行照片/expanded-east/shaobai-source.html": {
+    "bytes": 28544,
+    "sha256": "017107b8b015d583d73311babc730b2352f8cd41f37d700cb808cee3be424fc7"
+  },
+  "材料/旅行照片/expanded-east/wq-list.html": {
+    "bytes": 23483,
+    "sha256": "ac5580f3be3fef16f6540abcc23d9bb935c7222bde5b9ed578d7288779f2d837"
+  },
+  "材料/旅行照片/expanded-east/xiema-source.html": {
+    "bytes": 27770,
+    "sha256": "583be5be13a1a9f91950a61d378df8e14a6c2f8f5e05e2c2691b1375d5a8f2d5"
+  },
+  "材料/旅行照片/expanded-west/commons-metadata.json": {
+    "bytes": 39659,
+    "sha256": "447e92ffc79778c3495684b24c97eb7d5cf50830718eecd92bdd579292a4336e"
+  },
+  "材料/旅行照片/expanded-west/manifest.json": {
+    "bytes": 8830,
+    "sha256": "0dd1b72ee8752a4c67464734bd3582e24d4fcd0db69f452f0ae6c37059a767fa"
+  },
+  "材料/旅行照片/expanded-west/origins/dayan.jpg": {
+    "bytes": 2011116,
+    "sha256": "1a199ccb7292487ebc45d6ab47dc95b308243a80102ef4783e6fde96b813a7de"
+  },
+  "材料/旅行照片/expanded-west/origins/gulao.jpg": {
+    "bytes": 284035,
+    "sha256": "8adbf27172bb19c078b2132b09114ee9c6bd0c241026e80aaf596695d83adf1d"
+  },
+  "材料/旅行照片/expanded-west/origins/haikoubu.jpg": {
+    "bytes": 7552104,
+    "sha256": "642c004799f74b3455e30b45e3d8d276a3d35462081fce247ecbe180b61d6dac"
+  },
+  "材料/旅行照片/expanded-west/origins/liyuan.jpg": {
+    "bytes": 1063144,
+    "sha256": "596cf1b3f006b7a441bb88571d4453bb4af814e2fff44ff081e2e86184d47027"
+  },
+  "材料/旅行照片/expanded-west/origins/majianglong.jpg": {
+    "bytes": 237623,
+    "sha256": "3151bd45c22c435865da6bf18129a281f9726d48373829f8248ddeef81d2e6ee"
+  },
+  "材料/旅行照片/expanded-west/origins/meijia.jpg": {
+    "bytes": 225348,
+    "sha256": "220d1a60d583c3ccef43a32d93f8af135720fac0a2341d6c963608227cc17abe"
+  },
+  "材料/旅行照片/expanded-west/thumb-metadata.json": {
+    "bytes": 20379,
+    "sha256": "57924a7669978a64fe9d506e737b7315fa06cacccd49f23486e21a6673122548"
+  },
+  "材料/旅行照片/manifest.json": {
+    "bytes": 20386,
+    "sha256": "a090e383138e967de61215d3e484a4f1d0dd79a5ceed883ee8c7f305ab8a58c6"
+  },
+  "材料/旅行照片升级说明.txt": {
+    "bytes": 1947,
+    "sha256": "1f54d2d09c891ce6a4f291f9121841f206144285d8e5e1c42f0602eeed28930a"
+  },
+  "材料/旅行照片验证/travel-photos-1440.png": {
+    "bytes": 5290120,
+    "sha256": "69fd546fab537322048d271875c96ba483011bfdf64ab48be94d2450bfdce8a9"
+  },
+  "材料/旅行照片验证/travel-photos-390.png": {
+    "bytes": 4134047,
+    "sha256": "58ef9bc378db1298c2488abc25682dfff1597d7fd88cc37c39d5680c083278fe"
+  },
+  "材料/旅行照片验证/travel-photos-cards-1440.png": {
+    "bytes": 730410,
+    "sha256": "6035420815bec45655aa1ab06fdd9247764e2e4b4a38407ce867f1904571aeff"
+  },
+  "材料/旅行照片验证/travel-photos-cards-390.png": {
+    "bytes": 231867,
+    "sha256": "bced35f0f993e3241d5b7db8c320e0b2baac0e0a49eb43ff2038656c07b01398"
+  },
+  "材料/旅行照片验证/travel-photos-failure.png": {
+    "bytes": 66249,
+    "sha256": "297a8de3e282182acf3c01bf6c2a537909be4b3c02608cc2d0d8dd186f9ad2eb"
+  },
+  "材料/旅行照片验证/travel-photos-first-screen-1440.png": {
+    "bytes": 463500,
+    "sha256": "3cace04d0c2f84a2842f79bf7f7e21d02d5fff1c28c8a5aef990a6f0bbb5e71f"
+  },
+  "材料/旅行照片验证/travel-photos-first-screen-390.png": {
+    "bytes": 296685,
+    "sha256": "7facded521bb39ad7d6c2399e9fb84956643ee74b8ca4bcbc5d61c1b44b47385"
+  },
+  "材料/旅行照片验证/验证结果.json": {
+    "bytes": 26004,
+    "sha256": "492ef23ec811e485b7a454e3596f5768ba49c314e62b6b14acfcc04f93802fd2"
+  },
+  "材料/景点扩充核查-2026-10-16.json": {
+    "bytes": 20487,
+    "sha256": "1b11ced2c068cd7a1702c8d0d833ff9296a32dffbe54a9c82adac0fe320d9cbd"
+  },
+  "材料/最终混音报告.json": {
+    "bytes": 5623,
+    "sha256": "7579c6ac208ccb4bb2d92b301802cb4409b1d8d897ca82469331a87332b6a86a"
+  },
+  "材料/最终配音记录.json": {
+    "bytes": 5771,
+    "sha256": "12d5582bb7df3d27fa17837cc458b6b17c274283c22948c857bdd93c018dfec1"
+  },
+  "材料/最终验证.json": {
+    "bytes": 88788,
+    "sha256": "f0ad194b9287db1928cc1c340943272f0e480f483bf7abf0176a66b809f0a46e"
+  },
+  "材料/标题动效验证/title-1150ms-390.png": {
+    "bytes": 71223,
+    "sha256": "f10e07dbfc6ed38ad1e8871fdde31e9bf26528669c8df0a5511201f374e03994"
+  },
+  "材料/标题动效验证/title-3000ms-390.png": {
+    "bytes": 78700,
+    "sha256": "a7cfedb6e81041c4f717976eb169e5768d4b9843509373ed22602815633625d6"
+  },
+  "材料/标题动效验证/title-750ms-390.png": {
+    "bytes": 69435,
+    "sha256": "0fa6de677ce45dd4cd71f4763d4bd4a0cd804ef7c89fb60e0348ffdabf156f61"
+  },
+  "材料/标题动效验证/验证结果.json": {
+    "bytes": 1531,
+    "sha256": "a4524af7a87f37d117515a459abd1bbef08ab6dd30ec5b57723d6fcc2d48dbbf"
+  },
+  "材料/标题字体来源.json": {
+    "bytes": 6206,
+    "sha256": "4ce178b9ce84cdae7546fa6450690753e17253e7bc80edfe168e77db3dfcd147"
+  },
+  "材料/标题栏-最终.png": {
+    "bytes": 8214,
+    "sha256": "fca56751a6a10c8032ee8cc24281b1e7ec19e3856d820f02d36593f0b6b4746f"
+  },
+  "材料/短片六幕预览.jpg": {
+    "bytes": 118764,
+    "sha256": "f0a5f82baea9b1dddabb9916d813f8ef181c3aeb399429b50da741e6291be554"
+  },
+  "材料/短片十镜头预览.jpg": {
+    "bytes": 1115829,
+    "sha256": "a6e922cc57a8f6aa3b0c6043e4941d70abcbb22f4e1f58048386c98ba65ff677"
+  },
+  "材料/短片源文件使用说明.txt": {
+    "bytes": 2071,
+    "sha256": "df33eba2de5c6ec7ebc3458c1575a79630b18ea92526757c72e56b186ae905a7"
+  },
+  "材料/示例明信片.png": {
+    "bytes": 2022042,
+    "sha256": "12e021d83296014cb956e9188935723c46e83745defe3abaa0a206a0cf16d136"
+  },
+  "材料/站内问答验证/faq-390-expanded.png": {
+    "bytes": 39685,
+    "sha256": "795c5ab86f09557c35ea81cc17e0e7ddd8b70324d2d48dee7acf20ffe9933bb0"
+  },
+  "材料/站内问答验证/faq-file.html": {
+    "bytes": 200033,
+    "sha256": "6489405b3f0a22954c25e4be9506140ea74e08462be11b7638724c416a7bd16a"
+  },
+  "材料/站内问答验证/faq-filtered-integration.pdf": {
+    "bytes": 116588,
+    "sha256": "3025afd2e93a37a4e726bf7662727270afef123cdb423c619339e8a047ccd58c"
+  },
+  "材料/站内问答验证/faq-fixture.html": {
+    "bytes": 189765,
+    "sha256": "4f07783f86974ec6718fde915cead2e1feeadf1a2341cec0589fa07f0b39d271"
+  },
+  "材料/站内问答验证/faq-integrated-320-expanded.png": {
+    "bytes": 175655,
+    "sha256": "e2932365ed6cbf2e1831a16fb8a979d177c91f0daf6a0ca86570d3d12d44bbac"
+  },
+  "材料/站内问答验证/faq-integrated-320-top.png": {
+    "bytes": 143589,
+    "sha256": "7382ba73290acbe7e94f678d38054dbf4f3685cabb311a6e1035ef96f1dc6c88"
+  },
+  "材料/站内问答验证/tour-integrated-320-top.png": {
+    "bytes": 196412,
+    "sha256": "e7d8c08a8a130691b4e1229e339571be11bcd9336d97c3e8712d9afc9765fe25"
+  },
+  "材料/站内问答验证/内容验证.json": {
+    "bytes": 283,
+    "sha256": "0bfbc334063b813f58f87b880bf5297952838fc0dac6029a08fcb2b1f8dfa969"
+  },
+  "材料/站内问答验证/浏览器验证.json": {
+    "bytes": 1127,
+    "sha256": "f67513e89534b691c7cac3b2bf0fc3cfcb4d1b13c82217668f5ec6fcf8050b4c"
+  },
+  "材料/站内问答验证/集成审查.json": {
+    "bytes": 1458,
+    "sha256": "2fb1c345d6e2d92e883aa72c542d6690f6de0b0e6fa3d35fad7d23898dfb6ef5"
+  },
+  "材料/章节-修复后-820.png": {
+    "bytes": 651699,
+    "sha256": "83a4daae1249c008cc9d380bccdd1bd6b509c765a31d0e5a5427c342c37c2d43"
+  },
+  "材料/精修验证/明信片精修-80字.png": {
+    "bytes": 2061955,
+    "sha256": "7562fd54eccb97ebd6294485f236f81b87803c24a2345a23006679e1c11cd926"
+  },
+  "材料/精修验证/章图审查修复验证.json": {
+    "bytes": 461,
+    "sha256": "99471231a46bb47bb6353e2fe89bdaa2cd08ce058b253b56f6c688fdba92b4e0"
+  },
+  "材料/精修验证/资源与明信片验证.json": {
+    "bytes": 1460,
+    "sha256": "97e2ee08c9ebd999c867b5d0ee85c849fbc62a6b32f19e1d676602420695ac6e"
+  },
+  "材料/网页-手机.png": {
+    "bytes": 3370529,
+    "sha256": "1d3ffcc45342b82dd743e1617d51c8f8025a2803d3f45fe237e9eeef2127a6b6"
+  },
+  "材料/网页-桌面.png": {
+    "bytes": 3381248,
+    "sha256": "57a2c917b849ece72e949c2e455c2357f929e453dd194191bf525b48edcf40c6"
+  },
+  "材料/网页验证.json": {
+    "bytes": 266,
+    "sha256": "8c9f59111d622035f13d56613259d3b34c2de2c228b9f3f304612c26fe97971f"
+  },
+  "材料/美食与路线扩充-2026-10-16.json": {
+    "bytes": 25063,
+    "sha256": "adfe15af1defbd70fb9d0272793cd22757242f6d4a7a2b0f11f667e61ff50424"
+  },
+  "材料/美食照片/AI生成记录.json": {
+    "bytes": 16139,
+    "sha256": "14c0f3b321e081956759250a95f8181b863835412eeb8d4b8449bb02f8cf3804"
+  },
+  "材料/美食照片/chenpi-dishes-ai.png": {
+    "bytes": 2429682,
+    "sha256": "fd13c87396798776e535362d7d5ab431fa79c7f5730624507df4224e3ffbff46"
+  },
+  "材料/美食照片/duruan-bitter-melon-ai.png": {
+    "bytes": 2276882,
+    "sha256": "a0cd56637d234ace883cb0fa3d3af3f3edf3435096fe56893558f72059d44c25"
+  },
+  "材料/美食照片/enping-laifen-ai.png": {
+    "bytes": 2268164,
+    "sha256": "53db38fab6714ce6e5b376bc311418f8ee18c2e478bc6025c20eb321ed824ead"
+  },
+  "材料/美食照片/enping-shaobing-ai.png": {
+    "bytes": 2253161,
+    "sha256": "f183790c06190aef8bca1a72ef6462e53fd84f396915fc3f5a537c43999683c0"
+  },
+  "材料/美食照片/gulao-fish-dumplings-ai.png": {
+    "bytes": 2371368,
+    "sha256": "cb6f4b82da7dcf5473e5da7b1dafd7a398d9f94371cbdb5ebe7454e5de5f0441"
+  },
+  "材料/美食照片/hetang-fish-cakes-ai.png": {
+    "bytes": 2441396,
+    "sha256": "7019f9006530cbe7979a889f196fa00535d1e6354b8ef5fe47367127a7fcdcce"
+  },
+  "材料/美食照片/kaiping-xianjilong-ai.png": {
+    "bytes": 2354226,
+    "sha256": "05a215034b08cf235542136b8ca75cdcfc03196820f068b9700e5d7f69a687de"
+  },
+  "材料/美食照片/lile-ribs-ai.png": {
+    "bytes": 2187069,
+    "sha256": "4d46b31f2af61bcb4b48e2c2ed6ab3fa211537bc8c4d3209705d2122c43e07ea"
+  },
+  "材料/美食照片/site-manifest.json": {
+    "bytes": 9708,
+    "sha256": "f4d6ccdb074bd4e7244228e5cdd28dca0fd64a7d9ca1948ae6eac60f0003ceb3"
+  },
+  "材料/美食照片/taishan-savory-tangyuan-ai.png": {
+    "bytes": 2559368,
+    "sha256": "310f0d8b5046afb6cec163d794985a74959fac716b21dfb14fa6df20f4e14c9c"
+  },
+  "材料/美食照片/waihai-noodles-ai.png": {
+    "bytes": 2450353,
+    "sha256": "a12cd2e93f5a58cd9351095fcb8b1f29587809540993e7a0fb89622af05d2085"
+  },
+  "材料/美食照片/新增生成记录-2026-10-16.json": {
+    "bytes": 8364,
+    "sha256": "167c30573137fde492b2259a3ca3e6cd49d8f1925133ef30617fab2e594a5338"
+  },
+  "材料/脚本接入验证/food-390.png": {
+    "bytes": 1058042,
+    "sha256": "d3e8fe1916c26d817d7ba2f80f2917a31286caa9c7cee6d4823e356774a6c5e6"
+  },
+  "材料/脚本接入验证/travel-390.png": {
+    "bytes": 1319709,
+    "sha256": "715891e10e4ba2abbfa1c3ff466af7e98720209128feea6a2db524d9d4d56181"
+  },
+  "材料/脚本接入验证/验证结果.json": {
+    "bytes": 3053,
+    "sha256": "9b96b5f3aa88bd67ccd57811df7b844bb0281ba642818ffcdb97a87a681c0eb2"
+  },
+  "材料/虚拟主机部署说明.txt": {
+    "bytes": 8039,
+    "sha256": "5a09a5754f13854f6aff9eb18978e04f6573343e0b3d0ce39f16fc405da33a73"
+  },
+  "材料/轮播与景点扩充说明-2026-10-16.txt": {
+    "bytes": 1808,
+    "sha256": "38486dd5285534c79dafe11c71b2b30f3f467d3ca3ab1b84fff5f592e4c45973"
+  },
+  "材料/陈皮三瓣动画.png": {
+    "bytes": 208977,
+    "sha256": "a4a8395b5005da19f3f26d8c0a0cbfded685a1623d4f3e47604f953f3796bd06"
+  },
+  "材料/陈皮图标生成记录.json": {
+    "bytes": 1330,
+    "sha256": "9a192679789c5fde68a7d0cbbd058a66333db609431693182d6f2fa7a4af0f88"
+  },
+  "材料/音频创作说明.txt": {
+    "bytes": 1776,
+    "sha256": "dad77c47817148619454a26cca3cb5e28e8e1d656a30e3187a55da3149e1a93d"
+  },
+  "材料/风物轮播验证/手机版轮播.png": {
+    "bytes": 1826808,
+    "sha256": "b4f2a269d0df31cf3df9771145b0e77897fa96efb398376f3ed1367e5d40221a"
+  },
+  "材料/风物轮播验证/桌面版轮播.png": {
+    "bytes": 5023749,
+    "sha256": "3bedb27b273f7115bdea2d9db19d4b17e25701a39c11f198e4ec9fddde2f69b4"
+  },
+  "材料/风物轮播验证/验证结果.json": {
+    "bytes": 1157,
+    "sha256": "a4dfb458de591f9804682e9720e060a5a29154856dc4e0f40dba84f6ede06c07"
+  },
+  "材料/首页标题动效说明-2026-10-18.txt": {
+    "bytes": 1500,
+    "sha256": "eec6483f570f668559e2fb10e9f209a8fdac559c0f0ca29b049836efd1d054b4"
+  },
+  "知识库/江门智能客服问答知识库.md": {
+    "bytes": 81080,
+    "sha256": "4e173ea38f6ad6fcef3792a8eb7aa301f3303622d2acd155d3faf8569f827c8c"
+  },
+  "知识库/江门智能客服问答知识库.txt": {
+    "bytes": 79866,
+    "sha256": "83e07a47f9c44325b55a7a9c37558bffe3190009fc9993df69ce988a1ad9d00b"
+  },
+  "知识库/知识库更新与导入说明-2026-10-16.md": {
+    "bytes": 4823,
+    "sha256": "645625ce517edc7e9584ce4f058b58a8a847c7a75c0057074fd852d2a67358b6"
+  },
+  "知识库/知识库更新与导入说明-2026-10-18.md": {
+    "bytes": 6546,
+    "sha256": "dabaa2579332ff67a01cab6f3bc44fc408caef2f77db624943511e3c49999628"
+  },
+  "知识库/知识库更新与导入说明-2026-10-19.md": {
+    "bytes": 4517,
+    "sha256": "8359a4f2a78e17e3d13ae289285420bba6f8df06eb99b389603ceea84fed2135"
+  }
+}
