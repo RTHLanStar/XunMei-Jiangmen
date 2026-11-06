@@ -185,7 +185,7 @@ python 制作源文件/build.py --package
 2. 保持 `.html` 直接可访问，无需 URL 重写、PHP 或数据库。
 3. 若更换域名或子目录，先修改 `制作源文件/experience_presentation.py` 中的 `BASE_URL`，再重新构建，使 canonical 与 Open Graph 元数据指向实际地址。
 
-本仓库的公开预览由 `gh-pages` 分支提供：该分支根目录即 `site/dist/` 的内容，并包含 `.nojekyll`。更新站点后，将新构建结果同步到该分支即可重新发布。
+本仓库的公开预览由 GitHub Actions 发布：工作流 `.github/workflows/pages.yml` 在 `site/dist/` 变更时上传该目录并部署到 Pages，无需手工同步分支。
 
 ## 🔧 配置项说明
 
@@ -251,6 +251,7 @@ XunMei-Jiangmen/
 ├── LICENSE                       # CC BY-NC-ND 4.0 官方法律文本
 ├── NOTICE.md                     # 署名、许可范围与第三方素材例外
 ├── DESIGN.md                     # 设计约束、素材边界与维护规则
+├── .github/workflows/pages.yml   # GitHub Pages 自动部署流程
 ├── site/
 │   └── dist/                     # 可直接运行的九页站点，也是前端源码
 │       ├── index.html            # 首页
