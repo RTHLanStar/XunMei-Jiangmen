@@ -8,6 +8,7 @@
 
 - **作品形态**：九页纯静态站点，可直接部署到任意静态虚拟主机，无需后端、数据库或账号体系。
 - **在线预览**：<https://rthlanstar.github.io/XunMei-Jiangmen/>
+- **作品下载**：[参赛作品包 v2026.10.24](https://github.com/RTHLanStar/XunMei-Jiangmen/releases/tag/v2026.10.24)
 - **内容规模**：4 章风物 · 20 项景点 · 14 项美食 · 6 条编辑路线 · 87 条本地问答。
 - **技术形态**：HTML5 + CSS3 + 原生 JavaScript；Python 3 负责内容生成与静态验收。
 
@@ -136,6 +137,13 @@ flowchart LR
 | 本地静态服务 | 任意 HTTP 服务器；示例使用 Python 内置 `http.server` |
 | 重新构建 | Python 3.8 及以上 |
 | 浏览器回归（可选） | Node.js 18 及以上，以及本机 Playwright 与 Chromium |
+
+### 下载归档包
+
+- [完整参赛作品包](https://github.com/RTHLanStar/XunMei-Jiangmen/releases/download/v2026.10.24/XunMei-Jiangmen-Package-2026-10-24.zip)（约 210 MB）：互动网页、制作源文件、材料与知识库，含 `file://` 离线绘图数据。
+- [虚拟主机静态部署包](https://github.com/RTHLanStar/XunMei-Jiangmen/releases/download/v2026.10.24/XunMei-Jiangmen-Static-Host-2026-10-24.zip)（约 23 MB）：上传至站点目录即可运行，不含仅供离线绘图的数据。
+
+两个压缩包为 2026-10-24 提交快照，页面分享元数据可能仍指向原计划部署地址；最新版本以仓库 `main` 分支为准。
 
 ### 在线预览
 
