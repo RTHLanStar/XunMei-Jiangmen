@@ -1,0 +1,1 @@
+{"name":"qiaoxiang-letter-v2","private":true,"type":"module","scripts":{"dev":"npx --yes hyperframes@0.8.155 preview","check":"npx --yes hyperframes@0.8.155 check","render":"npx --yes hyperframes@0.8.155 render --fps 24 --quality looks --output qiaoxiang-letter-v2.mp4"}}

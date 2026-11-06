@@ -1,0 +1,102 @@
+[
+  {
+    "image": "letter.png",
+    "start": 0,
+    "end": 4.5,
+    "title": "一封来信",
+    "scaleFrom": 1.04,
+    "scaleTo": 1.015,
+    "xFrom": 0,
+    "xTo": 0
+  },
+  {
+    "image": "tower-wide.png",
+    "start": 4.5,
+    "end": 10.3,
+    "title": "开平碉楼",
+    "scaleFrom": 1.015,
+    "scaleTo": 1.065,
+    "xFrom": -12,
+    "xTo": 12
+  },
+  {
+    "image": "tower-detail.png",
+    "start": 10.3,
+    "end": 18.5,
+    "title": "窗前的牵挂",
+    "scaleFrom": 1.06,
+    "scaleTo": 1.015,
+    "xFrom": 14,
+    "xTo": -8
+  },
+  {
+    "image": "street-wide.png",
+    "start": 18.5,
+    "end": 24,
+    "title": "赤坎骑楼",
+    "scaleFrom": 1.025,
+    "scaleTo": 1.055,
+    "xFrom": 15,
+    "xTo": -15
+  },
+  {
+    "image": "street-detail.png",
+    "start": 24,
+    "end": 30,
+    "title": "檐下的日常",
+    "scaleFrom": 1.06,
+    "scaleTo": 1.02,
+    "xFrom": -10,
+    "xTo": 10
+  },
+  {
+    "image": "river-wide.png",
+    "start": 30,
+    "end": 35.5,
+    "title": "西江水岸",
+    "scaleFrom": 1.025,
+    "scaleTo": 1.055,
+    "xFrom": -15,
+    "xTo": 12
+  },
+  {
+    "image": "river-detail.png",
+    "start": 35.5,
+    "end": 41,
+    "title": "水的来信",
+    "scaleFrom": 1.055,
+    "scaleTo": 1.015,
+    "xFrom": 12,
+    "xTo": -10
+  },
+  {
+    "image": "peel-wide.png",
+    "start": 41,
+    "end": 47.6,
+    "title": "新会陈皮",
+    "scaleFrom": 1.015,
+    "scaleTo": 1.06,
+    "xFrom": 0,
+    "xTo": 0
+  },
+  {
+    "image": "peel-detail.png",
+    "start": 47.6,
+    "end": 53.8,
+    "title": "时光的纹理",
+    "scaleFrom": 1.055,
+    "scaleTo": 1.015,
+    "xFrom": -8,
+    "xTo": 8
+  },
+  {
+    "image": "letter.png",
+    "start": 53.8,
+    "end": 66,
+    "title": "侨乡有来信",
+    "scaleFrom": 1.015,
+    "scaleTo": 1.035,
+    "xFrom": 0,
+    "xTo": 0
+  }
+]

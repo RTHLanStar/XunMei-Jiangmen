@@ -1,0 +1,81 @@
+{
+  "created_local_date": "2026-10-14",
+  "assets": [
+    {
+      "file": "river-wide.png",
+      "source": "C:\\Users\\QiuLiang\\.codex\\generated_images\\01a13889-a141-7293-bf11-5a09e45d3331\\exec-fa73fd9a-f958-4858-bbd2-8155b0314b8b.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: independent cinematic photograph for the Jiangmen cultural film '侨乡来信', not a collage. Create a landscape 16:9 high-resolution natural documentary-style photograph representing the broad main channel of the Xijiang River near Jiangmen, Guangdong, China. A very wide, open, gently rippling freshwater river fills the lower two thirds; across the far bank is a low, flat Lingnan green embankment and a modest distant everyday town skyline, small pale buildings with no famous invented architecture. Atmospheric warm early morning sunlight from the side, lightly hazy sky, quiet everyday reality. Refined warm cream highlights, muted ink-green banks and natural brown-green river, restrained saturation. 35mm natural photographic perspective, physically convincing river scale and bank geometry, realistic water sparkle and fine subtle texture, no painting, no illustration, no HDR. Keep visually useful details within central horizontal band safe for both 16:9 and 3:2 cover cropping. No karst mountains, no dramatic tropical jungle, no narrow creek, no tourist pagodas, no landmark claims, no text, logos, frames or watermarks.",
+      "mode": "built-in image_gen",
+      "native_dimensions": {
+        "width": 1672,
+        "height": 941
+      },
+      "ai_generated": true,
+      "editing": "None; independent native generation, original pixels copied without upscaling.",
+      "file_bytes": 2342745,
+      "inspection": "通过 view_image 检查：开阔主河道、低平绿岸、远处日常城镇；无假字或旅游地标。",
+      "revision_count": 0
+    },
+    {
+      "file": "river-detail.png",
+      "source": "C:\\Users\\QiuLiang\\.codex\\generated_images\\01a13889-a141-7293-bf11-5a09e45d3331\\exec-36be3a53-a60d-44ab-b688-806d3a350816.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: independent close-detail cinematic photograph for the Jiangmen cultural film '侨乡来信', not a collage. Create a high-resolution landscape 16:9 natural editorial photograph at the edge of the broad Xijiang River in Jiangmen, Guangdong. Close view of the worn dark wooden bow and side of one modest small working boat moored by a simple natural rope at a quiet bank, occupying only the right foreground; realistic softly rippling brown-green freshwater takes most of the frame and leads to a distant low, flat Lingnan green bank, so the enormous width of the river remains evident. Warm gentle morning light glancing across wood grain, rope fibres and water, refined muted warm cream and ink-green palette. Natural 50mm lens photographic perspective, very realistic subtle texture, soft distant depth, calm lived-in documentary feeling. Place main boat detail near the central vertical band for safe 16:9 / 3:2 crop, no close-up people, no kayaks, no sails, no dramatic rocks or karst, no narrow tropical river, no romantic fantasy, no painting, no text, logos, borders or watermark.",
+      "mode": "built-in image_gen",
+      "native_dimensions": {
+        "width": 1672,
+        "height": 941
+      },
+      "ai_generated": true,
+      "editing": "None; independent native generation, original pixels copied without upscaling.",
+      "file_bytes": 2204192,
+      "inspection": "通过 view_image 检查：木船船舷与绳结纹理清楚，广阔河面可感知；无人像或假字。",
+      "revision_count": 0
+    },
+    {
+      "file": "peel-wide.png",
+      "source": "C:\\Users\\QiuLiang\\.codex\\generated_images\\01a13889-a141-7293-bf11-5a09e45d3331\\exec-9bda5ca2-49b5-4fc2-9e7f-9bb2dc0da2d4.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: independent cinematic craft photograph for the Jiangmen cultural film '侨乡来信', not a collage. Create a high-resolution landscape 16:9 natural editorial photograph of a Xinhui chenpi preparation and sun-drying worktable in Guangdong, China. A pair of ordinary adult artisan hands gently cups and presents a single anatomically plausible three-lobed mandarin peel opened into three joined petals, with distinct orange-brown porous exterior and pale cream fibrous inner pith. Natural five fingers per hand, relaxed separated fingers supporting the peel from below, truthful contact and believable anatomy, no face. A woven bamboo drying tray with a few similarly opened dried peels rests on the worn dark wood table, and just two small green-orange mandarins off to one side. The hands and one displayed three-lobed peel are the visual subject. Warm side daylight, soft shadows, ink-green out-of-focus garden background, restrained warm cream and earthy orange-brown palette, subtle worn surfaces. Documentary 50mm photography with sharp natural detail of peel and hands, gentle depth of field. All crucial hands and peel remain in central 65 percent height for safe 16:9 / 3:2 crop. No factory, no packaging, no brand, no text, no labels, no jewelry emphasis, no painterly effects, no over-saturated orange, no duplicated fingers, no whole peeled orange segments, no watermark.",
+      "mode": "built-in image_gen",
+      "native_dimensions": {
+        "width": 1672,
+        "height": 941
+      },
+      "ai_generated": true,
+      "editing": "None; independent native generation, original pixels copied without upscaling.",
+      "file_bytes": 2523231,
+      "inspection": "通过 view_image 检查：双手托皮接触自然，无明显多指/融合，三瓣陈皮结构清楚，竹篮与果实质感自然。",
+      "revision_count": 0
+    },
+    {
+      "file": "peel-detail.png",
+      "source": "C:\\Users\\QiuLiang\\.codex\\generated_images\\01a13889-a141-7293-bf11-5a09e45d3331\\exec-abc5bb2e-b6fd-4a16-a95d-a6483b5d60bd.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: independent macro cinematic photograph for the Jiangmen cultural film '侨乡来信', not a collage. Create a high-resolution landscape 16:9 natural macro photograph of one authentic aged Xinhui chenpi: a single connected mandarin rind split into three broad curling lobes, copper orange-brown textured outer skin with tiny oil-cell pores, and warm pale beige rough fibrous pith on curling inner surfaces. It rests on an old woven bamboo drying basket. Show all three lobes and the joining center clearly, sculptural curled edges like a dried peel, absolutely no flesh or orange segments. Minimal composition, several tiny irregular natural spots and matte roughness, realistically dried and firm rather than polished or ceramic. Warm late-afternoon side light, soft ink-green and deep brown out-of-focus background, warm cream highlights, muted true colors. 90mm macro photo, focus on detailed peel surface with restrained depth of field and softly defined bamboo weave. Keep entire main peel within central 65 percent height for safe 16:9 / 3:2 cropping. No teacup, no person or hands, no extra fruit, no text, labels, logos, frame or watermark, no illustration or glossy render.",
+      "mode": "built-in image_gen",
+      "native_dimensions": {
+        "width": 1672,
+        "height": 941
+      },
+      "ai_generated": true,
+      "editing": "None; independent native generation, original pixels copied without upscaling.",
+      "file_bytes": 2264759,
+      "inspection": "通过 view_image 检查：三瓣连接中心清楚，橙棕油胞与浅米内瓤纹理可读，无果肉或品牌。",
+      "revision_count": 0
+    },
+    {
+      "file": "letter.png",
+      "source": "C:\\Users\\QiuLiang\\.codex\\generated_images\\01a13889-a141-7293-bf11-5a09e45d3331\\exec-2fa8394a-2096-4501-8a5e-9fba508e9d80.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: independent opening and closing cinematic photograph for the Jiangmen cultural film '侨乡来信'. Create a high-resolution landscape 16:9 natural overhead / slight oblique overhead still-life photograph. One large fully blank cream unlined writing paper rests partly atop a plain unmarked cream envelope on a gently worn dark wood desk. The sheet occupies the middle and left of frame and provides abundant clean empty paper space for HTML overlay title and credits later. A single small curled three-lobed aged orange-brown mandarin peel sits near the lower right corner of the desk, not obscuring the paper. Soft warm sunlight from one side, gentle natural window shadow confined to edges, elegant restrained lived-in stillness, warm cream paper grain and muted dark ink-green surroundings, realistic editorial photography with high detail and no excessive props. Ensure central paper remains visible when cropped from 3:2 to 16:9. Every paper and envelope surface MUST be perfectly blank: no handwriting, no pseudo-Chinese, no calligraphy, no printed text, no stamp, no postal mark, no address, no logos, no watermark. No pen, no wax seal, no flowers, no painting or digital illustration, no collage.",
+      "mode": "built-in image_gen",
+      "native_dimensions": {
+        "width": 1672,
+        "height": 941
+      },
+      "ai_generated": true,
+      "editing": "None; independent native generation, original pixels copied without upscaling.",
+      "file_bytes": 2495600,
+      "inspection": "通过 view_image 检查：信笺与信封表面全空白，左中留有充足叠字空间，右下三瓣陈皮。",
+      "revision_count": 0
+    }
+  ],
+  "disclosure": "全部是独立AI生成的摄影风格视觉素材，不是江门实景拍摄记录；原生1672×941，未插值升格。"
+}
