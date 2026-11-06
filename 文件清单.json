@@ -7,54 +7,6 @@
     "bytes": 288,
     "sha256": "84e6b826153fcca32006200c9b714f06b32cd0c5198122acf417abe984e5d95b"
   },
-  ".tmp/b.json": {
-    "bytes": 1407,
-    "sha256": "e1c326c7c8f8e1e71bd78230906efee7346649e331706eee399d0325f378e3ac"
-  },
-  ".tmp/bt.json": {
-    "bytes": 25,
-    "sha256": "cba1fea60231e4382d49fd740f3d0915a0695e55564187e84cbd1bbe985c79a9"
-  },
-  ".tmp/bt_resp.json": {
-    "bytes": 0,
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-  },
-  ".tmp/build.json": {
-    "bytes": 1392,
-    "sha256": "9356cae7fd857afc8b4cf11ddfc8d6f93e2394e6d6b6d5bc65afc89a917797f3"
-  },
-  ".tmp/home.json": {
-    "bytes": 60,
-    "sha256": "0ffdde841d3080974625b38a90e948fee09dbf053463162835100da5aca69e63"
-  },
-  ".tmp/home_resp.json": {
-    "bytes": 7349,
-    "sha256": "ae52ece61b04d21092ad9643ea9f09d8d3f97b7234bee73d1dfa16ee11007b83"
-  },
-  ".tmp/pages.json": {
-    "bytes": 65,
-    "sha256": "ef623483636bd67bdcc1dc1aed2e3027488f45491c2525fe6127122521c5cc6e"
-  },
-  ".tmp/pages_get.json": {
-    "bytes": 409,
-    "sha256": "1985163c7d3154af1ccea19ccb0accc200d886a7f78d30a2c30a0c81a0b5dc30"
-  },
-  ".tmp/pages_resp.json": {
-    "bytes": 166,
-    "sha256": "9393fe2077d5a789bdaad5a7ca9e16837aa7a6a2b77801fdfd502560664a8a30"
-  },
-  ".tmp/pg.json": {
-    "bytes": 409,
-    "sha256": "1985163c7d3154af1ccea19ccb0accc200d886a7f78d30a2c30a0c81a0b5dc30"
-  },
-  ".tmp/pg2.json": {
-    "bytes": 410,
-    "sha256": "8c990d6d0b09b1acd21f18d9bb0530c589478e38c5ea7a5c87deb704b865f269"
-  },
-  ".tmp/trigger.json": {
-    "bytes": 104,
-    "sha256": "a5072d7b8372b2f7c8619dca3f7d35efdd74fe58f4926df2cee319c31e569f15"
-  },
   "DESIGN.md": {
     "bytes": 10377,
     "sha256": "fc95ca8e6fe63eeb0712fe42a3883027b08f107c4237c8665face79e24f12af6"
@@ -107,13 +59,17 @@
     "bytes": 104058,
     "sha256": "f4fd22dc7b48d3a1a54ecf6987a74dfc34a87c715f8e0d4f23dd974a3f9f84e6"
   },
+  "site/dist/assets/fonts/OFL-Noto-Serif-SC.txt": {
+    "bytes": 4444,
+    "sha256": "64538aaa923b7e75559725ecf64eff7b18f623857b8e6d31a7347743ab27e907"
+  },
   "site/dist/assets/fonts/noto-serif-sc-editorial-400.woff2": {
     "bytes": 63488,
     "sha256": "8d3fd26791efa61115cc663177ffdec525e72db0beaacb97813816c6a217d14b"
   },
-  "site/dist/assets/fonts/OFL-Noto-Serif-SC.txt": {
-    "bytes": 4444,
-    "sha256": "64538aaa923b7e75559725ecf64eff7b18f623857b8e6d31a7347743ab27e907"
+  "site/dist/assets/food/LICENSES.txt": {
+    "bytes": 3747,
+    "sha256": "09385389294938ad24d5be37b4a51c8cc31081db5204ca4f6979ec4e470ca793"
   },
   "site/dist/assets/food/chenpi-dishes-480.webp": {
     "bytes": 24816,
@@ -186,10 +142,6 @@
   "site/dist/assets/food/kaiping-xianjilong-960.webp": {
     "bytes": 59894,
     "sha256": "26507a94ec035a138adde3c3bf87eb4a034568660366b03308aecbff49dff04b"
-  },
-  "site/dist/assets/food/LICENSES.txt": {
-    "bytes": 3747,
-    "sha256": "09385389294938ad24d5be37b4a51c8cc31081db5204ca4f6979ec4e470ca793"
   },
   "site/dist/assets/food/lile-ribs-480.webp": {
     "bytes": 18640,
@@ -266,6 +218,10 @@
   "site/dist/assets/subtitles.vtt": {
     "bytes": 1441,
     "sha256": "40bd07adcc861bbc995da73b53fbd6e2d3b57d36352527802b8fc07165880514"
+  },
+  "site/dist/assets/travel/LICENSES.txt": {
+    "bytes": 8297,
+    "sha256": "a17ef75b247bbfa97bf08b5ac04b2d71ed9267eecad8fcdf541a27766e675213"
   },
   "site/dist/assets/travel/baisha-480.webp": {
     "bytes": 13878,
@@ -370,10 +326,6 @@
   "site/dist/assets/travel/liang-960.webp": {
     "bytes": 107800,
     "sha256": "44bf314a57686e745b1d1a62190ab19a814ed2387b81248751f97c76c7e9ad33"
-  },
-  "site/dist/assets/travel/LICENSES.txt": {
-    "bytes": 8297,
-    "sha256": "a17ef75b247bbfa97bf08b5ac04b2d71ed9267eecad8fcdf541a27766e675213"
   },
   "site/dist/assets/travel/liyuan-480.webp": {
     "bytes": 9702,
@@ -791,81 +743,9 @@
     "bytes": 15295,
     "sha256": "68b54a725622931bdc97ec6731140a1c1be3d31b895b31394bc129026ae8f85e"
   },
-  "制作源文件/video/atlas.png": {
-    "bytes": 3022063,
-    "sha256": "9303869e66fa298cf203deb96f060c888b75aed5a792a59e0f8b0939acf625fd"
-  },
-  "制作源文件/video/DESIGN.md": {
-    "bytes": 1843,
-    "sha256": "99f16648139f14cf8f92e80facd14f08b54eaec0738d2fcb3a8fc49476363753"
-  },
-  "制作源文件/video/hyperframes.json": {
-    "bytes": 318,
-    "sha256": "53dbce1e19aa713cbb12ee0bc4d206143b45ab15e6ffbfcaa8f69572d4d24d50"
-  },
-  "制作源文件/video/index.html": {
-    "bytes": 9847,
-    "sha256": "ac9a6a4718e9c75aa10c36e8b6f6e8507acaedc2dd9c45c041224742574a8548"
-  },
-  "制作源文件/video/make-video.py": {
-    "bytes": 6422,
-    "sha256": "0d2bfcd45bfebe76b0ef032b609ae6860032580c081d01071e86c62961f24055"
-  },
-  "制作源文件/video/meta.json": {
-    "bytes": 81,
-    "sha256": "ebbf27b8d63b57b6aa1f543092245ea8feb87683c15f50e3d9fa87a842ceaa14"
-  },
-  "制作源文件/video/mix-final.py": {
-    "bytes": 1478,
-    "sha256": "3b246bb0164281db63b2b4783111ab4373c51cf1581e9b8195b00f855a766c83"
-  },
-  "制作源文件/video/music.wav": {
-    "bytes": 11642444,
-    "sha256": "14654db679addc44feb647dd33c7ee2032334f497847c532802c49aeefa3f005"
-  },
-  "制作源文件/video/neural-narrate.py": {
-    "bytes": 1220,
-    "sha256": "f4f7be11c9836d07b90fcc1e1b742aaee299ccb6bd456c843066f0f01ef77eda"
-  },
-  "制作源文件/video/package.json": {
-    "bytes": 294,
-    "sha256": "57ab516f25ce2a46e8b01db0e0042ea6260ed893b32ce98fa8478e20a918d169"
-  },
-  "制作源文件/video/scenes.json": {
-    "bytes": 2264,
-    "sha256": "dde48fede77721feaf5ddefbcd1752f6694aa8c9b32ac29f81f11c061129039d"
-  },
-  "制作源文件/video/subtitles.srt": {
-    "bytes": 784,
-    "sha256": "5faed28a6dc8739ed8450bcb804c849b8c2edd79619b3c717ce7ff1c9fbdb845"
-  },
-  "制作源文件/video/subtitles.vtt": {
-    "bytes": 776,
-    "sha256": "f3c73df10be68d734af772fc5a95d2ece8fbd819cbf15351df38555a1fbaf6bf"
-  },
-  "制作源文件/video/voice-0.wav": {
-    "bytes": 772174,
-    "sha256": "da9c26363bf1a0aad9c1bf6027f3f536fe94f4e21aa1db09100bc24abcaba148"
-  },
-  "制作源文件/video/voice-1.wav": {
-    "bytes": 680014,
-    "sha256": "fb504877c7d0ef3d0421081b57b12fd5f76ce318457ac9bb3119d8eb8f16303a"
-  },
-  "制作源文件/video/voice-2.wav": {
-    "bytes": 746830,
-    "sha256": "a071877d92cfa4b9f1b6bb2643fab70f5caa80a9c98060be44dfd4350e488221"
-  },
-  "制作源文件/video/voice-3.wav": {
-    "bytes": 785998,
-    "sha256": "2cfbcfdb8efa3d709795f30ab06199b25cfe878bd8f90b02d6e027b45ad9b2d6"
-  },
-  "制作源文件/video/voice-4.wav": {
-    "bytes": 924238,
-    "sha256": "68849d3066faa11687abec72016dcc2e1864b139a20319f87689f6fac50fad41"
-  },
-  "制作源文件/video/voice-5.wav": {
-    "bytes": 746830,
-    "sha256": "1293d024d0ab4a007881cfeaab6e4616f69e485c070c6b493ff3ed7ba0ad6bc8"
+  "制作源文件/video-v2/DESIGN.md": {
+    "bytes": 1293,
+    "sha256": "01c1f33c67fb25b77681517deb5ad7b87e1e7b406c9db17520c90b7e74b94c59"
   },
   "制作源文件/video-v2/ambience.wav": {
     "bytes": 19008102,
@@ -886,10 +766,6 @@
   "制作源文件/video-v2/captions.json": {
     "bytes": 2219,
     "sha256": "4fb76e283fe0078923ccb6566f535d4c8cb926b698d0ba9397428b63c0bfd106"
-  },
-  "制作源文件/video-v2/DESIGN.md": {
-    "bytes": 1293,
-    "sha256": "01c1f33c67fb25b77681517deb5ad7b87e1e7b406c9db17520c90b7e74b94c59"
   },
   "制作源文件/video-v2/final-mix.wav": {
     "bytes": 19008102,
@@ -996,6 +872,82 @@
     "sha256": "68849d3066faa11687abec72016dcc2e1864b139a20319f87689f6fac50fad41"
   },
   "制作源文件/video-v2/voice-5.wav": {
+    "bytes": 746830,
+    "sha256": "1293d024d0ab4a007881cfeaab6e4616f69e485c070c6b493ff3ed7ba0ad6bc8"
+  },
+  "制作源文件/video/DESIGN.md": {
+    "bytes": 1843,
+    "sha256": "99f16648139f14cf8f92e80facd14f08b54eaec0738d2fcb3a8fc49476363753"
+  },
+  "制作源文件/video/atlas.png": {
+    "bytes": 3022063,
+    "sha256": "9303869e66fa298cf203deb96f060c888b75aed5a792a59e0f8b0939acf625fd"
+  },
+  "制作源文件/video/hyperframes.json": {
+    "bytes": 318,
+    "sha256": "53dbce1e19aa713cbb12ee0bc4d206143b45ab15e6ffbfcaa8f69572d4d24d50"
+  },
+  "制作源文件/video/index.html": {
+    "bytes": 9847,
+    "sha256": "ac9a6a4718e9c75aa10c36e8b6f6e8507acaedc2dd9c45c041224742574a8548"
+  },
+  "制作源文件/video/make-video.py": {
+    "bytes": 6422,
+    "sha256": "0d2bfcd45bfebe76b0ef032b609ae6860032580c081d01071e86c62961f24055"
+  },
+  "制作源文件/video/meta.json": {
+    "bytes": 81,
+    "sha256": "ebbf27b8d63b57b6aa1f543092245ea8feb87683c15f50e3d9fa87a842ceaa14"
+  },
+  "制作源文件/video/mix-final.py": {
+    "bytes": 1478,
+    "sha256": "3b246bb0164281db63b2b4783111ab4373c51cf1581e9b8195b00f855a766c83"
+  },
+  "制作源文件/video/music.wav": {
+    "bytes": 11642444,
+    "sha256": "14654db679addc44feb647dd33c7ee2032334f497847c532802c49aeefa3f005"
+  },
+  "制作源文件/video/neural-narrate.py": {
+    "bytes": 1220,
+    "sha256": "f4f7be11c9836d07b90fcc1e1b742aaee299ccb6bd456c843066f0f01ef77eda"
+  },
+  "制作源文件/video/package.json": {
+    "bytes": 294,
+    "sha256": "57ab516f25ce2a46e8b01db0e0042ea6260ed893b32ce98fa8478e20a918d169"
+  },
+  "制作源文件/video/scenes.json": {
+    "bytes": 2264,
+    "sha256": "dde48fede77721feaf5ddefbcd1752f6694aa8c9b32ac29f81f11c061129039d"
+  },
+  "制作源文件/video/subtitles.srt": {
+    "bytes": 784,
+    "sha256": "5faed28a6dc8739ed8450bcb804c849b8c2edd79619b3c717ce7ff1c9fbdb845"
+  },
+  "制作源文件/video/subtitles.vtt": {
+    "bytes": 776,
+    "sha256": "f3c73df10be68d734af772fc5a95d2ece8fbd819cbf15351df38555a1fbaf6bf"
+  },
+  "制作源文件/video/voice-0.wav": {
+    "bytes": 772174,
+    "sha256": "da9c26363bf1a0aad9c1bf6027f3f536fe94f4e21aa1db09100bc24abcaba148"
+  },
+  "制作源文件/video/voice-1.wav": {
+    "bytes": 680014,
+    "sha256": "fb504877c7d0ef3d0421081b57b12fd5f76ce318457ac9bb3119d8eb8f16303a"
+  },
+  "制作源文件/video/voice-2.wav": {
+    "bytes": 746830,
+    "sha256": "a071877d92cfa4b9f1b6bb2643fab70f5caa80a9c98060be44dfd4350e488221"
+  },
+  "制作源文件/video/voice-3.wav": {
+    "bytes": 785998,
+    "sha256": "2cfbcfdb8efa3d709795f30ab06199b25cfe878bd8f90b02d6e027b45ad9b2d6"
+  },
+  "制作源文件/video/voice-4.wav": {
+    "bytes": 924238,
+    "sha256": "68849d3066faa11687abec72016dcc2e1864b139a20319f87689f6fac50fad41"
+  },
+  "制作源文件/video/voice-5.wav": {
     "bytes": 746830,
     "sha256": "1293d024d0ab4a007881cfeaab6e4616f69e485c070c6b493ff3ed7ba0ad6bc8"
   },
@@ -1291,14 +1243,6 @@
     "bytes": 1947,
     "sha256": "1f54d2d09c891ce6a4f291f9121841f206144285d8e5e1c42f0602eeed28930a"
   },
-  "材料/手机布局回归/chenpi-card-1440.png": {
-    "bytes": 369497,
-    "sha256": "32e1ff3e2c9091de1a48ea39ecca264430b085d1d426ddbd17a112c3d541b238"
-  },
-  "材料/手机布局回归/chenpi-card-390.png": {
-    "bytes": 192224,
-    "sha256": "44bffc6ad20f53ed05ef7608eaf694d19d5b1956f30351289877d92d5cba2424"
-  },
   "材料/手机布局回归/FAIL-travel-390-3-css-failed.png": {
     "bytes": 817430,
     "sha256": "bfee2c88fa3eced896d381c3142a55f0976daee1872b345fc4930af95420bbf1"
@@ -1306,6 +1250,14 @@
   "材料/手机布局回归/FAIL-travel-390-3-stale-css.png": {
     "bytes": 1114266,
     "sha256": "6cc13495f6aa21b2b71d89be6dd538c13a409b9c0b7c446cb2f7196d4dabbeb3"
+  },
+  "材料/手机布局回归/chenpi-card-1440.png": {
+    "bytes": 369497,
+    "sha256": "32e1ff3e2c9091de1a48ea39ecca264430b085d1d426ddbd17a112c3d541b238"
+  },
+  "材料/手机布局回归/chenpi-card-390.png": {
+    "bytes": 192224,
+    "sha256": "44bffc6ad20f53ed05ef7608eaf694d19d5b1956f30351289877d92d5cba2424"
   },
   "材料/手机布局回归/food-390-3-css-failed.png": {
     "bytes": 645352,
