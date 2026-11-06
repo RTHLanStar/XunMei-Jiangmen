@@ -239,7 +239,8 @@ python 制作源文件/build.py --package
 ```text
 XunMei-Jiangmen/
 ├── README.md                     # 项目说明（本文件）
-├── LICENSE                       # CC BY-NC-ND 4.0 许可声明与法律文本
+├── LICENSE                       # CC BY-NC-ND 4.0 官方法律文本
+├── NOTICE.md                     # 署名、许可范围与第三方素材例外
 ├── DESIGN.md                     # 设计约束、素材边界与维护规则
 ├── site/
 │   └── dist/                     # 可直接运行的九页站点，也是前端源码
@@ -332,6 +333,8 @@ A：不可以。作品采用 CC BY-NC-ND 4.0，禁止商业使用与演绎改编
 本作品采用 **知识共享 署名—非商业性使用—禁止演绎 4.0 国际许可协议**（Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International，简称 **CC BY-NC-ND 4.0**）。
 
 许可协议全文：<https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.zh-Hans>
+
+仓库中的 `LICENSE` 为 CC BY-NC-ND 4.0 官方英文法律文本，`NOTICE.md` 说明本作品的署名、覆盖范围与第三方素材例外。
 
 ### 选择理由
 
