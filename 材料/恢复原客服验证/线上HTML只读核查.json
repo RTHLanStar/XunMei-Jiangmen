@@ -1,0 +1,16 @@
+{
+  "checkedAt": "2026-10-19T16:40:19.950440+08:00",
+  "url": "https://qxlx.ccot.pro/v2.2/",
+  "status": 200,
+  "hasKnocket": false,
+  "hasTravelPageLink": false,
+  "hasFaqPageLink": false,
+  "scripts": [
+    "common.js?v=polish-20261014",
+    "chapters.js",
+    "stories-data.js",
+    "postcard.js?v=polish-20261014",
+    "app.js?v=polish-20261014",
+    "polish.js?v=polish-20261014"
+  ]
+}

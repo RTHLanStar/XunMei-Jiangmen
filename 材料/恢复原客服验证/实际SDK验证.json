@@ -1,0 +1,64 @@
+{
+  "sdk": "https://trtc.io/knocket-sdk/sdk.js?identifier=7cacdcf02616dcfa4e&v=1792068177788",
+  "fixture": "sdk-only.html",
+  "scope": "Actual SDK only; no message entered or sent; no mocked API",
+  "responses": [
+    {
+      "url": "https://trtc.io/knocket-sdk/sdk.js?identifier=7cacdcf02616dcfa4e&v=1792068177788",
+      "status": 200
+    },
+    {
+      "url": "https://trtc.io/knocket-sdk/sdk.css",
+      "status": 200
+    },
+    {
+      "url": "https://trtc.io/js/shence814.min.js",
+      "status": 200
+    },
+    {
+      "url": "https://api.trtc.io/common/portal-api-lc",
+      "status": 200,
+      "code": 0
+    },
+    {
+      "url": "https://api.trtc.io/common/portal-api-lc",
+      "status": 200,
+      "code": 0
+    },
+    {
+      "url": "https://api.trtc.io/common/portal-api-lc",
+      "status": 200,
+      "code": 0
+    },
+    {
+      "url": "https://api.trtc.io/common/portal-api-lc",
+      "status": 200,
+      "code": 0
+    },
+    {
+      "url": "https://api.trtc.io/common/portal-api-lc",
+      "status": 200,
+      "code": 0
+    },
+    {
+      "url": "https://api.trtc.io/common/portal-api-lc",
+      "status": 200,
+      "code": 0
+    }
+  ],
+  "failedRequests": [],
+  "consoleErrors": [],
+  "snapshots": [
+    {
+      "name": "01-sdk-loaded",
+      "url": "http://127.0.0.1:13022/",
+      "frames": [
+        {
+          "url": "http://127.0.0.1:13022/",
+          "buttons": [],
+          "text": "原始客服挂件隔离验证\n\n本页仅加载用户原始 SDK。只查看，不输入或发送消息。"
+        }
+      ]
+    }
+  ]
+}

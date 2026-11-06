@@ -1,0 +1,131 @@
+{
+  "local": {
+    "about.html": {
+      "exact_sdk_count": 1,
+      "before_body": true
+    },
+    "faq.html": {
+      "exact_sdk_count": 1,
+      "before_body": true
+    },
+    "food.html": {
+      "exact_sdk_count": 1,
+      "before_body": true
+    },
+    "index.html": {
+      "exact_sdk_count": 1,
+      "before_body": true
+    },
+    "letters.html": {
+      "exact_sdk_count": 1,
+      "before_body": true
+    },
+    "routes.html": {
+      "exact_sdk_count": 1,
+      "before_body": true
+    },
+    "stories.html": {
+      "exact_sdk_count": 1,
+      "before_body": true
+    },
+    "tour.html": {
+      "exact_sdk_count": 1,
+      "before_body": true
+    },
+    "travel.html": {
+      "exact_sdk_count": 1,
+      "before_body": true
+    }
+  },
+  "archives": {
+    "侨乡来信-虚拟主机静态部署包.zip": {
+      "html_count": 9,
+      "files": {
+        "about.html": {
+          "exact_sdk_count": 1,
+          "before_body": true
+        },
+        "faq.html": {
+          "exact_sdk_count": 1,
+          "before_body": true
+        },
+        "food.html": {
+          "exact_sdk_count": 1,
+          "before_body": true
+        },
+        "index.html": {
+          "exact_sdk_count": 1,
+          "before_body": true
+        },
+        "letters.html": {
+          "exact_sdk_count": 1,
+          "before_body": true
+        },
+        "routes.html": {
+          "exact_sdk_count": 1,
+          "before_body": true
+        },
+        "stories.html": {
+          "exact_sdk_count": 1,
+          "before_body": true
+        },
+        "tour.html": {
+          "exact_sdk_count": 1,
+          "before_body": true
+        },
+        "travel.html": {
+          "exact_sdk_count": 1,
+          "before_body": true
+        }
+      }
+    },
+    "侨乡来信-参赛作品包.zip": {
+      "html_count": 9,
+      "files": {
+        "侨乡来信-参赛作品包/互动网页/about.html": {
+          "exact_sdk_count": 1,
+          "before_body": true
+        },
+        "侨乡来信-参赛作品包/互动网页/faq.html": {
+          "exact_sdk_count": 1,
+          "before_body": true
+        },
+        "侨乡来信-参赛作品包/互动网页/food.html": {
+          "exact_sdk_count": 1,
+          "before_body": true
+        },
+        "侨乡来信-参赛作品包/互动网页/index.html": {
+          "exact_sdk_count": 1,
+          "before_body": true
+        },
+        "侨乡来信-参赛作品包/互动网页/letters.html": {
+          "exact_sdk_count": 1,
+          "before_body": true
+        },
+        "侨乡来信-参赛作品包/互动网页/routes.html": {
+          "exact_sdk_count": 1,
+          "before_body": true
+        },
+        "侨乡来信-参赛作品包/互动网页/stories.html": {
+          "exact_sdk_count": 1,
+          "before_body": true
+        },
+        "侨乡来信-参赛作品包/互动网页/tour.html": {
+          "exact_sdk_count": 1,
+          "before_body": true
+        },
+        "侨乡来信-参赛作品包/互动网页/travel.html": {
+          "exact_sdk_count": 1,
+          "before_body": true
+        }
+      }
+    }
+  },
+  "notes": [
+    "Only identified broad iframe/aside hiding rule is in @media print in presentation.css lines 16–29. Screen display is not disabled.",
+    "polish.js MutationObserver watches .stamps [data-stamp] class only; unrelated to online customer service.",
+    "build-travel-guide.py removes existing exact SDK and re-adds it before </body> to deduplicate; this does not omit SDK.",
+    "KB Q47 and Q70 still mention 88 answers and 2026-10-18; must revise to current 94 answers and 2026-10-19, retaining separate cloud import requirements.",
+    "This check establishes script preservation only, not cloud configuration, service reachability, or online agent availability."
+  ]
+}

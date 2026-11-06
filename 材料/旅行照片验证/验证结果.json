@@ -1,0 +1,654 @@
+{
+  "checkedAt": "2026-10-24T11:06:27.267Z",
+  "checks": [
+    {
+      "name": "responsive-photos",
+      "width": 320,
+      "noOverflow": true,
+      "photos": [
+        {
+          "src": "assets/travel/chuandao-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/chuandao-480.webp",
+          "loaded": true,
+          "alt": "台山上川岛飞沙滩的沙滩、海湾与远山实景",
+          "renderedWidth": 281.59375
+        },
+        {
+          "src": "assets/travel/longdi-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/longdi-480.webp",
+          "loaded": true,
+          "alt": "长堤路沿江骑楼建筑群，摄于2006年",
+          "renderedWidth": 279.59375
+        },
+        {
+          "src": "assets/travel/qiming-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/qiming-480.webp",
+          "loaded": true,
+          "alt": "江门蓬江启明里20号与21号侨屋，摄于2026年",
+          "renderedWidth": 279.59375
+        },
+        {
+          "src": "assets/travel/liang-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/liang-480.webp",
+          "loaded": true,
+          "alt": "新会梁启超故居纪念馆的建筑与水池，摄于2024年",
+          "renderedWidth": 279.59375
+        },
+        {
+          "src": "assets/travel/bird-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/bird-480.webp",
+          "loaded": true,
+          "alt": "新会小鸟天堂古榕与水岸，摄于2005年",
+          "renderedWidth": 279.59375
+        },
+        {
+          "src": "assets/travel/chenpi-village-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/chenpi-village-480.webp",
+          "loaded": true,
+          "alt": "新会陈皮村门楼与入口广场实景",
+          "renderedWidth": 279.59375
+        },
+        {
+          "src": "assets/travel/zili-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/zili-480.webp",
+          "loaded": true,
+          "alt": "开平塘口自力村的碉楼与田园实景",
+          "renderedWidth": 279.59375
+        },
+        {
+          "src": "assets/travel/chikan-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/chikan-480.webp",
+          "loaded": true,
+          "alt": "开平赤坎华侨古镇骑楼街区实景",
+          "renderedWidth": 279.59375
+        },
+        {
+          "src": "assets/travel/chuandao-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/chuandao-480.webp",
+          "loaded": true,
+          "alt": "台山上川岛飞沙滩的沙滩、海湾与远山实景",
+          "renderedWidth": 279.59375
+        },
+        {
+          "src": "assets/travel/baisha-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/baisha-480.webp",
+          "loaded": true,
+          "alt": "江门陈白沙纪念馆入口牌楼的夜景，摄于2013年",
+          "renderedWidth": 279.59375
+        },
+        {
+          "src": "assets/travel/baishuidai-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/baishuidai-480.webp",
+          "loaded": true,
+          "alt": "江海白水带山林与远处龙光塔，前景为山脚街区；历史实景照片",
+          "renderedWidth": 279.59375
+        },
+        {
+          "src": "assets/travel/shaobai-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/shaobai-480.webp",
+          "loaded": true,
+          "alt": "江海区外海陈少白故居的庭园、建筑与故居标识",
+          "renderedWidth": 279.59375
+        },
+        {
+          "src": "assets/travel/guifeng-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/guifeng-480.webp",
+          "loaded": true,
+          "alt": "新会圭峰山冈州第一峰牌坊，摄于2026年2月",
+          "renderedWidth": 279.59375
+        },
+        {
+          "src": "assets/travel/liyuan-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/liyuan-480.webp",
+          "loaded": true,
+          "alt": "开平立园的拱廊与阳光下的园林建筑",
+          "renderedWidth": 279.59375
+        },
+        {
+          "src": "assets/travel/majianglong-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/majianglong-480.webp",
+          "loaded": true,
+          "alt": "开平马降龙村落的青瓦民居与竹林树木",
+          "renderedWidth": 279.59375
+        },
+        {
+          "src": "assets/travel/meijia-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/meijia-480.webp",
+          "loaded": true,
+          "alt": "台山端芬梅家大院的广场及两侧骑楼实景",
+          "renderedWidth": 279.59375
+        },
+        {
+          "src": "assets/travel/haikoubu-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/haikoubu-480.webp",
+          "loaded": true,
+          "alt": "台山海口埠银信纪念广场与河岸实景",
+          "renderedWidth": 279.59375
+        },
+        {
+          "src": "assets/travel/gulao-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/gulao-480.webp",
+          "loaded": true,
+          "alt": "鹤山古劳水乡码头停泊的木质游船",
+          "renderedWidth": 279.59375
+        },
+        {
+          "src": "assets/travel/dayan-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/dayan-480.webp",
+          "loaded": true,
+          "alt": "鹤山大雁山山林与海会寺建筑远景",
+          "renderedWidth": 279.59375
+        },
+        {
+          "src": "assets/travel/xiema-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/xiema-480.webp",
+          "loaded": true,
+          "alt": "恩平歇马举人村临水古村与村前功名碑",
+          "renderedWidth": 279.59375
+        },
+        {
+          "src": "assets/travel/jinjiang-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/jinjiang-480.webp",
+          "loaded": true,
+          "alt": "恩平大田锦江温泉池区的瀑布景观与锦江温泉标识",
+          "renderedWidth": 279.59375
+        }
+      ]
+    },
+    {
+      "name": "responsive-photos",
+      "width": 390,
+      "noOverflow": true,
+      "photos": [
+        {
+          "src": "assets/travel/jinjiang-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/jinjiang-480.webp",
+          "loaded": true,
+          "alt": "恩平大田锦江温泉池区的瀑布景观与锦江温泉标识",
+          "renderedWidth": 343.1875
+        },
+        {
+          "src": "assets/travel/longdi-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/longdi-480.webp",
+          "loaded": true,
+          "alt": "长堤路沿江骑楼建筑群，摄于2006年",
+          "renderedWidth": 341.1875
+        },
+        {
+          "src": "assets/travel/qiming-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/qiming-480.webp",
+          "loaded": true,
+          "alt": "江门蓬江启明里20号与21号侨屋，摄于2026年",
+          "renderedWidth": 341.1875
+        },
+        {
+          "src": "assets/travel/liang-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/liang-480.webp",
+          "loaded": true,
+          "alt": "新会梁启超故居纪念馆的建筑与水池，摄于2024年",
+          "renderedWidth": 341.1875
+        },
+        {
+          "src": "assets/travel/bird-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/bird-480.webp",
+          "loaded": true,
+          "alt": "新会小鸟天堂古榕与水岸，摄于2005年",
+          "renderedWidth": 341.1875
+        },
+        {
+          "src": "assets/travel/chenpi-village-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/chenpi-village-480.webp",
+          "loaded": true,
+          "alt": "新会陈皮村门楼与入口广场实景",
+          "renderedWidth": 341.1875
+        },
+        {
+          "src": "assets/travel/zili-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/zili-480.webp",
+          "loaded": true,
+          "alt": "开平塘口自力村的碉楼与田园实景",
+          "renderedWidth": 341.1875
+        },
+        {
+          "src": "assets/travel/chikan-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/chikan-480.webp",
+          "loaded": true,
+          "alt": "开平赤坎华侨古镇骑楼街区实景",
+          "renderedWidth": 341.1875
+        },
+        {
+          "src": "assets/travel/chuandao-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/chuandao-480.webp",
+          "loaded": true,
+          "alt": "台山上川岛飞沙滩的沙滩、海湾与远山实景",
+          "renderedWidth": 341.1875
+        },
+        {
+          "src": "assets/travel/baisha-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/baisha-480.webp",
+          "loaded": true,
+          "alt": "江门陈白沙纪念馆入口牌楼的夜景，摄于2013年",
+          "renderedWidth": 341.1875
+        },
+        {
+          "src": "assets/travel/baishuidai-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/baishuidai-480.webp",
+          "loaded": true,
+          "alt": "江海白水带山林与远处龙光塔，前景为山脚街区；历史实景照片",
+          "renderedWidth": 341.1875
+        },
+        {
+          "src": "assets/travel/shaobai-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/shaobai-480.webp",
+          "loaded": true,
+          "alt": "江海区外海陈少白故居的庭园、建筑与故居标识",
+          "renderedWidth": 341.1875
+        },
+        {
+          "src": "assets/travel/guifeng-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/guifeng-480.webp",
+          "loaded": true,
+          "alt": "新会圭峰山冈州第一峰牌坊，摄于2026年2月",
+          "renderedWidth": 341.1875
+        },
+        {
+          "src": "assets/travel/liyuan-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/liyuan-480.webp",
+          "loaded": true,
+          "alt": "开平立园的拱廊与阳光下的园林建筑",
+          "renderedWidth": 341.1875
+        },
+        {
+          "src": "assets/travel/majianglong-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/majianglong-480.webp",
+          "loaded": true,
+          "alt": "开平马降龙村落的青瓦民居与竹林树木",
+          "renderedWidth": 341.1875
+        },
+        {
+          "src": "assets/travel/meijia-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/meijia-480.webp",
+          "loaded": true,
+          "alt": "台山端芬梅家大院的广场及两侧骑楼实景",
+          "renderedWidth": 341.1875
+        },
+        {
+          "src": "assets/travel/haikoubu-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/haikoubu-480.webp",
+          "loaded": true,
+          "alt": "台山海口埠银信纪念广场与河岸实景",
+          "renderedWidth": 341.1875
+        },
+        {
+          "src": "assets/travel/gulao-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/gulao-480.webp",
+          "loaded": true,
+          "alt": "鹤山古劳水乡码头停泊的木质游船",
+          "renderedWidth": 341.1875
+        },
+        {
+          "src": "assets/travel/dayan-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/dayan-480.webp",
+          "loaded": true,
+          "alt": "鹤山大雁山山林与海会寺建筑远景",
+          "renderedWidth": 341.1875
+        },
+        {
+          "src": "assets/travel/xiema-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/xiema-480.webp",
+          "loaded": true,
+          "alt": "恩平歇马举人村临水古村与村前功名碑",
+          "renderedWidth": 341.1875
+        },
+        {
+          "src": "assets/travel/jinjiang-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/jinjiang-480.webp",
+          "loaded": true,
+          "alt": "恩平大田锦江温泉池区的瀑布景观与锦江温泉标识",
+          "renderedWidth": 341.1875
+        }
+      ]
+    },
+    {
+      "name": "responsive-photos",
+      "width": 768,
+      "noOverflow": true,
+      "photos": [
+        {
+          "src": "assets/travel/gulao-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/gulao-480.webp",
+          "loaded": true,
+          "alt": "鹤山古劳水乡码头停泊的木质游船",
+          "renderedWidth": 333.375
+        },
+        {
+          "src": "assets/travel/longdi-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/longdi-480.webp",
+          "loaded": true,
+          "alt": "长堤路沿江骑楼建筑群，摄于2006年",
+          "renderedWidth": 324.90625
+        },
+        {
+          "src": "assets/travel/qiming-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/qiming-480.webp",
+          "loaded": true,
+          "alt": "江门蓬江启明里20号与21号侨屋，摄于2026年",
+          "renderedWidth": 324.921875
+        },
+        {
+          "src": "assets/travel/liang-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/liang-480.webp",
+          "loaded": true,
+          "alt": "新会梁启超故居纪念馆的建筑与水池，摄于2024年",
+          "renderedWidth": 324.90625
+        },
+        {
+          "src": "assets/travel/bird-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/bird-480.webp",
+          "loaded": true,
+          "alt": "新会小鸟天堂古榕与水岸，摄于2005年",
+          "renderedWidth": 324.921875
+        },
+        {
+          "src": "assets/travel/chenpi-village-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/chenpi-village-480.webp",
+          "loaded": true,
+          "alt": "新会陈皮村门楼与入口广场实景",
+          "renderedWidth": 324.90625
+        },
+        {
+          "src": "assets/travel/zili-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/zili-480.webp",
+          "loaded": true,
+          "alt": "开平塘口自力村的碉楼与田园实景",
+          "renderedWidth": 324.921875
+        },
+        {
+          "src": "assets/travel/chikan-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/chikan-480.webp",
+          "loaded": true,
+          "alt": "开平赤坎华侨古镇骑楼街区实景",
+          "renderedWidth": 324.90625
+        },
+        {
+          "src": "assets/travel/chuandao-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/chuandao-480.webp",
+          "loaded": true,
+          "alt": "台山上川岛飞沙滩的沙滩、海湾与远山实景",
+          "renderedWidth": 324.921875
+        },
+        {
+          "src": "assets/travel/baisha-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/baisha-480.webp",
+          "loaded": true,
+          "alt": "江门陈白沙纪念馆入口牌楼的夜景，摄于2013年",
+          "renderedWidth": 324.90625
+        },
+        {
+          "src": "assets/travel/baishuidai-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/baishuidai-480.webp",
+          "loaded": true,
+          "alt": "江海白水带山林与远处龙光塔，前景为山脚街区；历史实景照片",
+          "renderedWidth": 324.921875
+        },
+        {
+          "src": "assets/travel/shaobai-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/shaobai-480.webp",
+          "loaded": true,
+          "alt": "江海区外海陈少白故居的庭园、建筑与故居标识",
+          "renderedWidth": 324.90625
+        },
+        {
+          "src": "assets/travel/guifeng-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/guifeng-480.webp",
+          "loaded": true,
+          "alt": "新会圭峰山冈州第一峰牌坊，摄于2026年2月",
+          "renderedWidth": 324.921875
+        },
+        {
+          "src": "assets/travel/liyuan-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/liyuan-480.webp",
+          "loaded": true,
+          "alt": "开平立园的拱廊与阳光下的园林建筑",
+          "renderedWidth": 324.90625
+        },
+        {
+          "src": "assets/travel/majianglong-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/majianglong-480.webp",
+          "loaded": true,
+          "alt": "开平马降龙村落的青瓦民居与竹林树木",
+          "renderedWidth": 324.921875
+        },
+        {
+          "src": "assets/travel/meijia-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/meijia-480.webp",
+          "loaded": true,
+          "alt": "台山端芬梅家大院的广场及两侧骑楼实景",
+          "renderedWidth": 324.90625
+        },
+        {
+          "src": "assets/travel/haikoubu-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/haikoubu-480.webp",
+          "loaded": true,
+          "alt": "台山海口埠银信纪念广场与河岸实景",
+          "renderedWidth": 324.921875
+        },
+        {
+          "src": "assets/travel/gulao-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/gulao-480.webp",
+          "loaded": true,
+          "alt": "鹤山古劳水乡码头停泊的木质游船",
+          "renderedWidth": 324.90625
+        },
+        {
+          "src": "assets/travel/dayan-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/dayan-480.webp",
+          "loaded": true,
+          "alt": "鹤山大雁山山林与海会寺建筑远景",
+          "renderedWidth": 324.921875
+        },
+        {
+          "src": "assets/travel/xiema-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/xiema-480.webp",
+          "loaded": true,
+          "alt": "恩平歇马举人村临水古村与村前功名碑",
+          "renderedWidth": 324.90625
+        },
+        {
+          "src": "assets/travel/jinjiang-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/jinjiang-480.webp",
+          "loaded": true,
+          "alt": "恩平大田锦江温泉池区的瀑布景观与锦江温泉标识",
+          "renderedWidth": 324.921875
+        }
+      ]
+    },
+    {
+      "name": "responsive-photos",
+      "width": 1440,
+      "noOverflow": true,
+      "photos": [
+        {
+          "src": "assets/travel/chuandao-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/chuandao-960.webp",
+          "loaded": true,
+          "alt": "台山上川岛飞沙滩的沙滩、海湾与远山实景",
+          "renderedWidth": 582.0625
+        },
+        {
+          "src": "assets/travel/longdi-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/longdi-960.webp",
+          "loaded": true,
+          "alt": "长堤路沿江骑楼建筑群，摄于2006年",
+          "renderedWidth": 376.65625
+        },
+        {
+          "src": "assets/travel/qiming-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/qiming-960.webp",
+          "loaded": true,
+          "alt": "江门蓬江启明里20号与21号侨屋，摄于2026年",
+          "renderedWidth": 376.671875
+        },
+        {
+          "src": "assets/travel/liang-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/liang-960.webp",
+          "loaded": true,
+          "alt": "新会梁启超故居纪念馆的建筑与水池，摄于2024年",
+          "renderedWidth": 376.65625
+        },
+        {
+          "src": "assets/travel/bird-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/bird-960.webp",
+          "loaded": true,
+          "alt": "新会小鸟天堂古榕与水岸，摄于2005年",
+          "renderedWidth": 376.65625
+        },
+        {
+          "src": "assets/travel/chenpi-village-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/chenpi-village-960.webp",
+          "loaded": true,
+          "alt": "新会陈皮村门楼与入口广场实景",
+          "renderedWidth": 376.671875
+        },
+        {
+          "src": "assets/travel/zili-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/zili-960.webp",
+          "loaded": true,
+          "alt": "开平塘口自力村的碉楼与田园实景",
+          "renderedWidth": 376.65625
+        },
+        {
+          "src": "assets/travel/chikan-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/chikan-960.webp",
+          "loaded": true,
+          "alt": "开平赤坎华侨古镇骑楼街区实景",
+          "renderedWidth": 376.65625
+        },
+        {
+          "src": "assets/travel/chuandao-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/chuandao-960.webp",
+          "loaded": true,
+          "alt": "台山上川岛飞沙滩的沙滩、海湾与远山实景",
+          "renderedWidth": 376.671875
+        },
+        {
+          "src": "assets/travel/baisha-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/baisha-960.webp",
+          "loaded": true,
+          "alt": "江门陈白沙纪念馆入口牌楼的夜景，摄于2013年",
+          "renderedWidth": 376.65625
+        },
+        {
+          "src": "assets/travel/baishuidai-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/baishuidai-960.webp",
+          "loaded": true,
+          "alt": "江海白水带山林与远处龙光塔，前景为山脚街区；历史实景照片",
+          "renderedWidth": 376.65625
+        },
+        {
+          "src": "assets/travel/shaobai-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/shaobai-960.webp",
+          "loaded": true,
+          "alt": "江海区外海陈少白故居的庭园、建筑与故居标识",
+          "renderedWidth": 376.671875
+        },
+        {
+          "src": "assets/travel/guifeng-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/guifeng-960.webp",
+          "loaded": true,
+          "alt": "新会圭峰山冈州第一峰牌坊，摄于2026年2月",
+          "renderedWidth": 376.65625
+        },
+        {
+          "src": "assets/travel/liyuan-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/liyuan-960.webp",
+          "loaded": true,
+          "alt": "开平立园的拱廊与阳光下的园林建筑",
+          "renderedWidth": 376.65625
+        },
+        {
+          "src": "assets/travel/majianglong-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/majianglong-960.webp",
+          "loaded": true,
+          "alt": "开平马降龙村落的青瓦民居与竹林树木",
+          "renderedWidth": 376.671875
+        },
+        {
+          "src": "assets/travel/meijia-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/meijia-960.webp",
+          "loaded": true,
+          "alt": "台山端芬梅家大院的广场及两侧骑楼实景",
+          "renderedWidth": 376.65625
+        },
+        {
+          "src": "assets/travel/haikoubu-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/haikoubu-960.webp",
+          "loaded": true,
+          "alt": "台山海口埠银信纪念广场与河岸实景",
+          "renderedWidth": 376.65625
+        },
+        {
+          "src": "assets/travel/gulao-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/gulao-960.webp",
+          "loaded": true,
+          "alt": "鹤山古劳水乡码头停泊的木质游船",
+          "renderedWidth": 376.671875
+        },
+        {
+          "src": "assets/travel/dayan-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/dayan-960.webp",
+          "loaded": true,
+          "alt": "鹤山大雁山山林与海会寺建筑远景",
+          "renderedWidth": 376.65625
+        },
+        {
+          "src": "assets/travel/xiema-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/xiema-960.webp",
+          "loaded": true,
+          "alt": "恩平歇马举人村临水古村与村前功名碑",
+          "renderedWidth": 376.65625
+        },
+        {
+          "src": "assets/travel/jinjiang-960.webp",
+          "currentSrc": "http://127.0.0.1:7954/v2.2/assets/travel/jinjiang-960.webp",
+          "loaded": true,
+          "alt": "恩平大田锦江温泉池区的瀑布景观与锦江温泉标识",
+          "renderedWidth": 376.671875
+        }
+      ]
+    },
+    {
+      "name": "local-srcset-alt-reserved-size-source-and-license",
+      "passed": true
+    },
+    {
+      "name": "random-cover-six-refreshes-metadata-and-storage-denied",
+      "passed": true,
+      "coverIds": [
+        "baishuidai",
+        "qiming",
+        "meijia",
+        "chuandao",
+        "xiema",
+        "dayan"
+      ]
+    },
+    {
+      "name": "region-url-reset-wishlist-reload-and-map-destinations",
+      "passed": true
+    },
+    {
+      "name": "failed-photos-readable-fallback",
+      "passed": true
+    },
+    {
+      "name": "no-js-content-photos-native-source-details-map",
+      "passed": true
+    }
+  ],
+  "errors": [],
+  "failed": [],
+  "basePath": "/v2.2/",
+  "photoBytes": 2399356,
+  "passed": true
+}

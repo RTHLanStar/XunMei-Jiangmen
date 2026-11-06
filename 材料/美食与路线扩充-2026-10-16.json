@@ -1,0 +1,538 @@
+{
+  "title": "江门美食与片区旅行建议扩充",
+  "checkedAt": "2026-10-16",
+  "scope": "追加6道菜式、美食总数14项；提供3条片区路线和雨天、亲子、交通建议。保留原8道美食及其2026-10-15核查边界，新增内容不代表旧内容全部重新核验。",
+  "newSources": {
+    "hetang2023": {
+      "title": "24家大大小小的鱼饼店遍布全镇 荷塘鱼饼，何以“出塘”？",
+      "publisher": "江门市人民政府门户网站（来源：江门新闻网）",
+      "date": "2023-11-10",
+      "url": "https://www.jiangmen.gov.cn/newzjqx/lyzy/qxms/content/post_2973860.html",
+      "access": "完整页面已读取；仅取菜式与鲮鱼原料，不沿用报道中的店铺数量、价格或经营近况",
+      "checkedAt": "2026-10-16"
+    },
+    "duruan2026": {
+      "title": "点瓜成“金” 连片振兴 蓬江区杜阮镇走出一条品牌提质、三产联动、镇村协同的发展之路",
+      "publisher": "江门市人民政府门户网站（来源：江门新闻网）",
+      "date": "2026-07-14",
+      "url": "https://www.jiangmen.gov.cn/home/sqdt/pkzx/content/post_3520614.html",
+      "access": "完整页面已读取；采用产地与苦中回甘等风味介绍，不采用产业预测与价格",
+      "checkedAt": "2026-10-16"
+    },
+    "duruanSoup2023": {
+      "title": "供销助力特色农业发展 擦亮杜阮凉瓜招牌——杜阮凉瓜小馆正式开业",
+      "publisher": "江门市供销合作联社",
+      "date": "2023-10-20",
+      "url": "https://www.jiangmen.gov.cn/jmgxs/gkmlpt/content/2/2959/post_2959789.html",
+      "access": "搜索索引可读完整文字；直接打开失败。仅用于确认当地已有凉瓜排骨汤这一做法，不据此推荐仍营业的店铺",
+      "checkedAt": "2026-10-16"
+    },
+    "enpingCake2025": {
+      "title": "又上央视！恩平清明特色小吃，真香！还有这些时令美食→",
+      "publisher": "江门市文化广电旅游体育局",
+      "date": "2025-03-31",
+      "url": "https://www.jiangmen.gov.cn/bmpd/jmswhgdlytyj/zwgk/gzdt/content/post_3271572.html",
+      "access": "完整页面已读取；取糯米粉、糖水发酵及烘烤做法，不搬用其他小吃的健康功效",
+      "checkedAt": "2026-10-16"
+    },
+    "taishanTangyuan2023": {
+      "title": "〖网络中国节·元宵〗元宵节，台山人吃油饭和咸汤圆！",
+      "publisher": "台山市人民政府门户网站（来源：台山发布）",
+      "date": "2023-02-03",
+      "url": "https://www.cnts.gov.cn/tssrmzf/tsyw/ztbd/wlzgjdw/content/post_2789547.html",
+      "access": "完整页面已读取；确认无馅糯米丸与萝卜丝、虾干、鸡丝、冬菇等咸鲜汤底",
+      "checkedAt": "2026-10-16"
+    },
+    "kaipingSnack2021": {
+      "title": "独具魅力的开平美食！鸡笼无鸡引客来，豆腐长毛受青睐！",
+      "publisher": "开平发布（澎湃号·政务；正文来源：江门发布）",
+      "date": "2021-09-11",
+      "url": "https://www.thepaper.cn/newsDetail_forward_14465022",
+      "access": "完整页面已读取；确认米皮咸馅、半月或扭纹形及油炸做法",
+      "checkedAt": "2026-10-16"
+    }
+  },
+  "newFoods": [
+    {
+      "id": "hetang-fish-cakes",
+      "name": "荷塘鱼饼",
+      "district": "蓬江区",
+      "area": "荷塘镇",
+      "category": "香煎小吃",
+      "taste": "鲮鱼蓉煎出焦香外层，内里细嫩而有弹性。",
+      "intro": "一口煎鱼饼，把荷塘的水乡滋味带到餐桌。",
+      "editorialTip": "可点小份现煎鱼饼配正餐；荷塘与长堤老城之间仍需接驳，不要按步行小吃街来安排。",
+      "suitableFor": "喜欢鱼鲜与香煎小吃、准备游蓬江的游客",
+      "searchKeyword": "江门 蓬江 荷塘鱼饼",
+      "sourceIds": [
+        "guide2024",
+        "hetang2023"
+      ],
+      "relatedReviewIds": [],
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "id": "duruan-bitter-melon",
+      "name": "杜阮凉瓜",
+      "district": "蓬江区",
+      "area": "杜阮镇及蓬江餐馆",
+      "category": "时令蔬菜",
+      "taste": "肉厚，微苦中带回甘，适合清炒或煲汤。",
+      "intro": "给烧味之外的江门餐桌，添一抹清绿。",
+      "editorialTip": "先问当日是否使用杜阮凉瓜，按口味选豉汁炒凉瓜或凉瓜排骨汤；供货与做法随店而异。",
+      "suitableFor": "愿意尝试微苦蔬菜、想让正餐搭配更丰富的游客",
+      "searchKeyword": "江门 蓬江 杜阮凉瓜 凉瓜排骨汤",
+      "sourceIds": [
+        "guide2024",
+        "duruan2026",
+        "duruanSoup2023"
+      ],
+      "relatedReviewIds": [],
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "id": "lile-ribs",
+      "name": "礼乐排骨",
+      "district": "江海区",
+      "area": "礼乐街道",
+      "category": "蒸菜",
+      "taste": "小块排骨蒸出肉香与汁水，口味以鲜香为主。",
+      "intro": "一小碟热气腾腾的蒸排骨，是礼乐的家常认真。",
+      "editorialTip": "适合放进江海线午餐，与米饭、蔬菜搭配；先问现蒸等待时间，再按人数点份量。",
+      "suitableFor": "喜欢蒸菜、希望安排一顿家常正餐的游客",
+      "searchKeyword": "江门 江海 礼乐排骨",
+      "sourceIds": [
+        "guide2024"
+      ],
+      "relatedReviewIds": [],
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "id": "enping-shaobing",
+      "name": "恩平烧饼",
+      "district": "恩平市",
+      "area": "恩城及恩平糕点店",
+      "category": "糯米点心",
+      "taste": "烘烤表皮带香气，糯米饼身柔韧，馅料有不同甜咸选择。",
+      "intro": "把一枚带着炭火记忆的糯米烧饼，留作恩平行程的小点。",
+      "editorialTip": "买前询问当天馅料和食用、保存方式；清明相关介绍是民俗背景，不代表店家仅在节日售卖或全年都有全部口味。",
+      "suitableFor": "喜欢糯米点心、想带一份糕点作伴手礼的游客",
+      "searchKeyword": "恩平 烧饼 糯米",
+      "sourceIds": [
+        "enpingCake2025"
+      ],
+      "relatedReviewIds": [],
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "id": "taishan-savory-tangyuan",
+      "name": "台山咸汤圆",
+      "district": "台山市",
+      "area": "台城及台山小食店",
+      "category": "咸鲜汤食",
+      "taste": "小糯米丸配萝卜丝、虾干等汤料，鲜味来自汤底。",
+      "intro": "把熟悉的汤圆换成咸口，就打开了台山的一种团圆滋味。",
+      "editorialTip": "台山这一做法通常是无馅小丸，点餐时说明要咸汤圆并询问当日配料；别把它当成甜糖水或有馅大汤圆。",
+      "suitableFor": "喜欢咸鲜汤食、想尝当地节日家常味的游客",
+      "searchKeyword": "台山 咸汤圆 小食",
+      "sourceIds": [
+        "taishanTangyuan2023"
+      ],
+      "relatedReviewIds": [],
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "id": "kaiping-xianjilong",
+      "name": "开平咸鸡笼",
+      "district": "开平市",
+      "area": "开平市区及当地小食店",
+      "category": "油炸米点",
+      "taste": "米皮炸出香脆外层，包着细碎的咸香馅料。",
+      "intro": "名字叫“鸡笼”，里面装的却是开平的节日风味。",
+      "editorialTip": "想尝试可先点小份现炸；常见馅料有虾米、叉烧、花生等，具体配方须向店家确认。",
+      "suitableFor": "喜欢咸口米点、游开平时想加一份小吃的游客",
+      "searchKeyword": "开平 咸鸡笼 小吃",
+      "sourceIds": [
+        "kaipingSnack2021",
+        "guide2024"
+      ],
+      "relatedReviewIds": [],
+      "checkedAt": "2026-10-16"
+    }
+  ],
+  "imagePolicy": "新增6张统一明确标为AI菜式示意，不能标为门店实拍、现场试吃或产地证明。无商标、无店名、无评分；图源许可与制作记录由实际出图流程记录。",
+  "routeSourceNamespace": "下列路线 sourceIds 对应 材料/旅行内容研究-景点.json 的 sources；美食 foodIds 对应美食研究JSON。景点位置与性质为官方资料，组合顺序、停留强度和取舍为本站编辑建议。",
+  "routes": [
+    {
+      "id": "jianghai-half-day",
+      "name": "江海半日：外海人文与一碗面",
+      "type": "编辑建议",
+      "duration": "半天起；加白水带可放宽至一天",
+      "placeIds": [
+        "shaobai",
+        "baishuidai"
+      ],
+      "foodIds": [
+        "waihai-noodles",
+        "lile-ribs"
+      ],
+      "steps": [
+        [
+          "先读人物",
+          "陈少白故居看白桥、庭园与人物展陈，按当天开放安排参观。",
+          "travel.html#place-shaobai"
+        ],
+        [
+          "外海午餐",
+          "附近找一碗外海面；想吃礼乐排骨时另查礼乐餐馆接驳，不当作故居门口的同一条街。",
+          "food.html#food-waihai-noodles"
+        ],
+        [
+          "有余力再加",
+          "转到白水带、横坑彩虹村轻松散步。只有半天时可省略这一站，把时间留给故居。",
+          "travel.html#place-baishuidai"
+        ]
+      ],
+      "transport": "外海、礼乐与白水带是不同片区；逐段查地图公交或网约车路线，不把两处景点写成步行相连。",
+      "note": "外海、礼乐与白水带是不同片区；逐段查地图公交或网约车路线，不把两处景点写成步行相连。 故居内部开放与预约临行核对；白水带旧报道中的夜市、演出和游乐设施，不作为每日固定项目。",
+      "sourceIds": [
+        "jianghai-routes-20240930",
+        "shaobai-20250903",
+        "baishuidai-20240806"
+      ],
+      "checkedAt": "2026-10-16",
+      "title": "江海半日 · 外海人文与一碗面",
+      "meta": "故居 + 外海午餐 / 白水带按余力添加",
+      "intro": "先把半天留给外海故居与一碗面，有余力再去白水带散步。",
+      "coverId": "shaobai",
+      "researchSteps": [
+        {
+          "label": "先读人物",
+          "placeId": "shaobai",
+          "text": "陈少白故居看白桥、庭园与人物展陈，按当天开放安排参观。"
+        },
+        {
+          "label": "外海午餐",
+          "foodId": "waihai-noodles",
+          "text": "附近找一碗外海面；想吃礼乐排骨时另查礼乐餐馆接驳，不当作故居门口的同一条街。"
+        },
+        {
+          "label": "有余力再加",
+          "placeId": "baishuidai",
+          "text": "转到白水带、横坑彩虹村轻松散步。只有半天时可省略这一站，把时间留给故居。"
+        }
+      ]
+    },
+    {
+      "id": "heshan-water-village",
+      "name": "鹤山一日：水乡慢走，登高随兴",
+      "type": "编辑建议",
+      "duration": "一天；以古劳为主，大雁山可选",
+      "placeIds": [
+        "gulao",
+        "dayan"
+      ],
+      "foodIds": [
+        "gulao-fish-dumplings"
+      ],
+      "steps": [
+        [
+          "上午留给水乡",
+          "先选古劳的具体游览片区，看石桥与水道；想乘船则按当日开放线路安排。",
+          "travel.html#place-gulao"
+        ],
+        [
+          "午餐尝水乡味",
+          "找古劳鱼皮角配一顿午餐，先问当天做法与份量。",
+          "food.html#food-gulao-fish-dumplings"
+        ],
+        [
+          "下午二选一",
+          "体力充足且接驳顺畅，可选大雁山一小段登高；带小朋友或想慢游就继续留在水乡，不必两处全走完。",
+          "travel.html#place-dayan"
+        ]
+      ],
+      "transport": "古劳水乡与大雁山需车辆接驳；公共交通先查末班与回程，进山前确定具体入口。",
+      "note": "古劳水乡与大雁山需车辆接驳；公共交通先查末班与回程，进山前确定具体入口。 水乡不是一个统一码头，先核对具体景区、游客中心和船线；大雁山可因天气、防火管控调整，不承诺观光车运营。",
+      "sourceIds": [
+        "gulao-20260902",
+        "dayan-20231107",
+        "heshan-upgrade-20260605"
+      ],
+      "checkedAt": "2026-10-16",
+      "title": "鹤山一日 · 水乡慢走，登高随兴",
+      "meta": "古劳为主 / 大雁山可选，需车辆接驳",
+      "intro": "水道、石桥与鱼皮角组成轻松的一天，登高留给体力与时间都充足的时候。",
+      "coverId": "gulao",
+      "researchSteps": [
+        {
+          "label": "上午留给水乡",
+          "placeId": "gulao",
+          "text": "先选古劳的具体游览片区，看石桥与水道；想乘船则按当日开放线路安排。"
+        },
+        {
+          "label": "午餐尝水乡味",
+          "foodId": "gulao-fish-dumplings",
+          "text": "找古劳鱼皮角配一顿午餐，先问当天做法与份量。"
+        },
+        {
+          "label": "下午二选一",
+          "placeId": "dayan",
+          "text": "体力充足且接驳顺畅，可选大雁山一小段登高；带小朋友或想慢游就继续留在水乡，不必两处全走完。"
+        }
+      ]
+    },
+    {
+      "id": "taishan-duanfen",
+      "name": "台山一日：从侨乡圩市读到银信",
+      "type": "编辑建议",
+      "duration": "一天，集中端芬片区",
+      "placeIds": [
+        "meijia",
+        "haikoubu"
+      ],
+      "foodIds": [
+        "taishan-savory-tangyuan",
+        "taishan-eel-rice"
+      ],
+      "steps": [
+        [
+          "上午看圩市",
+          "梅家大院沿骑楼观察立面，再看中央空地与圩市格局；不默认每栋房屋都能入内。",
+          "travel.html#place-meijia"
+        ],
+        [
+          "午餐按位置选",
+          "沿途查询当日可吃的咸汤圆或台山家常菜；若专程去水步吃黄鳝饭，要另留交通时间。",
+          "food.html#food-taishan-savory-tangyuan"
+        ],
+        [
+          "下午看银信",
+          "到同属端芬的海口埠读出洋与家书故事，展馆和讲解以当天安排为准。",
+          "travel.html#place-haikoubu"
+        ]
+      ],
+      "transport": "梅家大院与海口埠之间仍需核对接驳，自驾或已安排车辆会更从容；不标固定车程。",
+      "note": "梅家大院与海口埠之间仍需核对接驳，自驾或已安排车辆会更从容；不标固定车程。 海口埠是历史文化游览点，不能在这里搭船去上下川岛。海岛应另开一天并查山咀港船班，不塞进这条文化线。",
+      "sourceIds": [
+        "meijia-20250421",
+        "haikoubu-20230612",
+        "chuandao-20260416"
+      ],
+      "checkedAt": "2026-10-16",
+      "title": "台山一日 · 从侨乡圩市读到银信",
+      "meta": "集中端芬 / 骑楼 + 古埠，预留接驳",
+      "intro": "把梅家大院与海口埠连成一段侨乡故事，读懂出洋与回乡之间的牵挂。",
+      "coverId": "meijia",
+      "researchSteps": [
+        {
+          "label": "上午看圩市",
+          "placeId": "meijia",
+          "text": "梅家大院沿骑楼观察立面，再看中央空地与圩市格局；不默认每栋房屋都能入内。"
+        },
+        {
+          "label": "午餐按位置选",
+          "foodId": "taishan-savory-tangyuan",
+          "text": "沿途查询当日可吃的咸汤圆或台山家常菜；若专程去水步吃黄鳝饭，要另留交通时间。"
+        },
+        {
+          "label": "下午看银信",
+          "placeId": "haikoubu",
+          "text": "到同属端芬的海口埠读出洋与家书故事，展馆和讲解以当天安排为准。"
+        }
+      ]
+    }
+  ],
+  "practicalAdvice": [
+    {
+      "id": "rain-plan",
+      "title": "下雨时，把节奏换成室内参观",
+      "type": "编辑建议",
+      "text": "先确认陈白沙纪念馆或梁启超故居纪念馆当天开放，再选一个馆配一顿慢午餐。故居院落并非全程有顶；大雨时不强行赶山路、游船和海岛，改期比赶场更合适。",
+      "placeIds": [
+        "baisha",
+        "liang",
+        "dayan",
+        "chuandao"
+      ],
+      "sourceIds": [
+        "baisha-20230524"
+      ],
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "id": "family-pace",
+      "title": "亲子出行，一天留一处主景点",
+      "type": "编辑建议",
+      "text": "古劳水乡、小鸟天堂或圭峰山玉湖可按兴趣择一，把午餐和休息排在中间。游船先问儿童乘坐规则；带推车先核对台阶、坡道和卫生间位置，不默认古村与山路全程无障碍。",
+      "placeIds": [
+        "gulao",
+        "bird",
+        "guifeng"
+      ],
+      "sourceIds": [
+        "gulao-20260902",
+        "guifeng-20231110"
+      ],
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "id": "transport-plan",
+      "title": "先定片区，再查去程与返程",
+      "type": "编辑建议",
+      "text": "订票时把完整到站名与目的地放进导航比较，别只凭“江门”二字选车站。跨到台山、开平、鹤山、恩平时，把景点间接驳与末班返程一起查；地图预计用时不能当成固定承诺。",
+      "placeIds": [
+        "zili",
+        "meijia",
+        "gulao",
+        "xiema"
+      ],
+      "sourceIds": [],
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "id": "food-fit",
+      "title": "先找顺路的菜，再看店铺",
+      "type": "编辑建议",
+      "text": "用区市筛选美食，再核对店铺地址、近期营业与当天菜式。一个片区选一顿正餐加一份小吃即可；线上测评只作口味参考，历史价格和排队情况不照搬。",
+      "placeIds": [],
+      "foodIds": [
+        "hetang-fish-cakes",
+        "lile-ribs",
+        "enping-shaobing"
+      ],
+      "sourceIds": [],
+      "checkedAt": "2026-10-16"
+    }
+  ],
+  "editorialDecisions": [
+    "菜式来源与照片来源是两种记录：官方文章证明菜式信息，不自动授予复用原文照片的许可。",
+    "新6项补齐蓬江美食，并增加蒸菜、蔬菜、米点与汤食，不靠同一道菜的同义名凑数量。",
+    "所有taste为官方菜式描述的简要改写，不代表本站试吃；不推荐未经核实的具体店铺。",
+    "不写医疗或保健功效，不沿用历史票价、船班、营业时间与节庆促销。",
+    "新路线只连接已有20景点中的有效ID，标明可选停留，避免首次游客为了凑点跨多区市奔波。"
+  ],
+  "foodImageBriefs": [
+    {
+      "foodId": "hetang-fish-cakes",
+      "caption": "荷塘鱼饼 · AI菜式示意",
+      "brief": "生活感食物静物近景，一白瓷盘鲮鱼蓉煎鱼饼，大小自然、厚扁圆形、两面金黄微焦，一块切开露出细白有弹性的鱼肉剖面，可少量葱花。不要整鱼、鱼鳞、裹面包糠炸饼、汉堡或夸张金属摆盘。",
+      "facts": "官方文旅介绍明确鲮鱼去骨剁蓉、煎制、两面金黄；扁圆与剖面为便于呈现的菜式示意构图，不能视为具体店家标准。",
+      "sourceIds": [
+        "guide2024",
+        "hetang2023"
+      ]
+    },
+    {
+      "foodId": "duruan-bitter-melon",
+      "caption": "凉瓜排骨汤 · AI菜式示意",
+      "brief": "浅色陶碗里的粤式清汤，厚肉绿色苦瓜切成粗短段，表皮粗粒纹理、去籽中空，搭配少量切块带骨猪排骨，天然微黄清汤与轻微热气。不要整根细长的普通苦瓜原果，不做红油或奶白浓汤。",
+      "facts": "官方确认杜阮凉瓜厚肉、粗粒、青绿；供销联社提到凉瓜排骨汤。图片仅示意做法，不能从图证明原料产地。",
+      "sourceIds": [
+        "guide2024",
+        "duruan2026",
+        "duruanSoup2023"
+      ]
+    },
+    {
+      "foodId": "lile-ribs",
+      "caption": "礼乐排骨 · AI菜式示意",
+      "brief": "小白瓷碟粤式现蒸排骨，切成小块的带骨猪肋排，灰粉浅褐熟肉色、自然肉汁，少量葱作点缀，轻微蒸汽。精致而家常，不是深红糖醋排骨，不是整根烤肋排，不堆满蒜辣椒掩盖食材。",
+      "facts": "官方介绍为排骨切块、腌制、小碟分装、即点即蒸；不虚构统一秘方。",
+      "sourceIds": [
+        "guide2024"
+      ]
+    },
+    {
+      "foodId": "enping-shaobing",
+      "caption": "恩平烧饼 · AI菜式示意",
+      "brief": "数枚圆扁的粤式糯米烧饼，金黄薄烘烤皮、自然芝麻点缀，一枚切开露出柔软紧实糯米组织和少量豆沙馅，竹盘或素瓷盘，暖窗光。不要层层酥皮、北方空心烧饼、月饼压花或汉堡夹层。",
+      "facts": "官方确认糯米粉糖水发酵和双面烘烤、内里柔软；豆沙芝麻是菜式示意的一种口味选择，不代表所有恩平烧饼。",
+      "sourceIds": [
+        "enpingCake2025",
+        "guide2024"
+      ]
+    },
+    {
+      "foodId": "taishan-savory-tangyuan",
+      "caption": "台山咸汤圆 · AI菜式示意",
+      "brief": "素瓷碗清咸鲜汤，十多颗小巧乳白无馅糯米丸，搭配细白萝卜丝、小虾干、少量鸡肉丝、冬菇丝和葱花，汤清见底但有自然油花。丸子完整、圆润偏小，不做芝麻爆浆大汤圆、糖水或彩色珍珠。",
+      "facts": "台山发布明确无内馅小糯米丸，汤底常见萝卜丝、虾干、鸡丝、冬菇等，做法允许按口味增减。",
+      "sourceIds": [
+        "taishanTangyuan2023"
+      ]
+    },
+    {
+      "foodId": "kaiping-xianjilong",
+      "caption": "开平咸鸡笼 · AI菜式示意",
+      "brief": "白瓷盘中三四只巴掌大小金黄半月形油炸米皮饺，厚糯米和粘米外皮带细微油炸气泡、扭绳状捏边，一只切开可见细碎叉烧、虾米、萝卜和少量花生咸馅。不要鸡肉形、鸡笼道具、透明蒸饺、面粉千层酥或过度爆浆。",
+      "facts": "开平发布明确半弦月或扭纹形、米粉外皮与虾米叉烧等咸馅，用热油慢火炸熟；名称不意味着鸡肉馅。",
+      "sourceIds": [
+        "kaipingSnack2021",
+        "guide2024"
+      ]
+    }
+  ],
+  "advice": [
+    {
+      "id": "rain-plan",
+      "title": "下雨时，把节奏换成室内参观",
+      "text": "先确认陈白沙纪念馆或梁启超故居纪念馆当天开放，再选一个馆配一顿慢午餐。故居院落并非全程有顶；大雨时不强行赶山路、游船和海岛，改期比赶场更合适。",
+      "links": [
+        {
+          "label": "陈白沙纪念馆",
+          "href": "travel.html#place-baisha"
+        },
+        {
+          "label": "梁启超故居纪念馆",
+          "href": "travel.html#place-liang"
+        }
+      ]
+    },
+    {
+      "id": "family-pace",
+      "title": "亲子出行，一天留一处主景点",
+      "text": "古劳水乡、小鸟天堂或圭峰山玉湖可按兴趣择一，把午餐和休息排在中间。游船先问儿童乘坐规则；带推车先核对台阶、坡道和卫生间位置，不默认古村与山路全程无障碍。",
+      "links": [
+        {
+          "label": "古劳水乡",
+          "href": "travel.html#place-gulao"
+        },
+        {
+          "label": "小鸟天堂",
+          "href": "travel.html#place-bird"
+        }
+      ]
+    },
+    {
+      "id": "transport-plan",
+      "title": "先定片区，再查去程与返程",
+      "text": "订票时把完整到站名与目的地放进导航比较，别只凭“江门”二字选车站。跨到台山、开平、鹤山、恩平时，把景点间接驳与末班返程一起查；地图预计用时不能当成固定承诺。",
+      "links": [
+        {
+          "label": "自力村碉楼群",
+          "href": "travel.html#place-zili"
+        },
+        {
+          "label": "梅家大院 · 汀江圩",
+          "href": "travel.html#place-meijia"
+        }
+      ]
+    },
+    {
+      "id": "food-fit",
+      "title": "先找顺路的菜，再看店铺",
+      "text": "用区市筛选美食，再核对店铺地址、近期营业与当天菜式。一个片区选一顿正餐加一份小吃即可；线上测评只作口味参考，历史价格和排队情况不照搬。",
+      "links": [
+        {
+          "label": "荷塘鱼饼",
+          "href": "food.html#food-hetang-fish-cakes"
+        },
+        {
+          "label": "礼乐排骨",
+          "href": "food.html#food-lile-ribs"
+        }
+      ]
+    }
+  ]
+}

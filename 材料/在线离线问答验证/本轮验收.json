@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "scope": "在线离线问答共存补充版",
+  "checkedAt": "2026-10-19T08:24:27.104Z",
+  "pages": 9,
+  "questions": 94,
+  "currentHashedCss": [
+    "site-8ffb5d965ab6.css"
+  ],
+  "coexistReport": "共存功能验证.json",
+  "readingReport": "../建议优化验证/浏览器验收.json",
+  "layouts": 27,
+  "onlineService": "原Knocket SDK保留每页一次；按钮合同测试未发送真实客服消息，不代表云端知识库已导入或回复能力已验证。",
+  "delivery": "本地交付，未发布在线预览，未上传虚拟主机。"
+}

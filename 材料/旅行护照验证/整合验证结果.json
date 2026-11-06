@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "checks": [
+    "Real travel→letters, independent wishlist, cancel last region stamp, cross-tab visited/wishlist, culture stamps and draft preserved",
+    {
+      "width": 320,
+      "skipTop": -80
+    },
+    {
+      "width": 1440,
+      "skipTop": -80
+    },
+    "20 real visit buttons, seven region stamps, 20-character input, 320/390/768/1440 widths, 1400×1740 PNG, save-menu fallback, original postcard export",
+    "pageshow refresh and empty-record pretrip PNG",
+    "Real guide custom event with write-denied memory state, unchanged stored values and pageshow memory retention",
+    "Actual no-JS page keeps all 20 usable guide links and hides enhancement controls"
+  ],
+  "errors": [],
+  "localFailures": []
+}

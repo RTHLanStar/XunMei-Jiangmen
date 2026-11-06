@@ -1,0 +1,55 @@
+{
+  "passed": true,
+  "checks": [
+    "initially-one-photo-request",
+    "twenty-letter-photo-caption-credit-and-link-consistency",
+    "one-hundred-rapid-clicks-without-consecutive-repeat",
+    "failed-photo-fallback-next-photo-recovers-stale-error-ignored",
+    "320-390-1440-no-overflow-and-touch-targets",
+    "no-javascript-readable-first-letter-and-links",
+    "no-browser-script-errors"
+  ],
+  "geometry": [
+    {
+      "width": 320,
+      "scrollWidth": 320,
+      "photoWidth": 275.21875,
+      "buttonHeight": 47.1875
+    },
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "photoWidth": 335.40625,
+      "buttonHeight": 47.1875
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "photoWidth": 563.53125,
+      "buttonHeight": 47.1875
+    }
+  ],
+  "visited": [
+    "longdi",
+    "qiming",
+    "liang",
+    "bird",
+    "chenpi",
+    "zili",
+    "chikan",
+    "chuandao",
+    "baisha",
+    "baishuidai",
+    "shaobai",
+    "guifeng",
+    "liyuan",
+    "majianglong",
+    "meijia",
+    "haikoubu",
+    "gulao",
+    "dayan",
+    "xiema",
+    "jinjiang"
+  ],
+  "browserErrors": []
+}

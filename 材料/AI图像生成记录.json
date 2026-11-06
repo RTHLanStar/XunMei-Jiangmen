@@ -1,0 +1,166 @@
+{
+  "当前版本": "2026-10-14影像升级版",
+  "工具": "内置ImageGen",
+  "独立原图数量": 9,
+  "原生尺寸": {
+    "width": 1672,
+    "height": 941
+  },
+  "插值升格": false,
+  "用途": "网站四章场景与十镜头短片；信笺图首尾复用",
+  "说明": "摄影风格AI艺术演绎，非实景拍摄或真人纪录。原始PNG与逐张真实提示词见制作源文件/video-v2/images。",
+  "建筑素材记录": {
+    "created": "2026-10-14",
+    "purpose": "侨乡来信视频升级：建筑四镜头",
+    "disclosure": "AI生成艺术演绎；非指定建筑的实景记录。均为工具原生1672×941，未插值放大。",
+    "references": [
+      {
+        "url": "https://www.jiangmen.gov.cn/jmwgj/gkmlpt/content/3/3258/mpost_3258272.html",
+        "title": "江门市文化广电旅游体育局：散落在侨乡的东方古堡！江门开平碉楼为何如此耀眼？",
+        "use": "核对多层塔楼式居住防御建筑、混凝土材质、中西合璧细节以及稻田村落环境；文字参考。"
+      },
+      {
+        "url": "https://www.kaiping.gov.cn/kpszfw/xwdt/tpxw/content/post_3106364.html",
+        "title": "开平市人民政府：开平又上央视！这次是因为……",
+        "use": "核对骑楼一层人行廊道、二层以上骑跨的结构、赤坎潭江河岸、修长堤及马路布局；文字参考。"
+      }
+    ],
+    "records": [
+      {
+        "id": "tower-wide",
+        "prompt": "Use case: photorealistic-natural. Create ONE independent high resolution wide cinematic photo-style AI artwork, intended as a 16:9 film shot and 3:2 website hero, not a grid, collage, illustration, painting, or poster. Location-inspired subject: Kaiping diaolou and rural village in Jiangmen, Guangdong, China. A slender five-storey grey weathered reinforced-concrete defensive residence with modest Sino-Western arched window details and a small parapet, realistic narrow tower proportions, rises above low grey-tile Lingnan village houses. A second smaller diaolou far behind, rice paddies and subtle banyan trees around the village. Based on Kaiping heritage principles: multi-storey watchtower residences integrated with agrarian village and rice fields, NOT a giant European palace, castle, cathedral, fantasy resort, or Tuscan scene. Eye-level to slightly raised viewpoint from a field path, 35mm environmental photograph, natural spatial perspective. The main tower is slightly left of center, fully visible with margin above roof, centered vertically and safe within the middle 75 percent for widescreen cropping; field and low village span image, distant soft hills. Warm late-afternoon sunlight, muted ink-green foliage, pale cream highlights, quiet restrained film color, realistic concrete and rice textures, subtle atmospheric depth, sharp natural details without HDR or excessive grain. A serene place of remembering home. Generate landscape approximately 16:9 at maximum available native resolution. No writing, no signs, no letters, no logo, no watermark, no border, no people. This is AI artistic interpretation, not an exact record of a named protected building.",
+        "file": "tower-wide.png",
+        "nativeSize": [
+          1672,
+          941
+        ],
+        "generationTool": "built-in image_gen",
+        "resampled": false,
+        "qa": "独立自然写实横幅；无文字、水印和拼图；碉楼瘦高混凝土比例、稻田村落清晰。"
+      },
+      {
+        "id": "tower-detail",
+        "prompt": "Use case: photorealistic-natural. Create ONE independent high-resolution wide cinematic photo-style AI artwork, not a collage, grid, illustration, or painting. A tactile close interior view of an old Kaiping diaolou window in Guangdong's Jiangmen countryside: aged dark wooden louvered shutter open beside a thick grey plastered concrete reveal with modest Sino-Western curved window molding; small original-looking metal hinge, naturally worn wood grain and lime plaster, architecturally plausible joints. Through the window, sunlit green rice paddies and soft outline of low tiled Lingnan village roofs visible in the middle distance. The frame and wood occupy the left half, bright field view on the right, keep all important details in middle 75 percent of frame safe for 16:9 crop. Intimate 50mm lens perspective, moderate depth of field with clear shutter detail and softly readable landscape, eye height. Warm quiet afternoon sunlight grazing shutter, restrained ink-green and cream palette, natural colors, no orange teal blockbuster color, no artificial HDR. The feeling is someone looking homeward through an old rural residence; no invented archive or legible inscription. Wide horizontal approximately 16:9 maximum available native resolution. No people, no text, signs, logos, watermark or borders. Realistic proportions, not a European abbey, cathedral, stained glass or palace.",
+        "file": "tower-detail.png",
+        "nativeSize": [
+          1672,
+          941
+        ],
+        "generationTool": "built-in image_gen",
+        "resampled": false,
+        "qa": "木百叶窗、铰链、厚窗沿构造可读；窗外田野与村落尺度自然。"
+      },
+      {
+        "id": "street-wide",
+        "prompt": "Use case: photorealistic-natural. Create ONE independent maximum-native-resolution widescreen cinematic photo-style AI artwork of a Chikan-inspired riverside qilou street in Kaiping, Jiangmen, Guangdong, China. Broad unbroken Tanjiang river at the far right, a low simple stone embankment edge separates the river from a clearly visible wide paved street. On the left, a long continuous row of modest 2 to 3 storey Lingnan overseas-Chinese shophouses runs beside this street: pale grey and cream weathered stucco, dark timber shutters, occasional gently curved parapet pediments, repeated ground-floor arcade columns and covered pedestrian walkway, small Sino-Western detailing in realistic Guangdong proportions. Make the ground-floor walkway and the substantial street road surface unambiguously visible from foreground into distance. The water is ONLY beyond the embankment on the right, not occupying a lane or wrapping around buildings; no Venice canals, no narrow water alley, no arched bridges, no European domes or spires, no palaces. Slightly diagonal 35mm eye-level perspective looking along the street with river and soft far bank on right. Warm morning sun with natural diffuse shadows, understated muted ink-green shutters, cream highlights, photographic stone texture, realistic scale and atmospheric depth, quiet but lived-in. No invented tourist props or dramatic fog. Keep main architecture and river horizon in middle 75 percent, safe for 16:9 and 3:2 crops. Landscape approximately 16:9, not a grid or collage. No people, no readable signs, no text, no letters, no watermarks or border. This is an AI cultural artistic interpretation, not a documentary image of a specified address.",
+        "file": "street-wide.png",
+        "nativeSize": [
+          1672,
+          941
+        ],
+        "generationTool": "built-in image_gen",
+        "resampled": false,
+        "qa": "骑楼连续底层廊柱与宽阔路面清楚，河岸分明；无窄水巷或威尼斯拱桥。"
+      },
+      {
+        "id": "street-detail",
+        "prompt": "Use case: photorealistic-natural. Create ONE independent maximum-native-resolution widescreen cinematic photo-style artwork: intimate diagonal eye-level view through the ground-floor covered pedestrian arcade of a Lingnan qilou street in Chikan, Kaiping, Jiangmen, Guangdong, China. Modest rectangular weathered plaster columns on the right clearly support upper shophouse floors, repeated columns recede with believable human-scale spacing; on left are aged dark brown wooden folding shop doors, one simple old black bicycle naturally leaned against wall. Damp worn stone/concrete paving with a few subtle diffuse reflections from recent light rain, dry sheltered edges, warm sunlight entering from the open right-hand side where a real paved street can be glimpsed. A everyday covered Guangdong neighborhood walkway, not a grand European monastery, no vaulted gothic arches, no cathedral, no marble gallery, no indoor palace. Some natural plaster patina and dark muted green shutter detail, quiet sense of daily life without people. 50mm lens, convincing one-point architectural perspective and geometry, clear foreground tactile details, softly receding depth, restrained warm cream/ink-green film palette. Composition safe within middle 75 percent vertically, landscape approximately 16:9, no collage/grid/painting. No people, no logos, no signs, no writing, no watermark, no border.",
+        "file": "street-detail.png",
+        "nativeSize": [
+          1672,
+          941
+        ],
+        "generationTool": "built-in image_gen",
+        "resampled": false,
+        "qa": "柱廊透视与骑楼日常门面合理；单辆旧自行车、湿石面细节自然。"
+      }
+    ]
+  },
+  "西江陈皮信笺素材记录": {
+    "created_local_date": "2026-10-14",
+    "assets": [
+      {
+        "file": "river-wide.png",
+        "source": "C:\\Users\\QiuLiang\\.codex\\generated_images\\01a13889-a141-7293-bf11-5a09e45d3331\\exec-fa73fd9a-f958-4858-bbd2-8155b0314b8b.png",
+        "prompt": "Use case: photorealistic-natural. Asset type: independent cinematic photograph for the Jiangmen cultural film '侨乡来信', not a collage. Create a landscape 16:9 high-resolution natural documentary-style photograph representing the broad main channel of the Xijiang River near Jiangmen, Guangdong, China. A very wide, open, gently rippling freshwater river fills the lower two thirds; across the far bank is a low, flat Lingnan green embankment and a modest distant everyday town skyline, small pale buildings with no famous invented architecture. Atmospheric warm early morning sunlight from the side, lightly hazy sky, quiet everyday reality. Refined warm cream highlights, muted ink-green banks and natural brown-green river, restrained saturation. 35mm natural photographic perspective, physically convincing river scale and bank geometry, realistic water sparkle and fine subtle texture, no painting, no illustration, no HDR. Keep visually useful details within central horizontal band safe for both 16:9 and 3:2 cover cropping. No karst mountains, no dramatic tropical jungle, no narrow creek, no tourist pagodas, no landmark claims, no text, logos, frames or watermarks.",
+        "mode": "built-in image_gen",
+        "native_dimensions": {
+          "width": 1672,
+          "height": 941
+        },
+        "ai_generated": true,
+        "editing": "None; independent native generation, original pixels copied without upscaling.",
+        "file_bytes": 2342745,
+        "inspection": "通过 view_image 检查：开阔主河道、低平绿岸、远处日常城镇；无假字或旅游地标。",
+        "revision_count": 0
+      },
+      {
+        "file": "river-detail.png",
+        "source": "C:\\Users\\QiuLiang\\.codex\\generated_images\\01a13889-a141-7293-bf11-5a09e45d3331\\exec-36be3a53-a60d-44ab-b688-806d3a350816.png",
+        "prompt": "Use case: photorealistic-natural. Asset type: independent close-detail cinematic photograph for the Jiangmen cultural film '侨乡来信', not a collage. Create a high-resolution landscape 16:9 natural editorial photograph at the edge of the broad Xijiang River in Jiangmen, Guangdong. Close view of the worn dark wooden bow and side of one modest small working boat moored by a simple natural rope at a quiet bank, occupying only the right foreground; realistic softly rippling brown-green freshwater takes most of the frame and leads to a distant low, flat Lingnan green bank, so the enormous width of the river remains evident. Warm gentle morning light glancing across wood grain, rope fibres and water, refined muted warm cream and ink-green palette. Natural 50mm lens photographic perspective, very realistic subtle texture, soft distant depth, calm lived-in documentary feeling. Place main boat detail near the central vertical band for safe 16:9 / 3:2 crop, no close-up people, no kayaks, no sails, no dramatic rocks or karst, no narrow tropical river, no romantic fantasy, no painting, no text, logos, borders or watermark.",
+        "mode": "built-in image_gen",
+        "native_dimensions": {
+          "width": 1672,
+          "height": 941
+        },
+        "ai_generated": true,
+        "editing": "None; independent native generation, original pixels copied without upscaling.",
+        "file_bytes": 2204192,
+        "inspection": "通过 view_image 检查：木船船舷与绳结纹理清楚，广阔河面可感知；无人像或假字。",
+        "revision_count": 0
+      },
+      {
+        "file": "peel-wide.png",
+        "source": "C:\\Users\\QiuLiang\\.codex\\generated_images\\01a13889-a141-7293-bf11-5a09e45d3331\\exec-9bda5ca2-49b5-4fc2-9e7f-9bb2dc0da2d4.png",
+        "prompt": "Use case: photorealistic-natural. Asset type: independent cinematic craft photograph for the Jiangmen cultural film '侨乡来信', not a collage. Create a high-resolution landscape 16:9 natural editorial photograph of a Xinhui chenpi preparation and sun-drying worktable in Guangdong, China. A pair of ordinary adult artisan hands gently cups and presents a single anatomically plausible three-lobed mandarin peel opened into three joined petals, with distinct orange-brown porous exterior and pale cream fibrous inner pith. Natural five fingers per hand, relaxed separated fingers supporting the peel from below, truthful contact and believable anatomy, no face. A woven bamboo drying tray with a few similarly opened dried peels rests on the worn dark wood table, and just two small green-orange mandarins off to one side. The hands and one displayed three-lobed peel are the visual subject. Warm side daylight, soft shadows, ink-green out-of-focus garden background, restrained warm cream and earthy orange-brown palette, subtle worn surfaces. Documentary 50mm photography with sharp natural detail of peel and hands, gentle depth of field. All crucial hands and peel remain in central 65 percent height for safe 16:9 / 3:2 crop. No factory, no packaging, no brand, no text, no labels, no jewelry emphasis, no painterly effects, no over-saturated orange, no duplicated fingers, no whole peeled orange segments, no watermark.",
+        "mode": "built-in image_gen",
+        "native_dimensions": {
+          "width": 1672,
+          "height": 941
+        },
+        "ai_generated": true,
+        "editing": "None; independent native generation, original pixels copied without upscaling.",
+        "file_bytes": 2523231,
+        "inspection": "通过 view_image 检查：双手托皮接触自然，无明显多指/融合，三瓣陈皮结构清楚，竹篮与果实质感自然。",
+        "revision_count": 0
+      },
+      {
+        "file": "peel-detail.png",
+        "source": "C:\\Users\\QiuLiang\\.codex\\generated_images\\01a13889-a141-7293-bf11-5a09e45d3331\\exec-abc5bb2e-b6fd-4a16-a95d-a6483b5d60bd.png",
+        "prompt": "Use case: photorealistic-natural. Asset type: independent macro cinematic photograph for the Jiangmen cultural film '侨乡来信', not a collage. Create a high-resolution landscape 16:9 natural macro photograph of one authentic aged Xinhui chenpi: a single connected mandarin rind split into three broad curling lobes, copper orange-brown textured outer skin with tiny oil-cell pores, and warm pale beige rough fibrous pith on curling inner surfaces. It rests on an old woven bamboo drying basket. Show all three lobes and the joining center clearly, sculptural curled edges like a dried peel, absolutely no flesh or orange segments. Minimal composition, several tiny irregular natural spots and matte roughness, realistically dried and firm rather than polished or ceramic. Warm late-afternoon side light, soft ink-green and deep brown out-of-focus background, warm cream highlights, muted true colors. 90mm macro photo, focus on detailed peel surface with restrained depth of field and softly defined bamboo weave. Keep entire main peel within central 65 percent height for safe 16:9 / 3:2 cropping. No teacup, no person or hands, no extra fruit, no text, labels, logos, frame or watermark, no illustration or glossy render.",
+        "mode": "built-in image_gen",
+        "native_dimensions": {
+          "width": 1672,
+          "height": 941
+        },
+        "ai_generated": true,
+        "editing": "None; independent native generation, original pixels copied without upscaling.",
+        "file_bytes": 2264759,
+        "inspection": "通过 view_image 检查：三瓣连接中心清楚，橙棕油胞与浅米内瓤纹理可读，无果肉或品牌。",
+        "revision_count": 0
+      },
+      {
+        "file": "letter.png",
+        "source": "C:\\Users\\QiuLiang\\.codex\\generated_images\\01a13889-a141-7293-bf11-5a09e45d3331\\exec-2fa8394a-2096-4501-8a5e-9fba508e9d80.png",
+        "prompt": "Use case: photorealistic-natural. Asset type: independent opening and closing cinematic photograph for the Jiangmen cultural film '侨乡来信'. Create a high-resolution landscape 16:9 natural overhead / slight oblique overhead still-life photograph. One large fully blank cream unlined writing paper rests partly atop a plain unmarked cream envelope on a gently worn dark wood desk. The sheet occupies the middle and left of frame and provides abundant clean empty paper space for HTML overlay title and credits later. A single small curled three-lobed aged orange-brown mandarin peel sits near the lower right corner of the desk, not obscuring the paper. Soft warm sunlight from one side, gentle natural window shadow confined to edges, elegant restrained lived-in stillness, warm cream paper grain and muted dark ink-green surroundings, realistic editorial photography with high detail and no excessive props. Ensure central paper remains visible when cropped from 3:2 to 16:9. Every paper and envelope surface MUST be perfectly blank: no handwriting, no pseudo-Chinese, no calligraphy, no printed text, no stamp, no postal mark, no address, no logos, no watermark. No pen, no wax seal, no flowers, no painting or digital illustration, no collage.",
+        "mode": "built-in image_gen",
+        "native_dimensions": {
+          "width": 1672,
+          "height": 941
+        },
+        "ai_generated": true,
+        "editing": "None; independent native generation, original pixels copied without upscaling.",
+        "file_bytes": 2495600,
+        "inspection": "通过 view_image 检查：信笺与信封表面全空白，左中留有充足叠字空间，右下三瓣陈皮。",
+        "revision_count": 0
+      }
+    ],
+    "disclosure": "全部是独立AI生成的摄影风格视觉素材，不是江门实景拍摄记录；原生1672×941，未插值升格。"
+  },
+  "初版记录": {
+    "工具": "内置 ImageGen",
+    "用途": "互动网页与短片共用四场景插画",
+    "提示词": "Use case: illustration-story. Create one premium cinematic illustration atlas for an original Jiangmen Guangdong cultural AIGC artwork \"侨乡来信\". Output a landscape image divided into exactly FOUR equal quadrants with NO gutters, NO border, NO text, NO logos, NO watermark. Each quadrant is a completely separate landscape illustration, same sophisticated warm hand-painted gouache / fine grain cinematic realism style with jade green, amber orange, warm ivory. TOP LEFT: Kaiping diaolou towers amongst southern Chinese rice paddies and palms at luminous dawn, accurate vernacular Chinese-European blended concrete diaolou silhouettes, the towers fill right two thirds with atmospheric negative sky on left. TOP RIGHT: historic Chikan arcade houses and qilou beside a calm canal at blue-green dusk, warm lamps, intimate reflections, no modern neon. BOTTOM LEFT: wide Xijiang river in Jiangmen, a modest small wooden boat, lush shores, soft golden sunrise, serene mist, not mountains like Guilin. BOTTOM RIGHT: close still-life of Xinhui dried tangerine peel split into three connected petals, fresh green tangerines and tea cup on a bamboo tray, only a craftsperson's hands carefully turning peels, no face, amber side light. The four quadrants must each be filled edge-to-edge with a full scene, 2x2 perfect grid. Editorial sophistication and authentic Lingnan mood, natural textured materials. These are artistic interpretations, not documentary photographs. High resolution, landscape 3072x2048 if possible.",
+    "说明": "原始生成图保留为四宫格；网页用SVG视窗选择场景，视频使用背景定位。画面为AI艺术演绎。"
+  }
+}

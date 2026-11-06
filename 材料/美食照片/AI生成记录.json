@@ -1,0 +1,106 @@
+{
+  "tool": "built-in image_gen",
+  "date": "2026-10-15",
+  "updatedAt": "2026-10-16",
+  "label": "AI菜式示意，非店铺实拍",
+  "images": [
+    {
+      "id": "waihai-noodles",
+      "prompt": "Generate a single landscape 16:10 photorealistic editorial food photograph for a Jiangmen travel guide. This will be explicitly labelled an AI dish illustration on the website, not a restaurant review. Warm natural window light, appetizing realistic textures, restrained off-white ceramic tableware and wood tabletop, shallow depth of field, central whole bowl/plate with enough margins for responsive crop, no text, logos, collage, hands or cutlery lifting food. Avoid oversaturated colors and fake plastic food. Subject: a bowl of Jiangmen Waihai-style fine yellow egg noodles in clear golden broth, delicate slender noodle strands visible with a modest topping of tender braised beef brisket, two green bok choy leaves, tiny scallions. Fine springy noodles are the focus, not thick ramen. View three-quarter overhead; warm breakfast atmosphere.",
+      "generated_path": "C:\\Users\\QiuLiang\\.codex\\generated_images\\01a135f0-0268-7b70-9c6b-a7e63e76118c\\exec-9567f23c-86c1-4298-85ce-c27db0783c56.png",
+      "tool": "built-in image_gen",
+      "generatedAt": "2026-10-15",
+      "local_original": "D:\\NPD服务器数据\\学校\\寻美江门\\侨乡来信\\材料\\美食照片\\waihai-noodles-ai.png",
+      "original_sha256": "a12cd2e93f5a58cd9351095fcb8b1f29587809540993e7a0fb89622af05d2085"
+    },
+    {
+      "id": "chenpi-dishes",
+      "prompt": "Generate a single landscape 16:10 photorealistic editorial food photograph for a Jiangmen travel guide. This will be explicitly labelled an AI dish illustration on the website, not a restaurant review. Warm natural window light, appetizing realistic textures, restrained off-white ceramic tableware and wood tabletop, shallow depth of field, central whole bowl/plate with enough margins for responsive crop, no text, logos, collage, hands or cutlery lifting food. Avoid oversaturated colors and fake plastic food. Subject: Xinhui dried-tangerine-peel pork ribs, a small ceramic plate of tender bite-sized braised pork ribs coated in glossy amber-brown sauce with a few visible thin dark-brown dried tangerine peel strips and a minimal scallion garnish. A little dried chenpi on a small side saucer in background. No fresh orange slices. Savory and gently steaming, believable everyday Cantonese cooking, close three-quarter overhead view.",
+      "generated_path": "C:\\Users\\QiuLiang\\.codex\\generated_images\\01a135f0-0268-7b70-9c6b-a7e63e76118c\\exec-63c289ad-c64a-428e-bdbc-9c4301256512.png",
+      "tool": "built-in image_gen",
+      "generatedAt": "2026-10-15",
+      "local_original": "D:\\NPD服务器数据\\学校\\寻美江门\\侨乡来信\\材料\\美食照片\\chenpi-dishes-ai.png",
+      "original_sha256": "fd13c87396798776e535362d7d5ab431fa79c7f5730624507df4224e3ffbff46"
+    },
+    {
+      "id": "enping-laifen",
+      "prompt": "Generate a single landscape 16:10 photorealistic editorial food photograph for a Jiangmen travel guide. This will be explicitly labelled an AI dish illustration on the website, not a restaurant review. Warm natural window light, appetizing realistic textures, restrained off-white ceramic tableware and wood tabletop, shallow depth of field, central whole bowl/plate with enough margins for responsive crop, no text, logos, collage, hands or cutlery lifting food. Avoid oversaturated colors and fake plastic food. Subject: Enping lai fen rice noodle soup, a welcoming ceramic bowl of smooth white moderately thick round rice noodles, curved cylindrical strands clearly distinguishable from thin wheat noodles, in clear pork broth, modest shredded pork and finely chopped scallions, a few leafy greens. Emphasize fresh smooth slightly elastic rice noodles; not flat rice ribbons, not udon with Japanese toppings. Close three-quarter overhead view.",
+      "generated_path": "C:\\Users\\QiuLiang\\.codex\\generated_images\\01a135f0-0268-7b70-9c6b-a7e63e76118c\\exec-629bb229-7312-421f-9d56-22c99d0d2717.png",
+      "tool": "built-in image_gen",
+      "generatedAt": "2026-10-15",
+      "local_original": "D:\\NPD服务器数据\\学校\\寻美江门\\侨乡来信\\材料\\美食照片\\enping-laifen-ai.png",
+      "original_sha256": "53db38fab6714ce6e5b376bc311418f8ee18c2e478bc6025c20eb321ed824ead"
+    },
+    {
+      "id": "gulao-fish-dumplings",
+      "prompt": "Generate a single landscape 16:10 photorealistic editorial food photograph for a Jiangmen travel guide. This will be explicitly labelled an AI dish illustration on the website, not a restaurant review. Warm natural window light, appetizing realistic textures, restrained off-white ceramic tableware and wood tabletop, shallow depth of field, central whole bowl/plate with enough margins for responsive crop, no text, logos, collage, hands or cutlery lifting food. Avoid oversaturated colors and fake plastic food. Subject: Heshan Gulao fish-skin dumplings (yu pi jiao). A shallow off-white ceramic bowl containing about seven delicate irregular folded triangular dumplings in clear light broth with chopped scallions. The thin pale ivory wrapper is made from minced dace fish and starch, slightly translucent and lightly wrinkled, enclosing a small savory pork filling. NOT literal scaly fish skin, NOT fish-shaped objects, NOT giant thick wheat gyoza with uniform pleats. Two dumplings in foreground show their fine tender wrapper texture. Warm Cantonese lunch atmosphere.",
+      "generated_path": "C:\\Users\\QiuLiang\\.codex\\generated_images\\01a135f0-0268-7b70-9c6b-a7e63e76118c\\exec-c4aef504-544e-4a59-898a-10082ff9796d.png",
+      "tool": "built-in image_gen",
+      "generatedAt": "2026-10-15",
+      "local_original": "D:\\NPD服务器数据\\学校\\寻美江门\\侨乡来信\\材料\\美食照片\\gulao-fish-dumplings-ai.png",
+      "original_sha256": "cb6f4b82da7dcf5473e5da7b1dafd7a398d9f94371cbdb5ebe7454e5de5f0441"
+    },
+    {
+      "id": "hetang-fish-cakes",
+      "prompt": "Use case: photorealistic-natural. Asset type: one landscape food illustration for a Jiangmen travel guide, to be explicitly labeled AI菜式示意 by the website. Create an inviting, natural editorial food image, horizontal 16:10 composition, warm soft window light, understated pale cream ceramic tableware and muted tea-green background accents, close three-quarter camera angle, real-looking food texture, enough breathing room so responsive crops keep the entire main dish. No text, no logos, no watermark, no identifiable restaurant, no people or hands, no collage. One single dish is the visual focus. Jiangmen Hetang fish cakes 荷塘鱼饼: five thick flattened round patties made of finely minced boneless dace fish paste, pan-fried golden on both sides, gently irregular handmade rims; one patty cut in half to reveal a fine ivory-white fish-paste interior without bread crumbs. Arrange on a simple white plate, tiny scallion garnish optional, neutral setting. Do not depict battered fillets, fish skin, fish balls, burgers, or potato cakes.",
+      "generated_path": "C:\\Users\\QiuLiang\\.codex\\generated_images\\01a135f0-0268-7b70-9c6b-a7e63e76118c\\exec-b29c8655-0204-48d9-aa08-3a4fb37743a4.png",
+      "tool": "built-in image_gen",
+      "generatedAt": "2026-10-16",
+      "local_original": "D:\\NPD服务器数据\\学校\\寻美江门\\侨乡来信\\材料\\美食照片\\hetang-fish-cakes-ai.png",
+      "original_sha256": "7019f9006530cbe7979a889f196fa00535d1e6354b8ef5fe47367127a7fcdcce"
+    },
+    {
+      "id": "duruan-bitter-melon",
+      "prompt": "Use case: photorealistic-natural. Asset type: one landscape food illustration for a Jiangmen travel guide, to be explicitly labeled AI菜式示意 by the website. Create an inviting, natural editorial food image, horizontal 16:10 composition, warm soft window light, understated pale cream ceramic tableware and muted tea-green background accents, close three-quarter camera angle, real-looking food texture, enough breathing room so responsive crops keep the entire main dish. No text, no logos, no watermark, no identifiable restaurant, no people or hands, no collage. One single dish is the visual focus. 杜阮凉瓜排骨汤, a rustic Cantonese bitter-melon and pork-rib clear soup: chunky short sections of thick fleshed green bitter melon with broad rounded ridges, visible pale interiors and hollow centers, several small pieces of bone-in pork ribs in a clear warm broth, in a cream ceramic bowl. No whole long cucumber-like melon, no spicy red oil, no noodles. The vegetable is the main focus, glossy green, visually appetizing but not oversaturated.",
+      "generated_path": "C:\\Users\\QiuLiang\\.codex\\generated_images\\01a135f0-0268-7b70-9c6b-a7e63e76118c\\exec-38c65ae9-e701-43e1-9051-8295f2c27347.png",
+      "tool": "built-in image_gen",
+      "generatedAt": "2026-10-16",
+      "local_original": "D:\\NPD服务器数据\\学校\\寻美江门\\侨乡来信\\材料\\美食照片\\duruan-bitter-melon-ai.png",
+      "original_sha256": "a0cd56637d234ace883cb0fa3d3af3f3edf3435096fe56893558f72059d44c25"
+    },
+    {
+      "id": "lile-ribs",
+      "prompt": "Use case: photorealistic-natural. Asset type: one landscape food illustration for a Jiangmen travel guide, to be explicitly labeled AI菜式示意 by the website. Create an inviting, natural editorial food image, horizontal 16:10 composition, warm soft window light, understated pale cream ceramic tableware and muted tea-green background accents, close three-quarter camera angle, real-looking food texture, enough breathing room so responsive crops keep the entire main dish. No text, no logos, no watermark, no identifiable restaurant, no people or hands, no collage. One single dish is the visual focus. 江门礼乐排骨, Cantonese steamed pork spare ribs: a modest shallow round white porcelain plate filled with bite-size bone-in spare rib pieces, pale beige and naturally pink-brown cooked meat with light translucent savory steaming juices; a few tiny dark fermented soybean bits and minced garlic may appear sparingly. Tender and moist, slight gentle steam. This is steamed ribs, not red-braised, grilled, caramelized, or sticky barbecue ribs. No whole rib racks.",
+      "generated_path": "C:\\Users\\QiuLiang\\.codex\\generated_images\\01a135f0-0268-7b70-9c6b-a7e63e76118c\\exec-67214a63-2883-44de-93fb-8625f8ee7dc8.png",
+      "tool": "built-in image_gen",
+      "generatedAt": "2026-10-16",
+      "local_original": "D:\\NPD服务器数据\\学校\\寻美江门\\侨乡来信\\材料\\美食照片\\lile-ribs-ai.png",
+      "original_sha256": "4d46b31f2af61bcb4b48e2c2ed6ab3fa211537bc8c4d3209705d2122c43e07ea"
+    },
+    {
+      "id": "enping-shaobing",
+      "prompt": "Use case: photorealistic-natural. Asset type: one landscape food illustration for a Jiangmen travel guide, to be explicitly labeled AI菜式示意 by the website. Create an inviting, natural editorial food image, horizontal 16:10 composition, warm soft window light, understated pale cream ceramic tableware and muted tea-green background accents, close three-quarter camera angle, real-looking food texture, enough breathing room so responsive crops keep the entire main dish. No text, no logos, no watermark, no identifiable restaurant, no people or hands, no collage. One single dish is the visual focus. 恩平烧饼, local glutinous-rice flat round cakes: three small handmade thick flat circular rice cakes, lightly golden toasted/pan-baked exterior sprinkled with white sesame, one cake broken open to show dense soft slightly sticky glutinous-rice interior, not laminated flour pastry. On a small cream plate with a blurred cup of tea in background. No northern flaky thousand-layer shaobing, no mooncake embossed mold, no bread crumb interior.",
+      "generated_path": "C:/Users/QiuLiang/.codex/generated_images/01a135f0-0268-7b70-9c6b-a7e63e76118c/exec-0e2b5516-5f84-4358-a577-6cdf7fa119d5.png",
+      "history": [
+        {
+          "generated_path": "C:\\Users\\QiuLiang\\.codex\\generated_images\\01a135f0-0268-7b70-9c6b-a7e63e76118c\\exec-3d272412-fc01-4186-8bc8-128f453529d7.png",
+          "status": "superseded",
+          "reason": "首图米饭饭团质感不符合米粉团烧饼"
+        }
+      ],
+      "edit_prompt": "纠正为糯米粉揉成均匀软糯饼皮，薄金黄芝麻外皮、少量花生馅，去除首图米饭饭团质感。",
+      "tool": "built-in image_gen",
+      "generatedAt": "2026-10-16",
+      "local_original": "D:\\NPD服务器数据\\学校\\寻美江门\\侨乡来信\\材料\\美食照片\\enping-shaobing-ai.png",
+      "original_sha256": "f183790c06190aef8bca1a72ef6462e53fd84f396915fc3f5a537c43999683c0"
+    },
+    {
+      "id": "taishan-savory-tangyuan",
+      "prompt": "Use case: photorealistic-natural. Asset type: one landscape food illustration for a Jiangmen travel guide, to be explicitly labeled AI菜式示意 by the website. Create an inviting, natural editorial food image, horizontal 16:10 composition, warm soft window light, understated pale cream ceramic tableware and muted tea-green background accents, close three-quarter camera angle, real-looking food texture, enough breathing room so responsive crops keep the entire main dish. No text, no logos, no watermark, no identifiable restaurant, no people or hands, no collage. One single dish is the visual focus. 台山咸汤圆, savory glutinous rice ball soup: a white ceramic bowl of clear savory broth containing many small smooth white UNFILLED glutinous-rice balls about 1.5cm, thin white daikon radish strips, tiny orange dried shrimp, shredded cooked chicken and a few brown shiitake mushroom slices; very modest scallion garnish. Round white rice balls should be distinctly visible among vegetables. Natural Cantonese home cooking, not a sweet dessert, no red beans, no black sesame filling, no giant stuffed dumplings.",
+      "generated_path": "C:\\Users\\QiuLiang\\.codex\\generated_images\\01a135f0-0268-7b70-9c6b-a7e63e76118c\\exec-b973c82e-6337-4bcf-8667-889bcac5ec34.png",
+      "tool": "built-in image_gen",
+      "generatedAt": "2026-10-16",
+      "local_original": "D:\\NPD服务器数据\\学校\\寻美江门\\侨乡来信\\材料\\美食照片\\taishan-savory-tangyuan-ai.png",
+      "original_sha256": "310f0d8b5046afb6cec163d794985a74959fac716b21dfb14fa6df20f4e14c9c"
+    },
+    {
+      "id": "kaiping-xianjilong",
+      "prompt": "Use case: photorealistic-natural. One horizontal 16:10 editorial food illustration for a Jiangmen guide, to be labeled AI菜式示意 by the website. Subject: 开平咸鸡笼, traditional Cantonese fried savory glutinous-rice pastry. Four palm-sized golden HALF-MOON dumplings made from a thick mixture of glutinous rice flour and regular rice flour, each folded into a plump crescent with a subtle twisted rope crimp along the edge. Roughly fried and golden, gently blistered rice-crust surface, not laminated pastry. One cut-open piece reveals modest finely chopped filling of dried shrimp, char siu pork, radish and peanuts; contrast the ivory glutinous rice skin inside with golden fried outer surface. Not a chicken dish, no chicken cages, no whole meat bird, no potstickers, no flaky flour puff pastry. Simple pale cream ceramic plate, warm natural window light, muted tea-green accents, close three-quarter view. Inviting yet believable food texture and handmade shapes, main dish centered with safe crop margins. No text, logo, watermark, people, hands or collage.",
+      "generated_path": "C:\\Users\\QiuLiang\\.codex\\generated_images\\01a135f0-0268-7b70-9c6b-a7e63e76118c\\exec-794916ed-4d38-4259-b3cc-f6b52d973c6d.png",
+      "tool": "built-in image_gen",
+      "generatedAt": "2026-10-16",
+      "local_original": "D:\\NPD服务器数据\\学校\\寻美江门\\侨乡来信\\材料\\美食照片\\kaiping-xianjilong-ai.png",
+      "original_sha256": "05a215034b08cf235542136b8ca75cdcfc03196820f068b9700e5d7f69a687de"
+    }
+  ]
+}

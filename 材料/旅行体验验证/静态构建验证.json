@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "repeatableBuild": true,
+  "pages": 9,
+  "knowledgeAnswers": 87,
+  "localDependencies": true,
+  "modulePlacement": true,
+  "exactSdkOncePerPage": true,
+  "htmlSha256": {
+    "index": "9da76d001181877dfb70031f55fa672cbf14d5ca8d42f7a9e9031138fed1af8a",
+    "stories": "72c0c75b709ea228b111c82c4abf58eed9c8e4b3b846f45b63a2df4f6b1428a5",
+    "letters": "0dc0fafe343b2f4cd54064601c097572974f4bf8331dfc80e9b2e97242155fc3",
+    "about": "4d08bd01cc034d44e5ef7b44ae2f2a0db57415261db28892bf5ac7368f72c8c7",
+    "travel": "48a25995fc1ab31acacb73e9cacb4b21459643482eb1d607ed235f063224eb11",
+    "food": "8572109d92cc61cb2e30d60a1e7526c0796a8a5b88767a4abcad8038e617607d",
+    "routes": "7bd5616c84d2726337b5bd5c06e8543b2857155dc5fe79a1df334ed623ea9631",
+    "faq": "926dff5f8b3cde1d69ea6cf5ecca517a1b0f0ca637f07a34dd6dd166c68c9794",
+    "tour": "b7c2a014b2d605b36300b48d30c52b63212eacdbb2045c4fc381f9afd17da96c"
+  }
+}

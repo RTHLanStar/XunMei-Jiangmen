@@ -1,0 +1,229 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "name": "initial-load",
+      "resources": [
+        {
+          "url": "http://127.0.0.1:8765/assets/fonts/noto-serif-sc-editorial-400.woff2",
+          "bytes": 63788
+        },
+        {
+          "url": "http://127.0.0.1:8765/assets/scene-0.webp",
+          "bytes": 256324
+        },
+        {
+          "url": "http://127.0.0.1:8765/site-4707158b3cc3.css",
+          "bytes": 99005
+        },
+        {
+          "url": "http://127.0.0.1:8765/assets/film-poster.webp",
+          "bytes": 104358
+        },
+        {
+          "url": "http://127.0.0.1:8765/common.js?v=polish-20261014",
+          "bytes": 3974
+        },
+        {
+          "url": "http://127.0.0.1:8765/stories-data.js",
+          "bytes": 2509
+        },
+        {
+          "url": "http://127.0.0.1:8765/chapters.js",
+          "bytes": 2516
+        },
+        {
+          "url": "http://127.0.0.1:8765/postcard.js?v=polish-20261014",
+          "bytes": 19542
+        },
+        {
+          "url": "http://127.0.0.1:8765/polish.js?v=polish-20261014",
+          "bytes": 5920
+        },
+        {
+          "url": "http://127.0.0.1:8765/theme.js?v=original-chat-20261019",
+          "bytes": 2594
+        },
+        {
+          "url": "http://127.0.0.1:8765/app.js?v=carousel-clean-20261016",
+          "bytes": 15181
+        },
+        {
+          "url": "http://127.0.0.1:8765/daily-letter.js?v=original-chat-20261019",
+          "bytes": 3237
+        },
+        {
+          "url": "http://127.0.0.1:8765/presentation.js?v=original-chat-20261019",
+          "bytes": 2651
+        },
+        {
+          "url": "https://trtc.io/knocket-sdk/sdk.js?identifier=7cacdcf02616dcfa4e&v=1792401160166",
+          "bytes": 0
+        },
+        {
+          "url": "http://127.0.0.1:8765/assets/travel/longdi-960.webp",
+          "bytes": 77126
+        },
+        {
+          "url": "https://trtc.io/knocket-sdk/sdk.css",
+          "bytes": 0
+        },
+        {
+          "url": "https://trtc.io/js/shence814.min.js",
+          "bytes": 0
+        },
+        {
+          "url": "https://api.trtc.io/common/portal-api-lc",
+          "bytes": 0
+        },
+        {
+          "url": "https://api.trtc.io/common/portal-api-lc",
+          "bytes": 0
+        },
+        {
+          "url": "https://api.trtc.io/common/portal-api-lc",
+          "bytes": 0
+        },
+        {
+          "url": "https://api.trtc.io/common/portal-api-lc",
+          "bytes": 0
+        },
+        {
+          "url": "https://api.trtc.io/common/portal-api-lc",
+          "bytes": 0
+        },
+        {
+          "url": "https://sc-rp.tencentcloud.com:8106/sa?project=production&data=eyJpZGVudGl0aWVzIjp7IiRpZGVudGl0eV9jb29raWVfaWQiOiIxYTE2ZDhmMzc0YjE4Yy0wOTRkZDE4MTcwOTU3NS02MTQzMjY3LTE0NDAwMDAtMWExNmQ4ZjM3NGMxODlmIiwiJGlkZW50aXR5X2Fub255bW91c19pZCI6IjFhMTZkOGYzNzRiMThjLTA5NGRkMTgxNzA5NTc1LTYxNDMyNjctMTQ0MDAwMC0xYTE2ZDhmMzc0YzE4OWYifSwiZGlzdGluY3RfaWQiOiIxYTE2ZDhmMzc0YjE4Yy0wOTRkZDE4MTcwOTU3NS02MTQzMjY3LTE0NDAwMDAtMWExNmQ4ZjM3NGMxODlmIiwibGliIjp7IiRsaWIiOiJqcyIsIiRsaWJfbWV0aG9kIjoiY29kZSIsIiRsaWJfdmVyc2lvbiI6IjEuMjcuNCJ9LCJwcm9wZXJ0aWVzIjp7IiR0aW1lem9uZV9vZmZzZXQiOi00ODAsIiRzY3JlZW5faGVpZ2h0IjoxMDAwLCIkc2NyZWVuX3dpZHRoIjoxNDQwLCIkdmlld3BvcnRfaGVpZ2h0IjoxMDAwLCIkdmlld3BvcnRfd2lkdGgiOjE0NDAsIiRsaWIiOiJqcyIsIiRsaWJfdmVyc2lvbiI6IjEuMjcuNCIsIiRsYXRlc3RfdHJhZmZpY19zb3VyY2VfdHlwZSI6IiIsIiRsYXRlc3Rfc2VhcmNoX2tleXdvcmQiOiIiLCIkbGF0ZXN0X3JlZmVycmVyIjoiIiwiJHJlZmVycmVyIjoiIiwid2lkZ2V0X2hvc3Rfb3JpZ2luIjoiaHR0cDovLzEyNy4wLjAuMTo4NzY1Iiwid2lkZ2V0X2hvc3RfcGF0aCI6Ii8iLCJwbGF0Zm9ybV90eXBlIjoid2ViIiwicHJvamVjdCI6Imtub2NrZXQtd2lkZ2V0Iiwid2lkZ2V0X2lkZW50aWZpZXIiOiI3Y2FjZGNmMDI2MTZkY2ZhNGUiLCJ3aWRnZXRfZW52aXJvbm1lbnQiOiJwcm9kIiwid2lkZ2V0X2lzX3Rlc3RfYm90IjpmYWxzZSwid2lkZ2V0X2lzX3BvcG91dCI6ZmFsc2UsIndpZGdldF92aXNpdG9yX2lkIjoid2ViX2QwYzlkOGU2MjkiLCIkdXJsIjoiaHR0cDovLzEyNy4wLjAuMTo4NzY1LyIsIiR1cmxfcGF0aCI6Ii8iLCIkaXNfZmlyc3RfZGF5Ijp0cnVlLCIkcmVmZXJyZXJfaG9zdCI6IiIsIiR0aXRsZSI6IuS%2BqOS5oeadpeS%2FoSDCtyDmsZ%2Fpl6gifSwiYW5vbnltb3VzX2lkIjoiMWExNmQ4ZjM3NGIxOGMtMDk0ZGQxODE3MDk1NzUtNjE0MzI2Ny0xNDQwMDAwLTFhMTZkOGYzNzRjMTg5ZiIsInR5cGUiOiJ0cmFjayIsImV2ZW50IjoiS25vY2tldF9XaWRnZXRMb2FkZWQiLCJ0aW1lIjoxNzkyODM5NDY0Nzg1LCJfdHJhY2tfaWQiOjczMDUyNDc4NywiX2ZsdXNoX3RpbWUiOjE3OTI4Mzk0NjQ3ODd9&ext=crc%3D-1716005240",
+          "bytes": 0
+        },
+        {
+          "url": "https://api.trtc.io/common/portal-api-lc",
+          "bytes": 0
+        },
+        {
+          "url": "https://web.sdk.qcloud.com/im/download/error-message/v3/0.0.7/tim-error-message.txt",
+          "bytes": 0
+        }
+      ]
+    },
+    {
+      "name": "complete-and-write",
+      "persistentCompletion": true,
+      "draftCrossPage": true,
+      "preview": true,
+      "pngDownload": true,
+      "shareFallback": true
+    },
+    {
+      "file": "index.html",
+      "width": 360,
+      "noOverflow": true
+    },
+    {
+      "file": "stories.html",
+      "width": 360,
+      "noOverflow": true
+    },
+    {
+      "file": "letters.html",
+      "width": 360,
+      "noOverflow": true
+    },
+    {
+      "file": "about.html",
+      "width": 360,
+      "noOverflow": true
+    },
+    {
+      "file": "index.html",
+      "width": 390,
+      "noOverflow": true
+    },
+    {
+      "file": "stories.html",
+      "width": 390,
+      "noOverflow": true
+    },
+    {
+      "file": "letters.html",
+      "width": 390,
+      "noOverflow": true
+    },
+    {
+      "file": "about.html",
+      "width": 390,
+      "noOverflow": true
+    },
+    {
+      "file": "index.html",
+      "width": 768,
+      "noOverflow": true
+    },
+    {
+      "file": "stories.html",
+      "width": 768,
+      "noOverflow": true
+    },
+    {
+      "file": "letters.html",
+      "width": 768,
+      "noOverflow": true
+    },
+    {
+      "file": "about.html",
+      "width": 768,
+      "noOverflow": true
+    },
+    {
+      "file": "index.html",
+      "width": 1024,
+      "noOverflow": true
+    },
+    {
+      "file": "stories.html",
+      "width": 1024,
+      "noOverflow": true
+    },
+    {
+      "file": "letters.html",
+      "width": 1024,
+      "noOverflow": true
+    },
+    {
+      "file": "about.html",
+      "width": 1024,
+      "noOverflow": true
+    },
+    {
+      "file": "index.html",
+      "width": 1440,
+      "noOverflow": true
+    },
+    {
+      "file": "stories.html",
+      "width": 1440,
+      "noOverflow": true
+    },
+    {
+      "file": "letters.html",
+      "width": 1440,
+      "noOverflow": true
+    },
+    {
+      "file": "about.html",
+      "width": 1440,
+      "noOverflow": true
+    },
+    {
+      "name": "offline-export",
+      "passed": true
+    },
+    {
+      "name": "storage-denied",
+      "inMemoryStamps": true,
+      "editorStillWorks": true
+    }
+  ],
+  "errors": [],
+  "failures": []
+}

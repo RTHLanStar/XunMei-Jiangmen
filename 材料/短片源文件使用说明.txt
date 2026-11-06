@@ -1,0 +1,22 @@
+短片升级版源文件位于制作源文件/video-v2。
+
+目录内容
+index.html：可编辑的HyperFrames镜头、标题与字幕动画。
+scenes.json、DESIGN.md、meta.json：分镜、设计与制作信息。
+images/：九张独立AI艺术影像PNG原图，以及architecture-prompts.json、river-peel-prompts.json真实生成记录。
+captions.json、subtitles.srt、subtitles.vtt：25条分句字幕。
+voice-0.wav至voice-5.wav：已确认的男声旁白，保持原始冻结音频。
+music.wav：原创程序音乐；ambience.wav：原创程序轻环境音；final-mix.wav：可直接用于影片的最终混音。
+build-audio.py、audio-report.json：环境音与混音构建脚本、实际测量记录。
+build-video.py：生成视频编排文件的脚本。
+gsap.min.js、hyperframes.json、package.json：动画依赖与项目配置。
+
+使用方式
+先保留整个video-v2目录结构。电脑需具备Node.js与FFmpeg。在该目录运行npm run check检查，运行npm run render渲染MP4；项目通过npx固定调用HyperFrames 0.8.155，首次需要联网下载工具及所需浏览器。
+已有index.html和final-mix.wav时，可直接按项目配置检查或渲染，不需要重新合成声音。
+如需重建混音，Python环境安装NumPy后运行python build-audio.py；脚本读取同目录已冻结旁白和music.wav。三个混音中间文件voice-bus.wav、music-carved.wav、premix.wav未装入作品包，可由脚本重新生成。
+如需重新生成HTML编排，运行python build-video.py。编辑时应同步分镜、字幕与音频开始时间。
+旁白沿用用户已确认的Microsoft zh-CN-YunjianNeural，本轮无需再次调用在线TTS。
+字体使用Windows系统微软雅黑与宋体，未打包系统字体；其他系统的替代字体可能改变字宽，重渲染时应检查字幕安全区。
+
+图像为摄影风格AI艺术演绎，原生1672×941，未插值升格；交付影片画布为1920×1080。推镜和转场产生镜头运动，不将静态AI素材描述为实景视频或真人表演。

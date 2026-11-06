@@ -1,0 +1,32 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "name": "nine-pages:metadata-utility-links-local-anchors",
+      "passed": true
+    },
+    {
+      "name": "faq:87-static-answers-search-no-results-deep-link-unfilters-safe-query",
+      "passed": true
+    },
+    {
+      "name": "faq-tour:four-widths-text200-visual-snapshots",
+      "passed": true
+    },
+    {
+      "name": "print:four-pages-current-filter-provenance-expanded-restored-user-click",
+      "passed": true
+    },
+    {
+      "name": "no-js:all-answers-and-tour-readable-controls-hidden",
+      "passed": true
+    },
+    {
+      "name": "file-protocol:local-faq-search-no-fetch",
+      "passed": true
+    }
+  ],
+  "errors": [],
+  "localFailures": [],
+  "engine": "Chromium desktop and mobile viewport; not actual WeChat hardware"
+}

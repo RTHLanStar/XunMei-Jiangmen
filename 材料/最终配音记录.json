@@ -1,0 +1,263 @@
+{
+  "updated": "2026-10-14",
+  "voice": "zh-CN-YunjianNeural",
+  "provider": "Microsoft Edge Neural TTS",
+  "rate": "-6%",
+  "pitch": "-6Hz",
+  "language": "zh-CN",
+  "voice_type": "自然男声，用户已确认",
+  "new_tts_in_this_revision": false,
+  "extra_speed_adjustment": false,
+  "extra_pitch_adjustment": false,
+  "voice_clips": [
+    {
+      "file": "voice-0.wav",
+      "start": 0.8,
+      "duration": 8.042667,
+      "sha256": "da9c26363bf1a0aad9c1bf6027f3f536fe94f4e21aa1db09100bc24abcaba148",
+      "sample_peak_dbfs": -5.01,
+      "silences_local_seconds": [
+        [
+          0.0,
+          0.169521
+        ],
+        [
+          1.050479,
+          1.387208
+        ],
+        [
+          2.191396,
+          2.468646
+        ],
+        [
+          3.988417,
+          4.707896
+        ],
+        [
+          6.023229,
+          6.2615
+        ],
+        [
+          7.132375,
+          8.042667
+        ]
+      ]
+    },
+    {
+      "file": "voice-1.wav",
+      "start": 10.2,
+      "duration": 7.082667,
+      "sha256": "fb504877c7d0ef3d0421081b57b12fd5f76ce318457ac9bb3119d8eb8f16303a",
+      "sample_peak_dbfs": -5.01,
+      "silences_local_seconds": [
+        [
+          0.0,
+          0.189396
+        ],
+        [
+          0.992771,
+          1.260667
+        ],
+        [
+          2.666396,
+          2.794604
+        ],
+        [
+          3.804208,
+          4.156375
+        ],
+        [
+          6.1835,
+          7.082667
+        ]
+      ]
+    },
+    {
+      "file": "voice-2.wav",
+      "start": 20.2,
+      "duration": 7.778667,
+      "sha256": "a071877d92cfa4b9f1b6bb2643fab70f5caa80a9c98060be44dfd4350e488221",
+      "sample_peak_dbfs": -5.02,
+      "silences_local_seconds": [
+        [
+          0.0,
+          0.182792
+        ],
+        [
+          1.646521,
+          1.977458
+        ],
+        [
+          3.602187,
+          4.306104
+        ],
+        [
+          5.105104,
+          5.397042
+        ],
+        [
+          6.833833,
+          7.778667
+        ]
+      ]
+    },
+    {
+      "file": "voice-3.wav",
+      "start": 31.0,
+      "duration": 8.186667,
+      "sha256": "2cfbcfdb8efa3d709795f30ab06199b25cfe878bd8f90b02d6e027b45ad9b2d6",
+      "sample_peak_dbfs": -5.01,
+      "silences_local_seconds": [
+        [
+          0.0,
+          0.170167
+        ],
+        [
+          1.898187,
+          2.228521
+        ],
+        [
+          3.65325,
+          4.355729
+        ],
+        [
+          5.722562,
+          5.981917
+        ],
+        [
+          7.260542,
+          8.186667
+        ]
+      ]
+    },
+    {
+      "file": "voice-4.wav",
+      "start": 42.0,
+      "duration": 9.626667,
+      "sha256": "68849d3066faa11687abec72016dcc2e1864b139a20319f87689f6fac50fad41",
+      "sample_peak_dbfs": -5.01,
+      "silences_local_seconds": [
+        [
+          0.0,
+          0.186188
+        ],
+        [
+          2.289687,
+          2.959458
+        ],
+        [
+          3.57125,
+          3.912687
+        ],
+        [
+          5.197729,
+          5.917771
+        ],
+        [
+          7.176812,
+          7.519354
+        ],
+        [
+          8.710771,
+          9.626667
+        ]
+      ]
+    },
+    {
+      "file": "voice-5.wav",
+      "start": 56.0,
+      "duration": 7.778667,
+      "sha256": "1293d024d0ab4a007881cfeaab6e4616f69e485c070c6b493ff3ed7ba0ad6bc8",
+      "sample_peak_dbfs": -4.98,
+      "silences_local_seconds": [
+        [
+          0.0,
+          0.171687
+        ],
+        [
+          1.335687,
+          1.587354
+        ],
+        [
+          2.746104,
+          3.470813
+        ],
+        [
+          4.451229,
+          4.768979
+        ],
+        [
+          6.873396,
+          7.778667
+        ]
+      ]
+    }
+  ],
+  "music": {
+    "source": "music.wav",
+    "origin": "Existing original deterministic pentatonic composition",
+    "gain_range": [
+      0.2,
+      0.34
+    ],
+    "speech_carve_eq": [
+      {
+        "frequency_hz": 700,
+        "q": 0.8,
+        "max_cut_db": -3
+      },
+      {
+        "frequency_hz": 1550,
+        "q": 0.8,
+        "max_cut_db": -6
+      },
+      {
+        "frequency_hz": 2700,
+        "q": 1.1,
+        "max_cut_db": -3
+      }
+    ],
+    "envelope_attack_seconds": 0.06,
+    "envelope_release_seconds": 0.48,
+    "ending_fade_seconds": 4.2
+  },
+  "ambience": {
+    "origin": "Original procedural sound design, not location recording",
+    "random_seed": 20261014,
+    "events": [
+      "paper rustle 0.06-1.91, 2.60-3.30, 54.20-54.95, 64.00-65.15",
+      "soft roof rain 18.50-30.00",
+      "river wash 30.00-41.00",
+      "bamboo tray/peel rub 41.10-41.72, 47.65-48.21, 52.20-53.00"
+    ],
+    "rms_dbfs": -55.89,
+    "peak_dbfs": -32.18,
+    "speech_duck_max": 0.4
+  },
+  "master": {
+    "method": "FFmpeg two-pass loudnorm",
+    "target_lufs": -17.5,
+    "target_true_peak_dbtp": -2,
+    "measured_integrated_lufs": -17.51,
+    "measured_true_peak_dbtp": -2.39,
+    "measured_loudness_range_lu": 10.9,
+    "measurement_raw": {
+      "input_i": "-17.51",
+      "input_tp": "-2.39",
+      "input_lra": "10.90",
+      "input_thresh": "-28.97",
+      "output_i": "-17.87",
+      "output_tp": "-2.40",
+      "output_lra": "6.90",
+      "output_thresh": "-28.87",
+      "normalization_type": "dynamic",
+      "target_offset": "0.37"
+    }
+  },
+  "captions": {
+    "method": "Waveform-assisted manual punctuation alignment; actual -36 dB silence analysis, no ASR claim.",
+    "count": 25,
+    "maximum_characters": 12
+  },
+  "report": "最终混音报告.json"
+}

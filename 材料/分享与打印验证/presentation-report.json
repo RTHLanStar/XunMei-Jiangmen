@@ -1,0 +1,45 @@
+{
+  "checks": [
+    {
+      "file": "travel",
+      "screenLayoutUnchanged": true,
+      "filteredCount": 4,
+      "printSources": true,
+      "disclosureRestored": true
+    },
+    {
+      "file": "food",
+      "screenLayoutUnchanged": true,
+      "filteredCount": 2,
+      "printSources": true,
+      "disclosureRestored": true
+    },
+    {
+      "file": "routes",
+      "screenLayoutUnchanged": true,
+      "filteredCount": 6,
+      "printSources": true,
+      "disclosureRestored": true
+    },
+    {
+      "file": "faq",
+      "screenLayoutUnchanged": true,
+      "filteredCount": 4,
+      "printSources": true,
+      "disclosureRestored": true
+    },
+    {
+      "name": "keyboard-focus-and-forced-colors",
+      "passed": true
+    },
+    {
+      "name": "no-javascript-print-fallback",
+      "passed": true
+    },
+    {
+      "name": "no-javascript-faq-print-fallback",
+      "passed": true
+    }
+  ],
+  "errors": []
+}

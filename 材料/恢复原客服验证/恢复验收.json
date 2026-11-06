@@ -1,0 +1,36 @@
+{
+  "checkedAt": "2026-10-19T16:37:47.575692+08:00",
+  "passed": true,
+  "pages": [
+    "about.html",
+    "faq.html",
+    "food.html",
+    "index.html",
+    "letters.html",
+    "routes.html",
+    "stories.html",
+    "tour.html",
+    "travel.html"
+  ],
+  "originalSdkOnce": true,
+  "extraOnlineEntries": false,
+  "customOpenerRemoved": true,
+  "questions": 87,
+  "deletedNumbers": [
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94
+  ],
+  "currentHashedCss": [
+    "site-472b389f5065.css"
+  ],
+  "browserChecks": [
+    "../建议优化验证/浏览器验收.json",
+    "../站内问答验证/浏览器验证.json"
+  ],
+  "scope": "恢复原始嵌入接入方式；不更改第三方SDK样式或后台配置。真实服务连接另见只读核验记录。"
+}

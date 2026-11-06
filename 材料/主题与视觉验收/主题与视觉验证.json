@@ -1,0 +1,447 @@
+{
+  "checkedAt": "2026-10-24T11:15:45.439Z",
+  "engine": "Chromium via browser-runtime.cjs",
+  "checks": [
+    {
+      "name": "token-convergence:no-stray-hex",
+      "ok": true,
+      "detail": {
+        "stray": []
+      }
+    },
+    {
+      "name": "token-convergence:gold-in-use",
+      "ok": true
+    },
+    {
+      "name": "token-convergence:no-duplicate-sans",
+      "ok": true
+    },
+    {
+      "name": "token-convergence:no-duplicate-serif",
+      "ok": true
+    },
+    {
+      "name": "token-convergence:no-duplicate-orange",
+      "ok": true,
+      "detail": {
+        "note": "light + dark override + print override only"
+      }
+    },
+    {
+      "name": "token-convergence:dark-block-present",
+      "ok": true
+    },
+    {
+      "name": "head-order:index:theme-before-css",
+      "ok": true,
+      "detail": {
+        "bootAt": 896,
+        "linkAt": 1374
+      }
+    },
+    {
+      "name": "head-order:index:single-theme-color-meta",
+      "ok": true
+    },
+    {
+      "name": "head-order:index:toggle-present",
+      "ok": true
+    },
+    {
+      "name": "head-order:stories:theme-before-css",
+      "ok": true,
+      "detail": {
+        "bootAt": 865,
+        "linkAt": 1343
+      }
+    },
+    {
+      "name": "head-order:stories:single-theme-color-meta",
+      "ok": true
+    },
+    {
+      "name": "head-order:stories:toggle-present",
+      "ok": true
+    },
+    {
+      "name": "head-order:letters:theme-before-css",
+      "ok": true,
+      "detail": {
+        "bootAt": 722,
+        "linkAt": 1200
+      }
+    },
+    {
+      "name": "head-order:letters:single-theme-color-meta",
+      "ok": true
+    },
+    {
+      "name": "head-order:letters:toggle-present",
+      "ok": true
+    },
+    {
+      "name": "head-order:about:theme-before-css",
+      "ok": true,
+      "detail": {
+        "bootAt": 865,
+        "linkAt": 1343
+      }
+    },
+    {
+      "name": "head-order:about:single-theme-color-meta",
+      "ok": true
+    },
+    {
+      "name": "head-order:about:toggle-present",
+      "ok": true
+    },
+    {
+      "name": "head-order:travel:theme-before-css",
+      "ok": true,
+      "detail": {
+        "bootAt": 615,
+        "linkAt": 1093
+      }
+    },
+    {
+      "name": "head-order:travel:single-theme-color-meta",
+      "ok": true
+    },
+    {
+      "name": "head-order:travel:toggle-present",
+      "ok": true
+    },
+    {
+      "name": "head-order:food:theme-before-css",
+      "ok": true,
+      "detail": {
+        "bootAt": 607,
+        "linkAt": 1085
+      }
+    },
+    {
+      "name": "head-order:food:single-theme-color-meta",
+      "ok": true
+    },
+    {
+      "name": "head-order:food:toggle-present",
+      "ok": true
+    },
+    {
+      "name": "head-order:routes:theme-before-css",
+      "ok": true,
+      "detail": {
+        "bootAt": 620,
+        "linkAt": 1098
+      }
+    },
+    {
+      "name": "head-order:routes:single-theme-color-meta",
+      "ok": true
+    },
+    {
+      "name": "head-order:routes:toggle-present",
+      "ok": true
+    },
+    {
+      "name": "head-order:faq:theme-before-css",
+      "ok": true,
+      "detail": {
+        "bootAt": 590,
+        "linkAt": 1068
+      }
+    },
+    {
+      "name": "head-order:faq:single-theme-color-meta",
+      "ok": true
+    },
+    {
+      "name": "head-order:faq:toggle-present",
+      "ok": true
+    },
+    {
+      "name": "head-order:tour:theme-before-css",
+      "ok": true,
+      "detail": {
+        "bootAt": 593,
+        "linkAt": 1071
+      }
+    },
+    {
+      "name": "head-order:tour:single-theme-color-meta",
+      "ok": true
+    },
+    {
+      "name": "head-order:tour:toggle-present",
+      "ok": true
+    },
+    {
+      "name": "theme:auto-dark",
+      "ok": true,
+      "detail": {
+        "theme": "dark",
+        "source": "auto",
+        "bg": "rgb(20, 28, 26)"
+      }
+    },
+    {
+      "name": "theme:auto-dark-background",
+      "ok": true,
+      "detail": {
+        "got": "rgb(20, 28, 26)",
+        "expected": "rgb(20, 28, 26)"
+      }
+    },
+    {
+      "name": "theme:auto-dark-meta",
+      "ok": true,
+      "detail": {
+        "meta": "#0f2824"
+      }
+    },
+    {
+      "name": "theme:auto-light",
+      "ok": true,
+      "detail": {
+        "theme": "light",
+        "source": "auto",
+        "bg": "rgb(245, 240, 230)"
+      }
+    },
+    {
+      "name": "theme:auto-light-background",
+      "ok": true,
+      "detail": {
+        "got": "rgb(245, 240, 230)",
+        "expected": "rgb(245, 240, 230)"
+      }
+    },
+    {
+      "name": "theme:auto-light-meta",
+      "ok": true,
+      "detail": {
+        "meta": "#183d36"
+      }
+    },
+    {
+      "name": "theme:cycle-returns-to-auto",
+      "ok": true,
+      "detail": [
+        {
+          "theme": "dark",
+          "source": "dark",
+          "stored": "dark",
+          "label": "当前深色模式。点击切换为浅色模式"
+        },
+        {
+          "theme": "light",
+          "source": "light",
+          "stored": "light",
+          "label": "当前浅色模式。点击恢复跟随系统"
+        },
+        {
+          "theme": "light",
+          "source": "auto",
+          "stored": null,
+          "label": "当前跟随系统，显示浅色。点击固定为深色模式"
+        }
+      ]
+    },
+    {
+      "name": "theme:cycle-labels-differ",
+      "ok": true,
+      "detail": [
+        "当前深色模式。点击切换为浅色模式",
+        "当前浅色模式。点击恢复跟随系统",
+        "当前跟随系统，显示浅色。点击固定为深色模式"
+      ]
+    },
+    {
+      "name": "theme:persists-across-pages",
+      "ok": true,
+      "detail": {
+        "explicit": "dark",
+        "afterNav": {
+          "theme": "dark",
+          "source": "dark"
+        }
+      }
+    },
+    {
+      "name": "contrast:light",
+      "ok": true,
+      "detail": [
+        {
+          "label": "h1",
+          "ratio": 10.51,
+          "min": 4.5,
+          "ok": true
+        },
+        {
+          "label": "lead",
+          "ratio": 5.21,
+          "min": 4.5,
+          "ok": true
+        },
+        {
+          "label": "card-title",
+          "ratio": 10.51,
+          "min": 4.5,
+          "ok": true
+        },
+        {
+          "label": "card-meta",
+          "ratio": 5.21,
+          "min": 4.5,
+          "ok": true
+        },
+        {
+          "label": "link",
+          "ratio": 10.51,
+          "min": 4.5,
+          "ok": true
+        },
+        {
+          "label": "orange-index",
+          "ratio": 5.04,
+          "min": 4.5,
+          "ok": true
+        }
+      ]
+    },
+    {
+      "name": "contrast:light-card-surface",
+      "ok": true,
+      "detail": {
+        "ratio": 11.15
+      }
+    },
+    {
+      "name": "contrast:dark",
+      "ok": true,
+      "detail": [
+        {
+          "label": "h1",
+          "ratio": 13.77,
+          "min": 4.5,
+          "ok": true
+        },
+        {
+          "label": "lead",
+          "ratio": 8.25,
+          "min": 4.5,
+          "ok": true
+        },
+        {
+          "label": "card-title",
+          "ratio": 13.77,
+          "min": 4.5,
+          "ok": true
+        },
+        {
+          "label": "card-meta",
+          "ratio": 8.25,
+          "min": 4.5,
+          "ok": true
+        },
+        {
+          "label": "link",
+          "ratio": 13.77,
+          "min": 4.5,
+          "ok": true
+        },
+        {
+          "label": "orange-index",
+          "ratio": 6.58,
+          "min": 4.5,
+          "ok": true
+        }
+      ]
+    },
+    {
+      "name": "contrast:dark-card-surface",
+      "ok": true,
+      "detail": {
+        "ratio": 12.49
+      }
+    },
+    {
+      "name": "print:paper-and-ink",
+      "ok": true,
+      "detail": {
+        "bg": "rgb(255, 255, 255)",
+        "color": "rgb(17, 17, 17)"
+      }
+    },
+    {
+      "name": "layout:no-horizontal-overflow",
+      "ok": true,
+      "detail": []
+    },
+    {
+      "name": "layout:guide-grid-columns-1440",
+      "ok": true,
+      "detail": {
+        "got": 3,
+        "expected": 3
+      }
+    },
+    {
+      "name": "layout:guide-grid-columns-1024",
+      "ok": true,
+      "detail": {
+        "got": 2,
+        "expected": 2
+      }
+    },
+    {
+      "name": "layout:guide-grid-columns-640",
+      "ok": true,
+      "detail": {
+        "got": 1,
+        "expected": 1
+      }
+    },
+    {
+      "name": "layout:header-toggle-no-overlap-320",
+      "ok": true,
+      "detail": {
+        "brandRight": 245,
+        "toggleLeft": 257,
+        "toggleWidth": 44
+      }
+    },
+    {
+      "name": "layout:toggle-touch-target",
+      "ok": true,
+      "detail": {
+        "brandRight": 245,
+        "toggleLeft": 257,
+        "toggleWidth": 44
+      }
+    },
+    {
+      "name": "layout:h1-consistent",
+      "ok": true,
+      "detail": {
+        "index": "53.76px",
+        "stories": "53.76px",
+        "letters": "53.76px",
+        "about": "53.76px",
+        "travel": "53.76px",
+        "food": "53.76px",
+        "routes": "53.76px",
+        "faq": "53.76px",
+        "tour": "53.76px"
+      }
+    },
+    {
+      "name": "runtime:no-page-errors",
+      "ok": true,
+      "detail": []
+    }
+  ],
+  "passed": true,
+  "failures": []
+}

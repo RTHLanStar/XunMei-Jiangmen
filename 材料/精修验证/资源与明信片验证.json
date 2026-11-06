@@ -1,0 +1,61 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "name": "single-scene-http-and-racing-selection",
+      "passed": true,
+      "initialScenes": [
+        "scene-0.webp"
+      ],
+      "forbiddenRequests": [],
+      "exportSize": [
+        1600,
+        1100
+      ]
+    },
+    {
+      "name": "export-snapshot-survives-scene-change",
+      "passed": true,
+      "previewLabel": "江门明信片：开平 · 赤坎骑楼意象；致远方的你；点击预览时的信；已收集0枚印记；互动纪念；创作署名 RTHLanStar。",
+      "editorScene": "3"
+    },
+    {
+      "name": "failed-scene-retry",
+      "passed": true,
+      "attempts": 2
+    },
+    {
+      "name": "chapter-race-and-four-collection-effects",
+      "passed": true,
+      "effects": [
+        "shards",
+        "shutters",
+        "ripples",
+        "petals"
+      ],
+      "atlasRequests": []
+    },
+    {
+      "name": "offline-file-canvas-png",
+      "passed": true,
+      "size": [
+        1600,
+        1100
+      ],
+      "embeddedAtlas": true
+    },
+    {
+      "name": "review-chapter-failure-is-explicit-and-retriable",
+      "passed": true,
+      "failureLabel": "开平 · 赤坎骑楼意象的风景图片加载失败；请再次点选本章标签重试。",
+      "attempts": 2
+    },
+    {
+      "name": "review-dynamic-reduced-motion-finishes-crossfade",
+      "passed": true,
+      "duration": 320,
+      "animationStoppedImmediately": true
+    }
+  ],
+  "errors": []
+}

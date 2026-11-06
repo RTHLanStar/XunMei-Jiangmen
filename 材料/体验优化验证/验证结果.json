@@ -1,0 +1,883 @@
+{
+  "initialResources": [
+    {
+      "name": "noto-serif-sc-editorial-400.woff2",
+      "bytes": 63788
+    },
+    {
+      "name": "site-bdc4d204255a.css",
+      "bytes": 98979
+    },
+    {
+      "name": "scene-0.webp",
+      "bytes": 256324
+    },
+    {
+      "name": "film-poster.webp",
+      "bytes": 104358
+    },
+    {
+      "name": "chapters.js",
+      "bytes": 2516
+    },
+    {
+      "name": "common.js?v=polish-20261014",
+      "bytes": 3974
+    },
+    {
+      "name": "stories-data.js",
+      "bytes": 2509
+    },
+    {
+      "name": "polish.js?v=polish-20261014",
+      "bytes": 5920
+    },
+    {
+      "name": "postcard.js?v=polish-20261014",
+      "bytes": 19542
+    },
+    {
+      "name": "app.js?v=carousel-clean-20261016",
+      "bytes": 15181
+    },
+    {
+      "name": "theme.js?v=original-chat-20261019",
+      "bytes": 2594
+    },
+    {
+      "name": "presentation.js?v=original-chat-20261019",
+      "bytes": 2651
+    },
+    {
+      "name": "daily-letter.js?v=original-chat-20261019",
+      "bytes": 3237
+    },
+    {
+      "name": "sdk.js?identifier=7cacdcf02616dcfa4e&v=1792401160166",
+      "bytes": 0
+    },
+    {
+      "name": "longdi-480.webp",
+      "bytes": 24262
+    },
+    {
+      "name": "sdk.css",
+      "bytes": 0
+    },
+    {
+      "name": "shence814.min.js",
+      "bytes": 0
+    },
+    {
+      "name": "portal-api-lc",
+      "bytes": 0
+    },
+    {
+      "name": "portal-api-lc",
+      "bytes": 0
+    },
+    {
+      "name": "portal-api-lc",
+      "bytes": 0
+    },
+    {
+      "name": "portal-api-lc",
+      "bytes": 0
+    },
+    {
+      "name": "portal-api-lc",
+      "bytes": 0
+    },
+    {
+      "name": "sa?project=production&data=eyJpZGVudGl0aWVzIjp7IiRpZGVudGl0eV9jb29raWVfaWQiOiIxYTE2ZDk4NWM5NGM1Zi0wYjU1YWYzYjU4ZDg1MTgtNjE0MzI2Ny0zMjkxNjAtMWExNmQ5ODVjOTViYmIiLCIkaWRlbnRpdHlfYW5vbnltb3VzX2lkIjoiMWExNmQ5ODVjOTRjNWYtMGI1NWFmM2I1OGQ4NTE4LTYxNDMyNjctMzI5MTYwLTFhMTZkOTg1Yzk1YmJiIn0sImRpc3RpbmN0X2lkIjoiMWExNmQ5ODVjOTRjNWYtMGI1NWFmM2I1OGQ4NTE4LTYxNDMyNjctMzI5MTYwLTFhMTZkOTg1Yzk1YmJiIiwibGliIjp7IiRsaWIiOiJqcyIsIiRsaWJfbWV0aG9kIjoiY29kZSIsIiRsaWJfdmVyc2lvbiI6IjEuMjcuNCJ9LCJwcm9wZXJ0aWVzIjp7IiR0aW1lem9uZV9vZmZzZXQiOi00ODAsIiRzY3JlZW5faGVpZ2h0Ijo4NDQsIiRzY3JlZW5fd2lkdGgiOjM5MCwiJHZpZXdwb3J0X2hlaWdodCI6ODQ0LCIkdmlld3BvcnRfd2lkdGgiOjM5MCwiJGxpYiI6ImpzIiwiJGxpYl92ZXJzaW9uIjoiMS4yNy40IiwiJGxhdGVzdF90cmFmZmljX3NvdXJjZV90eXBlIjoiIiwiJGxhdGVzdF9zZWFyY2hfa2V5d29yZCI6IiIsIiRsYXRlc3RfcmVmZXJyZXIiOiIiLCIkcmVmZXJyZXIiOiIiLCJ3aWRnZXRfaG9zdF9vcmlnaW4iOiJodHRwOi8vMTI3LjAuMC4xOjg3NjUiLCJ3aWRnZXRfaG9zdF9wYXRoIjoiLyIsInBsYXRmb3JtX3R5cGUiOiJ3ZWIiLCJwcm9qZWN0Ijoia25vY2tldC13aWRnZXQiLCJ3aWRnZXRfaWRlbnRpZmllciI6IjdjYWNkY2YwMjYxNmRjZmE0ZSIsIndpZGdldF9lbnZpcm9ubWVudCI6InByb2QiLCJ3aWRnZXRfaXNfdGVzdF9ib3QiOmZhbHNlLCJ3aWRnZXRfaXNfcG9wb3V0IjpmYWxzZSwid2lkZ2V0X3Zpc2l0b3JfaWQiOiJ3ZWJfZDA5NmExNGU1ZCIsIiR1cmwiOiJodHRwOi8vMTI3LjAuMC4xOjg3NjUvIiwiJHVybF9wYXRoIjoiLyIsIiRpc19maXJzdF9kYXkiOnRydWUsIiRyZWZlcnJlcl9ob3N0IjoiIiwiJHRpdGxlIjoi5L6o5Lmh5p2l5L%2BhIMK3IOaxn%2BmXqCJ9LCJhbm9ueW1vdXNfaWQiOiIxYTE2ZDk4NWM5NGM1Zi0wYjU1YWYzYjU4ZDg1MTgtNjE0MzI2Ny0zMjkxNjAtMWExNmQ5ODVjOTViYmIiLCJ0eXBlIjoidHJhY2siLCJldmVudCI6Iktub2NrZXRfV2lkZ2V0TG9hZGVkIiwidGltZSI6MTc5Mjg0MDA2NDE1NSwiX3RyYWNrX2lkIjoyMTcxMzQxNTcsIl9mbHVzaF90aW1lIjoxNzkyODQwMDY0MTU3fQ%3D%3D&ext=crc%3D7980783",
+      "bytes": 0
+    },
+    {
+      "name": "portal-api-lc",
+      "bytes": 0
+    },
+    {
+      "name": "tim-error-message.txt",
+      "bytes": 0
+    }
+  ],
+  "video": {
+    "duration": 66.005,
+    "width": 1920,
+    "height": 1080,
+    "paused": false,
+    "error": null
+  },
+  "layouts": [
+    {
+      "file": "index.html",
+      "width": 320,
+      "overflow": false,
+      "nav": [
+        {
+          "text": "首页",
+          "width": 26,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "游江门",
+          "width": 39,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "侨乡故事",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "我的来信",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "关于创作",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        }
+      ],
+      "heroFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+      "exploreHeight": 591.859375
+    },
+    {
+      "file": "stories.html",
+      "width": 320,
+      "overflow": false,
+      "nav": [
+        {
+          "text": "首页",
+          "width": 26,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "游江门",
+          "width": 39,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "侨乡故事",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "我的来信",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "关于创作",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        }
+      ],
+      "heroFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif"
+    },
+    {
+      "file": "letters.html",
+      "width": 320,
+      "overflow": false,
+      "nav": [
+        {
+          "text": "首页",
+          "width": 26,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "游江门",
+          "width": 39,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "侨乡故事",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "我的来信",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "关于创作",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        }
+      ],
+      "heroFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif"
+    },
+    {
+      "file": "about.html",
+      "width": 320,
+      "overflow": false,
+      "nav": [
+        {
+          "text": "首页",
+          "width": 26,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "游江门",
+          "width": 39,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "侨乡故事",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "我的来信",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "关于创作",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        }
+      ],
+      "heroFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif"
+    },
+    {
+      "file": "index.html",
+      "width": 390,
+      "overflow": false,
+      "nav": [
+        {
+          "text": "首页",
+          "width": 26,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "游江门",
+          "width": 39,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "侨乡故事",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "我的来信",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "关于创作",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        }
+      ],
+      "heroFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+      "exploreHeight": 529.265625
+    },
+    {
+      "file": "stories.html",
+      "width": 390,
+      "overflow": false,
+      "nav": [
+        {
+          "text": "首页",
+          "width": 26,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "游江门",
+          "width": 39,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "侨乡故事",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "我的来信",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "关于创作",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        }
+      ],
+      "heroFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif"
+    },
+    {
+      "file": "letters.html",
+      "width": 390,
+      "overflow": false,
+      "nav": [
+        {
+          "text": "首页",
+          "width": 26,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "游江门",
+          "width": 39,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "侨乡故事",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "我的来信",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "关于创作",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        }
+      ],
+      "heroFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif"
+    },
+    {
+      "file": "about.html",
+      "width": 390,
+      "overflow": false,
+      "nav": [
+        {
+          "text": "首页",
+          "width": 26,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "游江门",
+          "width": 39,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "侨乡故事",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "我的来信",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "关于创作",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        }
+      ],
+      "heroFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif"
+    },
+    {
+      "file": "index.html",
+      "width": 768,
+      "overflow": false,
+      "nav": [
+        {
+          "text": "首页",
+          "width": 26,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "游江门",
+          "width": 39,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "侨乡故事",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "我的来信",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "关于创作",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        }
+      ],
+      "heroFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+      "exploreHeight": 476.46875
+    },
+    {
+      "file": "stories.html",
+      "width": 768,
+      "overflow": false,
+      "nav": [
+        {
+          "text": "首页",
+          "width": 26,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "游江门",
+          "width": 39,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "侨乡故事",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "我的来信",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "关于创作",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        }
+      ],
+      "heroFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif"
+    },
+    {
+      "file": "letters.html",
+      "width": 768,
+      "overflow": false,
+      "nav": [
+        {
+          "text": "首页",
+          "width": 26,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "游江门",
+          "width": 39,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "侨乡故事",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "我的来信",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "关于创作",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        }
+      ],
+      "heroFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif"
+    },
+    {
+      "file": "about.html",
+      "width": 768,
+      "overflow": false,
+      "nav": [
+        {
+          "text": "首页",
+          "width": 26,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "游江门",
+          "width": 39,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "侨乡故事",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "我的来信",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "关于创作",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        }
+      ],
+      "heroFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif"
+    },
+    {
+      "file": "index.html",
+      "width": 1024,
+      "overflow": false,
+      "nav": [
+        {
+          "text": "首页",
+          "width": 26,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "游江门",
+          "width": 39,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "侨乡故事",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "我的来信",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "关于创作",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        }
+      ],
+      "heroFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+      "exploreHeight": 454.375
+    },
+    {
+      "file": "stories.html",
+      "width": 1024,
+      "overflow": false,
+      "nav": [
+        {
+          "text": "首页",
+          "width": 26,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "游江门",
+          "width": 39,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "侨乡故事",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "我的来信",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "关于创作",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        }
+      ],
+      "heroFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif"
+    },
+    {
+      "file": "letters.html",
+      "width": 1024,
+      "overflow": false,
+      "nav": [
+        {
+          "text": "首页",
+          "width": 26,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "游江门",
+          "width": 39,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "侨乡故事",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "我的来信",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "关于创作",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        }
+      ],
+      "heroFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif"
+    },
+    {
+      "file": "about.html",
+      "width": 1024,
+      "overflow": false,
+      "nav": [
+        {
+          "text": "首页",
+          "width": 26,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "游江门",
+          "width": 39,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "侨乡故事",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "我的来信",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "关于创作",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        }
+      ],
+      "heroFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif"
+    },
+    {
+      "file": "index.html",
+      "width": 1440,
+      "overflow": false,
+      "nav": [
+        {
+          "text": "首页",
+          "width": 26,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "游江门",
+          "width": 39,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "侨乡故事",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "我的来信",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "关于创作",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        }
+      ],
+      "heroFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+      "exploreHeight": 432.28125
+    },
+    {
+      "file": "stories.html",
+      "width": 1440,
+      "overflow": false,
+      "nav": [
+        {
+          "text": "首页",
+          "width": 26,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "游江门",
+          "width": 39,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "侨乡故事",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "我的来信",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "关于创作",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        }
+      ],
+      "heroFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif"
+    },
+    {
+      "file": "letters.html",
+      "width": 1440,
+      "overflow": false,
+      "nav": [
+        {
+          "text": "首页",
+          "width": 26,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "游江门",
+          "width": 39,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "侨乡故事",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "我的来信",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "关于创作",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        }
+      ],
+      "heroFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif"
+    },
+    {
+      "file": "about.html",
+      "width": 1440,
+      "overflow": false,
+      "nav": [
+        {
+          "text": "首页",
+          "width": 26,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "游江门",
+          "width": 39,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "侨乡故事",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "我的来信",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        },
+        {
+          "text": "关于创作",
+          "width": 52,
+          "height": 44,
+          "font": 13
+        }
+      ],
+      "heroFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif"
+    }
+  ],
+  "noJavaScriptFallback": true,
+  "reducedMotionReadable": true,
+  "errors": [],
+  "failed": [],
+  "passed": true
+}

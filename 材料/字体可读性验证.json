@@ -1,0 +1,1574 @@
+{
+  "passed": true,
+  "checkedAt": "2026-10-14T13:37:15.537Z",
+  "checks": [
+    {
+      "file": "index.html",
+      "width": 320,
+      "horizontalOverflow": false,
+      "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+      "fontLoaded": true,
+      "titleWhiteSpace": "normal",
+      "titleWidth": 275,
+      "navFits": true,
+      "navFonts": [
+        "13px",
+        "13px",
+        "13px",
+        "13px"
+      ],
+      "small": [
+        {
+          "selector": "eyebrow",
+          "size": 13
+        },
+        {
+          "selector": "hero-foot",
+          "size": 13
+        },
+        {
+          "selector": "eyebrow",
+          "size": 13
+        },
+        {
+          "selector": "eyebrow",
+          "size": 13
+        },
+        {
+          "selector": "image-disclosure",
+          "size": 13
+        },
+        {
+          "selector": "eyebrow",
+          "size": 13
+        },
+        {
+          "selector": "eyebrow",
+          "size": 13
+        },
+        {
+          "selector": "eyebrow",
+          "size": 13
+        },
+        {
+          "selector": "eyebrow",
+          "size": 13
+        },
+        {
+          "selector": "local-note",
+          "size": 13
+        },
+        {
+          "selector": "eyebrow",
+          "size": 13
+        },
+        {
+          "selector": "eyebrow",
+          "size": 13
+        },
+        {
+          "selector": "footer-bottom",
+          "size": 13
+        }
+      ],
+      "exploreHeight": 464,
+      "actualTitleFonts": [
+        {
+          "familyName": "Noto Serif SC",
+          "postScriptName": "NotoSerifSC-Regular",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "file": "stories.html",
+      "width": 320,
+      "horizontalOverflow": false,
+      "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+      "fontLoaded": true,
+      "titleWhiteSpace": "normal",
+      "titleWidth": 282,
+      "navFits": true,
+      "navFonts": [
+        "13px",
+        "13px",
+        "13px",
+        "13px"
+      ],
+      "small": [
+        {
+          "selector": "story-source",
+          "size": 13
+        },
+        {
+          "selector": "story-source",
+          "size": 13
+        },
+        {
+          "selector": "story-source",
+          "size": 13
+        },
+        {
+          "selector": "story-source",
+          "size": 13
+        },
+        {
+          "selector": "page-footer page-shell",
+          "size": 13
+        }
+      ],
+      "exploreHeight": null,
+      "actualTitleFonts": [
+        {
+          "familyName": "Noto Serif SC",
+          "postScriptName": "NotoSerifSC-Regular",
+          "isCustomFont": true,
+          "glyphCount": 14
+        }
+      ]
+    },
+    {
+      "file": "letters.html",
+      "width": 320,
+      "horizontalOverflow": false,
+      "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+      "fontLoaded": true,
+      "titleWhiteSpace": "normal",
+      "titleWidth": 275,
+      "navFits": true,
+      "navFonts": [
+        "13px",
+        "13px",
+        "13px",
+        "13px"
+      ],
+      "small": [
+        {
+          "selector": "eyebrow",
+          "size": 13
+        },
+        {
+          "selector": "eyebrow",
+          "size": 13
+        },
+        {
+          "selector": "eyebrow",
+          "size": 13
+        },
+        {
+          "selector": "local-note",
+          "size": 13
+        },
+        {
+          "selector": "eyebrow",
+          "size": 13
+        },
+        {
+          "selector": "footer-bottom",
+          "size": 13
+        }
+      ],
+      "exploreHeight": null,
+      "actualTitleFonts": [
+        {
+          "familyName": "Noto Serif SC",
+          "postScriptName": "NotoSerifSC-Regular",
+          "isCustomFont": true,
+          "glyphCount": 9
+        }
+      ]
+    },
+    {
+      "file": "about.html",
+      "width": 320,
+      "horizontalOverflow": false,
+      "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+      "fontLoaded": true,
+      "titleWhiteSpace": "normal",
+      "titleWidth": 282,
+      "navFits": true,
+      "navFonts": [
+        "13px",
+        "13px",
+        "13px",
+        "13px"
+      ],
+      "small": [
+        {
+          "selector": "",
+          "size": 13
+        },
+        {
+          "selector": "",
+          "size": 13
+        },
+        {
+          "selector": "",
+          "size": 13
+        },
+        {
+          "selector": "",
+          "size": 13
+        },
+        {
+          "selector": "page-footer page-shell",
+          "size": 13
+        }
+      ],
+      "exploreHeight": null,
+      "actualTitleFonts": [
+        {
+          "familyName": "Noto Serif SC",
+          "postScriptName": "NotoSerifSC-Regular",
+          "isCustomFont": true,
+          "glyphCount": 13
+        }
+      ]
+    },
+    {
+      "file": "index.html",
+      "width": 390,
+      "horizontalOverflow": false,
+      "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+      "fontLoaded": true,
+      "titleWhiteSpace": "normal",
+      "titleWidth": 335,
+      "navFits": true,
+      "navFonts": [
+        "13px",
+        "13px",
+        "13px",
+        "13px"
+      ],
+      "small": [
+        {
+          "selector": "eyebrow",
+          "size": 13
+        },
+        {
+          "selector": "hero-foot",
+          "size": 13
+        },
+        {
+          "selector": "eyebrow",
+          "size": 13
+        },
+        {
+          "selector": "eyebrow",
+          "size": 13
+        },
+        {
+          "selector": "image-disclosure",
+          "size": 13
+        },
+        {
+          "selector": "eyebrow",
+          "size": 13
+        },
+        {
+          "selector": "eyebrow",
+          "size": 13
+        },
+        {
+          "selector": "eyebrow",
+          "size": 13
+        },
+        {
+          "selector": "eyebrow",
+          "size": 13
+        },
+        {
+          "selector": "local-note",
+          "size": 13
+        },
+        {
+          "selector": "eyebrow",
+          "size": 13
+        },
+        {
+          "selector": "eyebrow",
+          "size": 13
+        },
+        {
+          "selector": "footer-bottom",
+          "size": 13
+        }
+      ],
+      "exploreHeight": 429,
+      "actualTitleFonts": [
+        {
+          "familyName": "Noto Serif SC",
+          "postScriptName": "NotoSerifSC-Regular",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "file": "stories.html",
+      "width": 390,
+      "horizontalOverflow": false,
+      "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+      "fontLoaded": true,
+      "titleWhiteSpace": "normal",
+      "titleWidth": 343,
+      "navFits": true,
+      "navFonts": [
+        "13px",
+        "13px",
+        "13px",
+        "13px"
+      ],
+      "small": [
+        {
+          "selector": "story-source",
+          "size": 13
+        },
+        {
+          "selector": "story-source",
+          "size": 13
+        },
+        {
+          "selector": "story-source",
+          "size": 13
+        },
+        {
+          "selector": "story-source",
+          "size": 13
+        },
+        {
+          "selector": "page-footer page-shell",
+          "size": 13
+        }
+      ],
+      "exploreHeight": null,
+      "actualTitleFonts": [
+        {
+          "familyName": "Noto Serif SC",
+          "postScriptName": "NotoSerifSC-Regular",
+          "isCustomFont": true,
+          "glyphCount": 14
+        }
+      ]
+    },
+    {
+      "file": "letters.html",
+      "width": 390,
+      "horizontalOverflow": false,
+      "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+      "fontLoaded": true,
+      "titleWhiteSpace": "normal",
+      "titleWidth": 335,
+      "navFits": true,
+      "navFonts": [
+        "13px",
+        "13px",
+        "13px",
+        "13px"
+      ],
+      "small": [
+        {
+          "selector": "eyebrow",
+          "size": 13
+        },
+        {
+          "selector": "eyebrow",
+          "size": 13
+        },
+        {
+          "selector": "eyebrow",
+          "size": 13
+        },
+        {
+          "selector": "local-note",
+          "size": 13
+        },
+        {
+          "selector": "eyebrow",
+          "size": 13
+        },
+        {
+          "selector": "footer-bottom",
+          "size": 13
+        }
+      ],
+      "exploreHeight": null,
+      "actualTitleFonts": [
+        {
+          "familyName": "Noto Serif SC",
+          "postScriptName": "NotoSerifSC-Regular",
+          "isCustomFont": true,
+          "glyphCount": 9
+        }
+      ]
+    },
+    {
+      "file": "about.html",
+      "width": 390,
+      "horizontalOverflow": false,
+      "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+      "fontLoaded": true,
+      "titleWhiteSpace": "normal",
+      "titleWidth": 343,
+      "navFits": true,
+      "navFonts": [
+        "13px",
+        "13px",
+        "13px",
+        "13px"
+      ],
+      "small": [
+        {
+          "selector": "",
+          "size": 13
+        },
+        {
+          "selector": "",
+          "size": 13
+        },
+        {
+          "selector": "",
+          "size": 13
+        },
+        {
+          "selector": "",
+          "size": 13
+        },
+        {
+          "selector": "page-footer page-shell",
+          "size": 13
+        }
+      ],
+      "exploreHeight": null,
+      "actualTitleFonts": [
+        {
+          "familyName": "Noto Serif SC",
+          "postScriptName": "NotoSerifSC-Regular",
+          "isCustomFont": true,
+          "glyphCount": 13
+        }
+      ]
+    },
+    {
+      "file": "index.html",
+      "width": 700,
+      "horizontalOverflow": false,
+      "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+      "fontLoaded": true,
+      "titleWhiteSpace": "normal",
+      "titleWidth": 602,
+      "navFits": true,
+      "navFonts": [
+        "13px",
+        "13px",
+        "13px",
+        "13px"
+      ],
+      "small": [
+        {
+          "selector": "eyebrow",
+          "size": 13
+        },
+        {
+          "selector": "hero-foot",
+          "size": 13
+        },
+        {
+          "selector": "eyebrow",
+          "size": 13
+        },
+        {
+          "selector": "eyebrow",
+          "size": 13
+        },
+        {
+          "selector": "image-disclosure",
+          "size": 13
+        },
+        {
+          "selector": "eyebrow",
+          "size": 13
+        },
+        {
+          "selector": "eyebrow",
+          "size": 13
+        },
+        {
+          "selector": "eyebrow",
+          "size": 13
+        },
+        {
+          "selector": "eyebrow",
+          "size": 13
+        },
+        {
+          "selector": "local-note",
+          "size": 13
+        },
+        {
+          "selector": "eyebrow",
+          "size": 13
+        },
+        {
+          "selector": "eyebrow",
+          "size": 13
+        },
+        {
+          "selector": "footer-bottom",
+          "size": 13
+        }
+      ],
+      "exploreHeight": 429,
+      "actualTitleFonts": [
+        {
+          "familyName": "Noto Serif SC",
+          "postScriptName": "NotoSerifSC-Regular",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "file": "stories.html",
+      "width": 700,
+      "horizontalOverflow": false,
+      "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+      "fontLoaded": true,
+      "titleWhiteSpace": "normal",
+      "titleWidth": 319,
+      "navFits": true,
+      "navFonts": [
+        "13px",
+        "13px",
+        "13px",
+        "13px"
+      ],
+      "small": [
+        {
+          "selector": "story-source",
+          "size": 13
+        },
+        {
+          "selector": "story-source",
+          "size": 13
+        },
+        {
+          "selector": "story-source",
+          "size": 13
+        },
+        {
+          "selector": "story-source",
+          "size": 13
+        },
+        {
+          "selector": "page-footer page-shell",
+          "size": 13
+        }
+      ],
+      "exploreHeight": null,
+      "actualTitleFonts": [
+        {
+          "familyName": "Noto Serif SC",
+          "postScriptName": "NotoSerifSC-Regular",
+          "isCustomFont": true,
+          "glyphCount": 14
+        }
+      ]
+    },
+    {
+      "file": "letters.html",
+      "width": 700,
+      "horizontalOverflow": false,
+      "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+      "fontLoaded": true,
+      "titleWhiteSpace": "normal",
+      "titleWidth": 602,
+      "navFits": true,
+      "navFonts": [
+        "13px",
+        "13px",
+        "13px",
+        "13px"
+      ],
+      "small": [
+        {
+          "selector": "eyebrow",
+          "size": 13
+        },
+        {
+          "selector": "eyebrow",
+          "size": 13
+        },
+        {
+          "selector": "eyebrow",
+          "size": 13
+        },
+        {
+          "selector": "local-note",
+          "size": 13
+        },
+        {
+          "selector": "eyebrow",
+          "size": 13
+        },
+        {
+          "selector": "footer-bottom",
+          "size": 13
+        }
+      ],
+      "exploreHeight": null,
+      "actualTitleFonts": [
+        {
+          "familyName": "Noto Serif SC",
+          "postScriptName": "NotoSerifSC-Regular",
+          "isCustomFont": true,
+          "glyphCount": 9
+        }
+      ]
+    },
+    {
+      "file": "about.html",
+      "width": 700,
+      "horizontalOverflow": false,
+      "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+      "fontLoaded": true,
+      "titleWhiteSpace": "normal",
+      "titleWidth": 319,
+      "navFits": true,
+      "navFonts": [
+        "13px",
+        "13px",
+        "13px",
+        "13px"
+      ],
+      "small": [
+        {
+          "selector": "",
+          "size": 13
+        },
+        {
+          "selector": "",
+          "size": 13
+        },
+        {
+          "selector": "",
+          "size": 13
+        },
+        {
+          "selector": "",
+          "size": 13
+        },
+        {
+          "selector": "page-footer page-shell",
+          "size": 13
+        }
+      ],
+      "exploreHeight": null,
+      "actualTitleFonts": [
+        {
+          "familyName": "Noto Serif SC",
+          "postScriptName": "NotoSerifSC-Regular",
+          "isCustomFont": true,
+          "glyphCount": 13
+        }
+      ]
+    },
+    {
+      "file": "index.html",
+      "width": 800,
+      "horizontalOverflow": false,
+      "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+      "fontLoaded": true,
+      "titleWhiteSpace": "normal",
+      "titleWidth": 282,
+      "navFits": true,
+      "navFonts": [
+        "13px",
+        "13px",
+        "13px",
+        "13px"
+      ],
+      "small": [
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "hero-foot",
+          "size": 12
+        },
+        {
+          "selector": "eyebrow",
+          "size": 14
+        },
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "image-disclosure",
+          "size": 12
+        },
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "local-note",
+          "size": 12
+        },
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "footer-bottom",
+          "size": 12
+        }
+      ],
+      "exploreHeight": 323,
+      "actualTitleFonts": [
+        {
+          "familyName": "Noto Serif SC",
+          "postScriptName": "NotoSerifSC-Regular",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "file": "stories.html",
+      "width": 800,
+      "horizontalOverflow": false,
+      "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+      "fontLoaded": true,
+      "titleWhiteSpace": "normal",
+      "titleWidth": 365,
+      "navFits": true,
+      "navFonts": [
+        "13px",
+        "13px",
+        "13px",
+        "13px"
+      ],
+      "small": [
+        {
+          "selector": "story-source",
+          "size": 12
+        },
+        {
+          "selector": "story-source",
+          "size": 12
+        },
+        {
+          "selector": "story-source",
+          "size": 12
+        },
+        {
+          "selector": "story-source",
+          "size": 12
+        },
+        {
+          "selector": "page-footer page-shell",
+          "size": 12
+        }
+      ],
+      "exploreHeight": null,
+      "actualTitleFonts": [
+        {
+          "familyName": "Noto Serif SC",
+          "postScriptName": "NotoSerifSC-Regular",
+          "isCustomFont": true,
+          "glyphCount": 14
+        }
+      ]
+    },
+    {
+      "file": "letters.html",
+      "width": 800,
+      "horizontalOverflow": false,
+      "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+      "fontLoaded": true,
+      "titleWhiteSpace": "normal",
+      "titleWidth": 704,
+      "navFits": true,
+      "navFonts": [
+        "13px",
+        "13px",
+        "13px",
+        "13px"
+      ],
+      "small": [
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "local-note",
+          "size": 12
+        },
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "footer-bottom",
+          "size": 12
+        }
+      ],
+      "exploreHeight": null,
+      "actualTitleFonts": [
+        {
+          "familyName": "Noto Serif SC",
+          "postScriptName": "NotoSerifSC-Regular",
+          "isCustomFont": true,
+          "glyphCount": 9
+        }
+      ]
+    },
+    {
+      "file": "about.html",
+      "width": 800,
+      "horizontalOverflow": false,
+      "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+      "fontLoaded": true,
+      "titleWhiteSpace": "normal",
+      "titleWidth": 365,
+      "navFits": true,
+      "navFonts": [
+        "13px",
+        "13px",
+        "13px",
+        "13px"
+      ],
+      "small": [
+        {
+          "selector": "",
+          "size": 12
+        },
+        {
+          "selector": "",
+          "size": 12
+        },
+        {
+          "selector": "",
+          "size": 12
+        },
+        {
+          "selector": "",
+          "size": 12
+        },
+        {
+          "selector": "page-footer page-shell",
+          "size": 12
+        }
+      ],
+      "exploreHeight": null,
+      "actualTitleFonts": [
+        {
+          "familyName": "Noto Serif SC",
+          "postScriptName": "NotoSerifSC-Regular",
+          "isCustomFont": true,
+          "glyphCount": 13
+        }
+      ]
+    },
+    {
+      "file": "index.html",
+      "width": 1000,
+      "horizontalOverflow": false,
+      "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+      "fontLoaded": true,
+      "titleWhiteSpace": "normal",
+      "titleWidth": 353,
+      "navFits": true,
+      "navFonts": [
+        "13px",
+        "13px",
+        "13px",
+        "13px"
+      ],
+      "small": [
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "hero-foot",
+          "size": 12
+        },
+        {
+          "selector": "eyebrow",
+          "size": 14
+        },
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "image-disclosure",
+          "size": 12
+        },
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "local-note",
+          "size": 12
+        },
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "footer-bottom",
+          "size": 12
+        }
+      ],
+      "exploreHeight": 301,
+      "actualTitleFonts": [
+        {
+          "familyName": "Noto Serif SC",
+          "postScriptName": "NotoSerifSC-Regular",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "file": "stories.html",
+      "width": 1000,
+      "horizontalOverflow": false,
+      "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+      "fontLoaded": true,
+      "titleWhiteSpace": "normal",
+      "titleWidth": 442,
+      "navFits": true,
+      "navFonts": [
+        "13px",
+        "13px",
+        "13px",
+        "13px"
+      ],
+      "small": [
+        {
+          "selector": "story-source",
+          "size": 12
+        },
+        {
+          "selector": "story-source",
+          "size": 12
+        },
+        {
+          "selector": "story-source",
+          "size": 12
+        },
+        {
+          "selector": "story-source",
+          "size": 12
+        },
+        {
+          "selector": "page-footer page-shell",
+          "size": 12
+        }
+      ],
+      "exploreHeight": null,
+      "actualTitleFonts": [
+        {
+          "familyName": "Noto Serif SC",
+          "postScriptName": "NotoSerifSC-Regular",
+          "isCustomFont": true,
+          "glyphCount": 14
+        }
+      ]
+    },
+    {
+      "file": "letters.html",
+      "width": 1000,
+      "horizontalOverflow": false,
+      "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+      "fontLoaded": true,
+      "titleWhiteSpace": "normal",
+      "titleWidth": 880,
+      "navFits": true,
+      "navFonts": [
+        "13px",
+        "13px",
+        "13px",
+        "13px"
+      ],
+      "small": [
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "local-note",
+          "size": 12
+        },
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "footer-bottom",
+          "size": 12
+        }
+      ],
+      "exploreHeight": null,
+      "actualTitleFonts": [
+        {
+          "familyName": "Noto Serif SC",
+          "postScriptName": "NotoSerifSC-Regular",
+          "isCustomFont": true,
+          "glyphCount": 9
+        }
+      ]
+    },
+    {
+      "file": "about.html",
+      "width": 1000,
+      "horizontalOverflow": false,
+      "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+      "fontLoaded": true,
+      "titleWhiteSpace": "normal",
+      "titleWidth": 442,
+      "navFits": true,
+      "navFonts": [
+        "13px",
+        "13px",
+        "13px",
+        "13px"
+      ],
+      "small": [
+        {
+          "selector": "",
+          "size": 12
+        },
+        {
+          "selector": "",
+          "size": 12
+        },
+        {
+          "selector": "",
+          "size": 12
+        },
+        {
+          "selector": "",
+          "size": 12
+        },
+        {
+          "selector": "page-footer page-shell",
+          "size": 12
+        }
+      ],
+      "exploreHeight": null,
+      "actualTitleFonts": [
+        {
+          "familyName": "Noto Serif SC",
+          "postScriptName": "NotoSerifSC-Regular",
+          "isCustomFont": true,
+          "glyphCount": 13
+        }
+      ]
+    },
+    {
+      "file": "index.html",
+      "width": 1100,
+      "horizontalOverflow": false,
+      "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+      "fontLoaded": true,
+      "titleWhiteSpace": "normal",
+      "titleWidth": 369,
+      "navFits": true,
+      "navFonts": [
+        "13px",
+        "13px",
+        "13px",
+        "13px"
+      ],
+      "small": [
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "hero-foot",
+          "size": 12
+        },
+        {
+          "selector": "eyebrow",
+          "size": 14
+        },
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "image-disclosure",
+          "size": 12
+        },
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "local-note",
+          "size": 12
+        },
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "footer-bottom",
+          "size": 12
+        }
+      ],
+      "exploreHeight": 301,
+      "actualTitleFonts": [
+        {
+          "familyName": "Noto Serif SC",
+          "postScriptName": "NotoSerifSC-Regular",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "file": "stories.html",
+      "width": 1100,
+      "horizontalOverflow": false,
+      "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+      "fontLoaded": true,
+      "titleWhiteSpace": "normal",
+      "titleWidth": 486,
+      "navFits": true,
+      "navFonts": [
+        "13px",
+        "13px",
+        "13px",
+        "13px"
+      ],
+      "small": [
+        {
+          "selector": "story-source",
+          "size": 12
+        },
+        {
+          "selector": "story-source",
+          "size": 12
+        },
+        {
+          "selector": "story-source",
+          "size": 12
+        },
+        {
+          "selector": "story-source",
+          "size": 12
+        },
+        {
+          "selector": "page-footer page-shell",
+          "size": 12
+        }
+      ],
+      "exploreHeight": null,
+      "actualTitleFonts": [
+        {
+          "familyName": "Noto Serif SC",
+          "postScriptName": "NotoSerifSC-Regular",
+          "isCustomFont": true,
+          "glyphCount": 14
+        }
+      ]
+    },
+    {
+      "file": "letters.html",
+      "width": 1100,
+      "horizontalOverflow": false,
+      "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+      "fontLoaded": true,
+      "titleWhiteSpace": "normal",
+      "titleWidth": 946,
+      "navFits": true,
+      "navFonts": [
+        "13px",
+        "13px",
+        "13px",
+        "13px"
+      ],
+      "small": [
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "local-note",
+          "size": 12
+        },
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "footer-bottom",
+          "size": 12
+        }
+      ],
+      "exploreHeight": null,
+      "actualTitleFonts": [
+        {
+          "familyName": "Noto Serif SC",
+          "postScriptName": "NotoSerifSC-Regular",
+          "isCustomFont": true,
+          "glyphCount": 9
+        }
+      ]
+    },
+    {
+      "file": "about.html",
+      "width": 1100,
+      "horizontalOverflow": false,
+      "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+      "fontLoaded": true,
+      "titleWhiteSpace": "normal",
+      "titleWidth": 486,
+      "navFits": true,
+      "navFonts": [
+        "13px",
+        "13px",
+        "13px",
+        "13px"
+      ],
+      "small": [
+        {
+          "selector": "",
+          "size": 12
+        },
+        {
+          "selector": "",
+          "size": 12
+        },
+        {
+          "selector": "",
+          "size": 12
+        },
+        {
+          "selector": "",
+          "size": 12
+        },
+        {
+          "selector": "page-footer page-shell",
+          "size": 12
+        }
+      ],
+      "exploreHeight": null,
+      "actualTitleFonts": [
+        {
+          "familyName": "Noto Serif SC",
+          "postScriptName": "NotoSerifSC-Regular",
+          "isCustomFont": true,
+          "glyphCount": 13
+        }
+      ]
+    },
+    {
+      "file": "index.html",
+      "width": 1440,
+      "horizontalOverflow": false,
+      "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+      "fontLoaded": true,
+      "titleWhiteSpace": "normal",
+      "titleWidth": 483,
+      "navFits": true,
+      "navFonts": [
+        "13px",
+        "13px",
+        "13px",
+        "13px"
+      ],
+      "small": [
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "hero-foot",
+          "size": 12
+        },
+        {
+          "selector": "eyebrow",
+          "size": 14
+        },
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "image-disclosure",
+          "size": 12
+        },
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "local-note",
+          "size": 12
+        },
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "footer-bottom",
+          "size": 12
+        }
+      ],
+      "exploreHeight": 301,
+      "actualTitleFonts": [
+        {
+          "familyName": "Noto Serif SC",
+          "postScriptName": "NotoSerifSC-Regular",
+          "isCustomFont": true,
+          "glyphCount": 12
+        }
+      ]
+    },
+    {
+      "file": "stories.html",
+      "width": 1440,
+      "horizontalOverflow": false,
+      "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+      "fontLoaded": true,
+      "titleWhiteSpace": "normal",
+      "titleWidth": 636,
+      "navFits": true,
+      "navFonts": [
+        "13px",
+        "13px",
+        "13px",
+        "13px"
+      ],
+      "small": [
+        {
+          "selector": "story-source",
+          "size": 12
+        },
+        {
+          "selector": "story-source",
+          "size": 12
+        },
+        {
+          "selector": "story-source",
+          "size": 12
+        },
+        {
+          "selector": "story-source",
+          "size": 12
+        },
+        {
+          "selector": "page-footer page-shell",
+          "size": 12
+        }
+      ],
+      "exploreHeight": null,
+      "actualTitleFonts": [
+        {
+          "familyName": "Noto Serif SC",
+          "postScriptName": "NotoSerifSC-Regular",
+          "isCustomFont": true,
+          "glyphCount": 14
+        }
+      ]
+    },
+    {
+      "file": "letters.html",
+      "width": 1440,
+      "horizontalOverflow": false,
+      "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+      "fontLoaded": true,
+      "titleWhiteSpace": "normal",
+      "titleWidth": 1238,
+      "navFits": true,
+      "navFonts": [
+        "13px",
+        "13px",
+        "13px",
+        "13px"
+      ],
+      "small": [
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "local-note",
+          "size": 12
+        },
+        {
+          "selector": "eyebrow",
+          "size": 12
+        },
+        {
+          "selector": "footer-bottom",
+          "size": 12
+        }
+      ],
+      "exploreHeight": null,
+      "actualTitleFonts": [
+        {
+          "familyName": "Noto Serif SC",
+          "postScriptName": "NotoSerifSC-Regular",
+          "isCustomFont": true,
+          "glyphCount": 9
+        }
+      ]
+    },
+    {
+      "file": "about.html",
+      "width": 1440,
+      "horizontalOverflow": false,
+      "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+      "fontLoaded": true,
+      "titleWhiteSpace": "normal",
+      "titleWidth": 636,
+      "navFits": true,
+      "navFonts": [
+        "13px",
+        "13px",
+        "13px",
+        "13px"
+      ],
+      "small": [
+        {
+          "selector": "",
+          "size": 12
+        },
+        {
+          "selector": "",
+          "size": 12
+        },
+        {
+          "selector": "",
+          "size": 12
+        },
+        {
+          "selector": "",
+          "size": 12
+        },
+        {
+          "selector": "page-footer page-shell",
+          "size": 12
+        }
+      ],
+      "exploreHeight": null,
+      "actualTitleFonts": [
+        {
+          "familyName": "Noto Serif SC",
+          "postScriptName": "NotoSerifSC-Regular",
+          "isCustomFont": true,
+          "glyphCount": 13
+        }
+      ]
+    }
+  ]
+}

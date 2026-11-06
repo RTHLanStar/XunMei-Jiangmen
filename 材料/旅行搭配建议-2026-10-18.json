@@ -1,0 +1,198 @@
+{
+  "updatedAt": "2026-10-18",
+  "kind": "编辑搭配建议，非实时距离或商户推荐",
+  "pairings": {
+    "longdi": [
+      {
+        "foodId": "duruan-bitter-melon",
+        "note": "同属蓬江，可按落脚位置找凉瓜菜；专程去杜阮镇需另查接驳。"
+      },
+      {
+        "foodId": "hetang-fish-cakes",
+        "note": "荷塘镇与老城不是同一街区，想去当地吃鱼饼，请先查跨镇路程。"
+      }
+    ],
+    "qiming": [
+      {
+        "foodId": "hetang-fish-cakes",
+        "note": "可作为蓬江另一顿小吃选择；荷塘镇需另安排交通。"
+      },
+      {
+        "foodId": "duruan-bitter-melon",
+        "note": "在蓬江餐馆找凉瓜菜，先核对具体店址与当天供应。"
+      }
+    ],
+    "liang": [
+      {
+        "foodId": "chenpi-dishes",
+        "note": "可搭配陈皮村寻味；故居与陈皮村之间需按导航接驳。"
+      },
+      {
+        "foodId": "gujing-goose",
+        "note": "古井镇是另一处用餐目的地，别把故居与古井当作步行相邻。"
+      }
+    ],
+    "bird": [
+      {
+        "foodId": "chenpi-dishes",
+        "note": "湿地游览与陈皮村可放在同一天，按游船和交通安排先后。"
+      },
+      {
+        "foodId": "gujing-goose",
+        "note": "想专程尝古井烧鹅，请另留跨镇路程与用餐时间。"
+      }
+    ],
+    "chenpi": [
+      {
+        "foodId": "chenpi-dishes",
+        "note": "陈皮村及会城一带可找陈皮菜点，先问清具体做法与份量。"
+      },
+      {
+        "foodId": "gujing-goose",
+        "note": "若去古井镇吃烧鹅，需另外核对交通，不是村内同一站。"
+      }
+    ],
+    "zili": [
+      {
+        "foodId": "chikan-tofu",
+        "note": "游完碉楼可转往赤坎寻味，两处之间需要接驳。"
+      },
+      {
+        "foodId": "kaiping-xianjilong",
+        "note": "开平小食店可作为下一站；先查店址，不默认碉楼村内有售。"
+      }
+    ],
+    "chikan": [
+      {
+        "foodId": "chikan-tofu",
+        "note": "同在赤坎片区，先确认店铺是在景区内还是镇区，避免走错入口。"
+      },
+      {
+        "foodId": "magang-goose",
+        "note": "马冈鹅可另作正餐选择；专程去马冈镇需预留交通。"
+      }
+    ],
+    "chuandao": [
+      {
+        "foodId": "taishan-savory-tangyuan",
+        "note": "可作为离岛后的陆地用餐选择，先安排好返程船班再找店。"
+      },
+      {
+        "foodId": "taishan-eel-rice",
+        "note": "水步及台山市区的黄鳝饭需在离岛后另查接驳，不是岛上附近推荐。"
+      }
+    ],
+    "baisha": [
+      {
+        "foodId": "duruan-bitter-melon",
+        "note": "人文参观后可在蓬江找一顿凉瓜家常菜，按餐馆地址安排接驳。"
+      },
+      {
+        "foodId": "hetang-fish-cakes",
+        "note": "想去荷塘镇吃鱼饼，需要另留跨镇交通时间。"
+      }
+    ],
+    "baishuidai": [
+      {
+        "foodId": "waihai-noodles",
+        "note": "白水带与外海需接驳，查好店址后再安排一碗面。"
+      },
+      {
+        "foodId": "lile-ribs",
+        "note": "礼乐街道是另一片区，吃排骨前先核对餐馆与交通。"
+      }
+    ],
+    "shaobai": [
+      {
+        "foodId": "waihai-noodles",
+        "note": "同在外海片区，可按具体店址把故居参观与一碗面串起来。"
+      },
+      {
+        "foodId": "lile-ribs",
+        "note": "礼乐排骨需要另查礼乐餐馆与接驳，不是故居门口同一条街。"
+      }
+    ],
+    "guifeng": [
+      {
+        "foodId": "chenpi-dishes",
+        "note": "登山或环湖后可到会城、陈皮村方向寻味，先留好接驳与休息时间。"
+      },
+      {
+        "foodId": "gujing-goose",
+        "note": "古井镇需单独安排交通，体力不足时就近用餐也很合适。"
+      }
+    ],
+    "liyuan": [
+      {
+        "foodId": "chikan-tofu",
+        "note": "立园与赤坎可分段安排，吃豆腐角前确认交通与具体店址。"
+      },
+      {
+        "foodId": "kaiping-xianjilong",
+        "note": "可在开平小食店寻找这一味，别默认园内即有门店。"
+      }
+    ],
+    "majianglong": [
+      {
+        "foodId": "magang-goose",
+        "note": "马降龙所在片区与马冈镇不同，专程寻味需另外接驳。"
+      },
+      {
+        "foodId": "kaiping-xianjilong",
+        "note": "回开平市区或沿途小食店再找咸鸡笼，先查营业与地址。"
+      }
+    ],
+    "meijia": [
+      {
+        "foodId": "taishan-savory-tangyuan",
+        "note": "可查询端芬沿途餐馆是否供应；专程去台城需要另留路程。"
+      },
+      {
+        "foodId": "taishan-eel-rice",
+        "note": "水步镇黄鳝饭是另一个用餐方向，不能按梅家大院附近店铺安排。"
+      }
+    ],
+    "haikoubu": [
+      {
+        "foodId": "taishan-savory-tangyuan",
+        "note": "可在端芬行程中询问咸汤圆供应，按实际店址安排。"
+      },
+      {
+        "foodId": "taishan-eel-rice",
+        "note": "若去水步或台山市区吃黄鳝饭，请先查跨镇接驳。"
+      }
+    ],
+    "gulao": [
+      {
+        "foodId": "gulao-fish-dumplings",
+        "note": "同在古劳片区，先确定游览码头与餐馆位置，再安排一顿午餐。"
+      }
+    ],
+    "dayan": [
+      {
+        "foodId": "gulao-fish-dumplings",
+        "note": "大雁山与古劳水乡需接驳，可按体力决定是否再去古劳寻味。"
+      }
+    ],
+    "xiema": [
+      {
+        "foodId": "enping-laifen",
+        "note": "可在恩平行程里找一碗濑粉，先核对恩城、牛江等地的具体店址。"
+      },
+      {
+        "foodId": "enping-shaobing",
+        "note": "可作恩平糕点店的伴手礼选择，先问当天供应与保存方式。"
+      }
+    ],
+    "jinjiang": [
+      {
+        "foodId": "enping-laifen",
+        "note": "温泉在大田镇，去恩城或牛江寻味需另查路程，别按温泉旁边安排。"
+      },
+      {
+        "foodId": "enping-shaobing",
+        "note": "可在返程经过恩城时找糕点店，先确认顺路与营业。"
+      }
+    ]
+  }
+}

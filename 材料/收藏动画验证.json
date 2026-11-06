@@ -1,0 +1,27 @@
+{
+  "passed": true,
+  "effects": [
+    {
+      "chapter": 0,
+      "effect": "shards",
+      "next": "街的回声"
+    },
+    {
+      "chapter": 1,
+      "effect": "shutters",
+      "next": "水的来信"
+    },
+    {
+      "chapter": 2,
+      "effect": "ripples",
+      "next": "味的归途"
+    },
+    {
+      "chapter": 3,
+      "effect": "petals",
+      "next": "楼的远望"
+    }
+  ],
+  "reducedMotionDoubleClickCount": 1,
+  "pageErrors": []
+}

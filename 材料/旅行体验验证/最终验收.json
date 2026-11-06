@@ -1,0 +1,43 @@
+{
+  "checkedAt": "2026-10-18T08:57:28.327277+00:00",
+  "passed": true,
+  "scope": "local static /v2.2/ files; no publishing",
+  "browser": "Chromium headless and mobile emulation; not an actual WeChat device",
+  "reports": [
+    {
+      "report": "手机布局回归/验证结果.json",
+      "passed": true,
+      "checks": 96
+    },
+    {
+      "report": "旅行体验验证/集成验证.json",
+      "passed": true,
+      "checks": 6
+    },
+    {
+      "report": "旅行护照验证/整合验证结果.json",
+      "passed": true,
+      "checks": 7
+    },
+    {
+      "report": "旅行体验验证/静态构建验证.json",
+      "passed": true,
+      "checks": 0
+    },
+    {
+      "report": "旅行指南验证/验证结果.json",
+      "passed": true,
+      "checks": 34
+    },
+    {
+      "report": "标题动效验证/验证结果.json",
+      "passed": true,
+      "checks": 11
+    },
+    {
+      "report": "风物轮播验证/验证结果.json",
+      "passed": true,
+      "checks": 8
+    }
+  ]
+}

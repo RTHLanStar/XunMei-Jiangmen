@@ -1,0 +1,215 @@
+{
+  "checks": [
+    {
+      "file": "index",
+      "width": 320,
+      "noOverflow": true
+    },
+    {
+      "file": "stories",
+      "width": 320,
+      "noOverflow": true
+    },
+    {
+      "file": "letters",
+      "width": 320,
+      "noOverflow": true
+    },
+    {
+      "file": "about",
+      "width": 320,
+      "noOverflow": true
+    },
+    {
+      "file": "travel",
+      "width": 320,
+      "noOverflow": true
+    },
+    {
+      "file": "food",
+      "width": 320,
+      "noOverflow": true
+    },
+    {
+      "file": "routes",
+      "width": 320,
+      "noOverflow": true
+    },
+    {
+      "file": "faq",
+      "width": 320,
+      "noOverflow": true
+    },
+    {
+      "file": "tour",
+      "width": 320,
+      "noOverflow": true
+    },
+    {
+      "file": "index",
+      "width": 390,
+      "noOverflow": true
+    },
+    {
+      "file": "stories",
+      "width": 390,
+      "noOverflow": true
+    },
+    {
+      "file": "letters",
+      "width": 390,
+      "noOverflow": true
+    },
+    {
+      "file": "about",
+      "width": 390,
+      "noOverflow": true
+    },
+    {
+      "file": "travel",
+      "width": 390,
+      "noOverflow": true
+    },
+    {
+      "file": "food",
+      "width": 390,
+      "noOverflow": true
+    },
+    {
+      "file": "routes",
+      "width": 390,
+      "noOverflow": true
+    },
+    {
+      "file": "faq",
+      "width": 390,
+      "noOverflow": true
+    },
+    {
+      "file": "tour",
+      "width": 390,
+      "noOverflow": true
+    },
+    {
+      "file": "index",
+      "width": 768,
+      "noOverflow": true
+    },
+    {
+      "file": "stories",
+      "width": 768,
+      "noOverflow": true
+    },
+    {
+      "file": "letters",
+      "width": 768,
+      "noOverflow": true
+    },
+    {
+      "file": "about",
+      "width": 768,
+      "noOverflow": true
+    },
+    {
+      "file": "travel",
+      "width": 768,
+      "noOverflow": true
+    },
+    {
+      "file": "food",
+      "width": 768,
+      "noOverflow": true
+    },
+    {
+      "file": "routes",
+      "width": 768,
+      "noOverflow": true
+    },
+    {
+      "file": "faq",
+      "width": 768,
+      "noOverflow": true
+    },
+    {
+      "file": "tour",
+      "width": 768,
+      "noOverflow": true
+    },
+    {
+      "file": "index",
+      "width": 1440,
+      "noOverflow": true
+    },
+    {
+      "file": "stories",
+      "width": 1440,
+      "noOverflow": true
+    },
+    {
+      "file": "letters",
+      "width": 1440,
+      "noOverflow": true
+    },
+    {
+      "file": "about",
+      "width": 1440,
+      "noOverflow": true
+    },
+    {
+      "file": "travel",
+      "width": 1440,
+      "noOverflow": true
+    },
+    {
+      "file": "food",
+      "width": 1440,
+      "noOverflow": true
+    },
+    {
+      "file": "routes",
+      "width": 1440,
+      "noOverflow": true
+    },
+    {
+      "file": "faq",
+      "width": 1440,
+      "noOverflow": true
+    },
+    {
+      "file": "tour",
+      "width": 1440,
+      "noOverflow": true
+    },
+    {
+      "name": "seven-regions-and-expanded-destinations",
+      "count": 20,
+      "passed": true
+    },
+    {
+      "name": "food-photos-captions-and-seven-region-filters",
+      "count": 14,
+      "passed": true
+    },
+    {
+      "name": "filter-empty-reset-wishlist-cross-page-reload",
+      "passed": true
+    },
+    {
+      "name": "six-routes-attributed-covers-local-stops-and-four-advice-groups",
+      "routes": 6,
+      "advice": 4,
+      "passed": true
+    },
+    {
+      "name": "clipboard-success-mock-and-real-fallback",
+      "passed": true
+    },
+    {
+      "name": "storage-denied-nojs-file-protocol-local-links",
+      "passed": true
+    }
+  ],
+  "errors": [],
+  "failed": [],
+  "passed": true
+}

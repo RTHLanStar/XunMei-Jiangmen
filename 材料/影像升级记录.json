@@ -1,0 +1,73 @@
+{
+  "version_date": "2026-10-14",
+  "creator": "RTHLanStar",
+  "creator_url": "https://github.com/RTHLanStar",
+  "duration_seconds": 66,
+  "canvas": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "native_images": [
+    1672,
+    941
+  ],
+  "unique_images": 9,
+  "shots": [
+    {
+      "image": "letter.png",
+      "start": 0,
+      "end": 4.5
+    },
+    {
+      "image": "tower-wide.png",
+      "start": 4.5,
+      "end": 10.3
+    },
+    {
+      "image": "tower-detail.png",
+      "start": 10.3,
+      "end": 18.5
+    },
+    {
+      "image": "street-wide.png",
+      "start": 18.5,
+      "end": 24
+    },
+    {
+      "image": "street-detail.png",
+      "start": 24,
+      "end": 30
+    },
+    {
+      "image": "river-wide.png",
+      "start": 30,
+      "end": 35.5
+    },
+    {
+      "image": "river-detail.png",
+      "start": 35.5,
+      "end": 41
+    },
+    {
+      "image": "peel-wide.png",
+      "start": 41,
+      "end": 47.6
+    },
+    {
+      "image": "peel-detail.png",
+      "start": 47.6,
+      "end": 53.8
+    },
+    {
+      "image": "letter.png",
+      "start": 53.8,
+      "end": 66
+    }
+  ],
+  "captions": 25,
+  "voice_preserved": true,
+  "disclosure": "Independent photo-style AI stills with camera transforms and transitions, not location footage; ambience is original procedural sound design.",
+  "audio_report": "最终混音报告.json",
+  "image_records": "AI图像生成记录.json"
+}

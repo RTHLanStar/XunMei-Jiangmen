@@ -1,0 +1,32 @@
+{
+  "checkedAt": "2026-10-24T11:06:05.324Z",
+  "engine": "Chromium, mobile emulation; not an actual WeChat device",
+  "checks": [
+    {
+      "name": "daily-letter:20-destinations-metadata-links-and-no-repeat",
+      "passed": true
+    },
+    {
+      "name": "route-finder:nine-combinations-six-routes-duration-boundaries",
+      "passed": true
+    },
+    {
+      "name": "reciprocal-links:all20places14foods-attribution-ai-labels-expanded-mobile",
+      "passed": true
+    },
+    {
+      "name": "food-search-excludes-companion-text",
+      "passed": true
+    },
+    {
+      "name": "no-js:readable-letter-default-route-native-details",
+      "passed": true
+    },
+    {
+      "name": "css-failure:index-routes-letters-width320",
+      "passed": true
+    }
+  ],
+  "errors": [],
+  "passed": true
+}

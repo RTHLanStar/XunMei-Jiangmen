@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "name": "review-chapter-failure-is-explicit-and-retriable",
+      "passed": true,
+      "failureLabel": "开平 · 赤坎骑楼意象的风景图片加载失败；请再次点选本章标签重试。",
+      "attempts": 2
+    },
+    {
+      "name": "review-dynamic-reduced-motion-finishes-crossfade",
+      "passed": true,
+      "duration": 300,
+      "animationStoppedImmediately": true
+    }
+  ],
+  "errors": []
+}

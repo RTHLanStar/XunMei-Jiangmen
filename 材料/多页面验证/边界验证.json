@@ -1,0 +1,166 @@
+{
+  "passed": true,
+  "browser": "152.0.7977.30",
+  "base": "http://127.0.0.1:8765/",
+  "shareTests": "Mock only; navigator.share replaced in the test page. No external sharing.",
+  "checks": [
+    {
+      "name": "keyboard-dialog-focus",
+      "passed": true,
+      "openedWithKeyboard": true,
+      "imageSize": [
+        1600,
+        1100
+      ],
+      "returnFocus": "preview-card"
+    },
+    {
+      "name": "draft-back-navigation",
+      "passed": true,
+      "beforeGoBack": {
+        "recipient": "草稿 B",
+        "message": "来信页更新为 B。",
+        "stored": {
+          "scene": 0,
+          "recipient": "草稿 B",
+          "message": "来信页更新为 B。"
+        }
+      },
+      "realGoBack": {
+        "recipient": "草稿 B",
+        "message": "来信页更新为 B。",
+        "stored": {
+          "scene": 0,
+          "recipient": "草稿 B",
+          "message": "来信页更新为 B。"
+        },
+        "pageshowEvents": [
+          {
+            "persisted": false
+          }
+        ],
+        "sameDocument": false
+      },
+      "realBFCache": false,
+      "syntheticPersistedHandler": {
+        "tested": true,
+        "note": "BFCache was not used in real navigation. This separately dispatches a synthetic persisted pageshow to exercise only the handler; the real navigation result is asserted independently."
+      }
+    },
+    {
+      "name": "native-share-success-and-user-cancel-mocks",
+      "passed": true,
+      "calls": [
+        {
+          "mode": "success",
+          "title": "侨乡来信 · 江门",
+          "files": [
+            {
+              "name": "侨乡来信-江门明信片.png",
+              "type": "image/png",
+              "size": 1651028
+            }
+          ]
+        },
+        {
+          "mode": "abort",
+          "title": "侨乡来信 · 江门",
+          "files": [
+            {
+              "name": "侨乡来信-江门明信片.png",
+              "type": "image/png",
+              "size": 1651028
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "four-normal-animations-and-final-completion",
+      "passed": true,
+      "effects": [
+        {
+          "effect": "shards",
+          "pieces": 24
+        },
+        {
+          "effect": "shutters",
+          "pieces": 6
+        },
+        {
+          "effect": "ripples",
+          "pieces": 24
+        },
+        {
+          "effect": "petals",
+          "pieces": 3
+        }
+      ],
+      "finalChapter": "味的归途",
+      "completionVisible": true
+    },
+    {
+      "name": "cross-tab-clear-during-scene-load-removeItem",
+      "passed": true,
+      "storageEvents": [
+        {
+          "key": "jiangmen-letter-stamps",
+          "newValue": null
+        }
+      ],
+      "afterLoad": {
+        "progress": "已收集 0 / 4 枚文化印记",
+        "ownedInUI": 0,
+        "storage": null
+      },
+      "afterNextCollect": {
+        "clickedChapter": 0,
+        "owned": [
+          0
+        ],
+        "progress": "已收集 1 / 4 枚文化印记"
+      }
+    },
+    {
+      "name": "cross-tab-clear-during-scene-load-clear",
+      "passed": true,
+      "storageEvents": [
+        {
+          "key": null,
+          "newValue": null
+        }
+      ],
+      "afterLoad": {
+        "progress": "已收集 0 / 4 枚文化印记",
+        "ownedInUI": 0,
+        "storage": null
+      },
+      "afterNextCollect": {
+        "clickedChapter": 0,
+        "owned": [
+          0
+        ],
+        "progress": "已收集 1 / 4 枚文化印记"
+      }
+    },
+    {
+      "name": "file-protocol-cross-page-compatibility",
+      "passed": true,
+      "homeCollected": [
+        0
+      ],
+      "lettersPassport": {
+        "ownedCount": 1,
+        "status": "已收藏 1 / 4 枚印记，随时都可以写下你的心意。",
+        "storedOwned": [
+          0
+        ]
+      },
+      "homeDraft": {
+        "recipient": "离线跨页草稿",
+        "message": "从来信页回到首页，继续写下乡情。"
+      }
+    }
+  ],
+  "pageErrors": []
+}

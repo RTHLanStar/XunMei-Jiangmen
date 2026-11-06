@@ -1,0 +1,57 @@
+{
+  "engine": "Chromium; mobile emulation, not WeChat hardware",
+  "checks": [
+    {
+      "width": 320,
+      "count": 87,
+      "search": true,
+      "category": true,
+      "empty": true,
+      "clear": true,
+      "commonQuestion": true,
+      "deepLink": true,
+      "keywordUrl": true,
+      "keyboard": true,
+      "largeText": true
+    },
+    {
+      "width": 390,
+      "count": 87,
+      "search": true,
+      "category": true,
+      "empty": true,
+      "clear": true,
+      "commonQuestion": true,
+      "deepLink": true,
+      "keywordUrl": true,
+      "keyboard": true,
+      "largeText": true
+    },
+    {
+      "width": 1440,
+      "count": 87,
+      "search": true,
+      "category": true,
+      "empty": true,
+      "clear": true,
+      "commonQuestion": true,
+      "deepLink": true,
+      "keywordUrl": true,
+      "keyboard": true,
+      "largeText": true
+    },
+    {
+      "noJavaScript": true,
+      "fullStaticAnswers": true
+    },
+    {
+      "noExternalCSS": true,
+      "maliciousQuerySafe": true
+    },
+    {
+      "fileProtocol": true,
+      "noNetworkRequests": true
+    }
+  ],
+  "passed": true
+}

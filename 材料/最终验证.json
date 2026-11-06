@@ -1,0 +1,3453 @@
+{
+  "passed": true,
+  "video": {
+    "passed": true,
+    "duration": 66.005,
+    "width": 1920,
+    "height": 1080,
+    "error": null,
+    "currentTime": 0.620611,
+    "paused": false,
+    "captions": 25,
+    "errors": [],
+    "source": "film-20261014"
+  },
+  "responsive": [
+    {
+      "width": 390,
+      "allChaptersClear": true
+    },
+    {
+      "width": 640,
+      "allChaptersClear": true
+    },
+    {
+      "width": 701,
+      "allChaptersClear": true
+    },
+    {
+      "width": 768,
+      "allChaptersClear": true
+    },
+    {
+      "width": 820,
+      "allChaptersClear": true
+    },
+    {
+      "width": 1024,
+      "allChaptersClear": true
+    },
+    {
+      "width": 1280,
+      "allChaptersClear": true
+    },
+    {
+      "width": 1440,
+      "allChaptersClear": true
+    }
+  ],
+  "multipage": {
+    "passed": true,
+    "checks": [
+      {
+        "name": "initial-load",
+        "resources": [
+          {
+            "url": "http://127.0.0.1:8765/assets/fonts/noto-serif-sc-editorial-400.woff2",
+            "bytes": 63788
+          },
+          {
+            "url": "http://127.0.0.1:8765/assets/scene-0.webp",
+            "bytes": 256324
+          },
+          {
+            "url": "http://127.0.0.1:8765/style.css?v=polish-20261014",
+            "bytes": 17128
+          },
+          {
+            "url": "http://127.0.0.1:8765/polish.css?v=polish-20261014",
+            "bytes": 4589
+          },
+          {
+            "url": "http://127.0.0.1:8765/readability.css?v=polish-20261014",
+            "bytes": 3557
+          },
+          {
+            "url": "http://127.0.0.1:8765/assets/film-poster.webp",
+            "bytes": 104358
+          },
+          {
+            "url": "http://127.0.0.1:8765/common.js?v=polish-20261014",
+            "bytes": 3974
+          },
+          {
+            "url": "http://127.0.0.1:8765/chapters.js",
+            "bytes": 2516
+          },
+          {
+            "url": "http://127.0.0.1:8765/stories-data.js",
+            "bytes": 2509
+          },
+          {
+            "url": "http://127.0.0.1:8765/postcard.js?v=polish-20261014",
+            "bytes": 19542
+          },
+          {
+            "url": "http://127.0.0.1:8765/polish.js?v=polish-20261014",
+            "bytes": 5920
+          },
+          {
+            "url": "http://127.0.0.1:8765/app.js?v=polish-20261014",
+            "bytes": 12392
+          }
+        ]
+      },
+      {
+        "name": "complete-and-write",
+        "persistentCompletion": true,
+        "draftCrossPage": true,
+        "preview": true,
+        "pngDownload": true,
+        "shareFallback": true
+      },
+      {
+        "file": "index.html",
+        "width": 360,
+        "noOverflow": true
+      },
+      {
+        "file": "stories.html",
+        "width": 360,
+        "noOverflow": true
+      },
+      {
+        "file": "letters.html",
+        "width": 360,
+        "noOverflow": true
+      },
+      {
+        "file": "about.html",
+        "width": 360,
+        "noOverflow": true
+      },
+      {
+        "file": "index.html",
+        "width": 390,
+        "noOverflow": true
+      },
+      {
+        "file": "stories.html",
+        "width": 390,
+        "noOverflow": true
+      },
+      {
+        "file": "letters.html",
+        "width": 390,
+        "noOverflow": true
+      },
+      {
+        "file": "about.html",
+        "width": 390,
+        "noOverflow": true
+      },
+      {
+        "file": "index.html",
+        "width": 768,
+        "noOverflow": true
+      },
+      {
+        "file": "stories.html",
+        "width": 768,
+        "noOverflow": true
+      },
+      {
+        "file": "letters.html",
+        "width": 768,
+        "noOverflow": true
+      },
+      {
+        "file": "about.html",
+        "width": 768,
+        "noOverflow": true
+      },
+      {
+        "file": "index.html",
+        "width": 1024,
+        "noOverflow": true
+      },
+      {
+        "file": "stories.html",
+        "width": 1024,
+        "noOverflow": true
+      },
+      {
+        "file": "letters.html",
+        "width": 1024,
+        "noOverflow": true
+      },
+      {
+        "file": "about.html",
+        "width": 1024,
+        "noOverflow": true
+      },
+      {
+        "file": "index.html",
+        "width": 1440,
+        "noOverflow": true
+      },
+      {
+        "file": "stories.html",
+        "width": 1440,
+        "noOverflow": true
+      },
+      {
+        "file": "letters.html",
+        "width": 1440,
+        "noOverflow": true
+      },
+      {
+        "file": "about.html",
+        "width": 1440,
+        "noOverflow": true
+      },
+      {
+        "name": "offline-export",
+        "passed": true
+      },
+      {
+        "name": "storage-denied",
+        "inMemoryStamps": true,
+        "editorStillWorks": true
+      }
+    ],
+    "errors": [],
+    "failures": []
+  },
+  "filmUpgrade20261014": {
+    "version": "film-20261014",
+    "source": "HyperFrames 0.8.155 local render",
+    "master": {
+      "file": "qiaoxiang-letter-v2.mp4",
+      "bytes": 93499575
+    },
+    "delivered": {
+      "file": "assets/qiaoxiang-letter.mp4",
+      "bytes": 17852777,
+      "sha256": "beabfc5e51d97324068b26ab9253b41b7248ae85e8e7d6c9ace9a3f13ee951fd",
+      "probe": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+            "profile": "High",
+            "codec_type": "video",
+            "codec_tag_string": "avc1",
+            "codec_tag": "0x31637661",
+            "mime_codec_string": "avc1.640028",
+            "width": 1920,
+            "height": 1080,
+            "coded_width": 1920,
+            "coded_height": 1080,
+            "has_b_frames": 2,
+            "sample_aspect_ratio": "1:1",
+            "display_aspect_ratio": "16:9",
+            "pix_fmt": "yuv420p",
+            "level": 40,
+            "color_range": "tv",
+            "color_space": "bt709",
+            "color_transfer": "bt709",
+            "color_primaries": "bt709",
+            "chroma_location": "left",
+            "field_order": "progressive",
+            "is_avc": "true",
+            "nal_length_size": "4",
+            "id": "0x1",
+            "r_frame_rate": "24/1",
+            "avg_frame_rate": "24/1",
+            "time_base": "1/12288",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 811008,
+            "duration": "66.000000",
+            "bit_rate": "1970205",
+            "bits_per_raw_sample": "8",
+            "nb_frames": "1584",
+            "extradata_size": 51,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "language": "und",
+              "handler_name": "VideoHandler",
+              "encoder": "Lavc62.28.101 libx264"
+            }
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_long_name": "AAC (Advanced Audio Coding)",
+            "profile": "LC",
+            "codec_type": "audio",
+            "codec_tag_string": "mp4a",
+            "codec_tag": "0x6134706d",
+            "mime_codec_string": "mp4a.40.2",
+            "sample_fmt": "fltp",
+            "sample_rate": "48000",
+            "channels": 2,
+            "channel_layout": "stereo",
+            "bits_per_sample": 0,
+            "initial_padding": 0,
+            "id": "0x2",
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/48000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 3168240,
+            "duration": "66.005000",
+            "bit_rate": "187982",
+            "nb_frames": "3095",
+            "extradata_size": 5,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "language": "und",
+              "handler_name": "SoundHandler"
+            }
+          }
+        ],
+        "format": {
+          "filename": "D:\\NPD服务器数据\\学校\\寻美江门\\侨乡来信\\site\\dist\\assets\\qiaoxiang-letter.mp4",
+          "nb_streams": 2,
+          "nb_programs": 0,
+          "nb_stream_groups": 0,
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "format_long_name": "QuickTime / MOV",
+          "start_time": "0.000000",
+          "duration": "66.005000",
+          "size": "17852777",
+          "bit_rate": "2163809",
+          "probe_score": 100,
+          "tags": {
+            "major_brand": "isom",
+            "minor_version": "512",
+            "compatible_brands": "isomiso2avc1mp41",
+            "encoder": "Lavf62.12.101"
+          }
+        }
+      }
+    },
+    "loudness": {
+      "input_i": "-17.55",
+      "input_tp": "-2.38",
+      "input_lra": "10.90",
+      "input_thresh": "-29.01",
+      "output_i": "-17.89",
+      "output_tp": "-2.35",
+      "output_lra": "7.60",
+      "output_thresh": "-28.94",
+      "normalization_type": "dynamic",
+      "target_offset": "0.39"
+    },
+    "compositionCheck": {
+      "lint": true,
+      "runtime": true,
+      "layout": true,
+      "motion": true,
+      "contrast": true
+    },
+    "compositionWarnings": 19,
+    "compositionWarningNote": "Non-blocking authoring structure advice for a monolithic composition; runtime/layout/contrast checks passed.",
+    "webAssets": [
+      {
+        "mode": "http",
+        "atlas": {
+          "width": 3344,
+          "height": 1882,
+          "exportable": true
+        },
+        "scenes": [
+          {
+            "scene": 0,
+            "bytes": 1640389
+          },
+          {
+            "scene": 1,
+            "bytes": 1909209
+          },
+          {
+            "scene": 2,
+            "bytes": 1827005
+          },
+          {
+            "scene": 3,
+            "bytes": 1991340
+          }
+        ],
+        "errors": []
+      },
+      {
+        "mode": "file",
+        "atlas": {
+          "width": 3344,
+          "height": 1882,
+          "exportable": true
+        },
+        "scenes": [
+          {
+            "scene": 0,
+            "bytes": 1640389
+          },
+          {
+            "scene": 1,
+            "bytes": 1909209
+          },
+          {
+            "scene": 2,
+            "bytes": 1827005
+          },
+          {
+            "scene": 3,
+            "bytes": 1991340
+          }
+        ],
+        "errors": []
+      },
+      {
+        "effects": [
+          "shards",
+          "shutters",
+          "ripples",
+          "petals"
+        ],
+        "atlasDrawCount": 4,
+        "animationOffsets": [
+          [
+            0,
+            0,
+            1672,
+            941
+          ],
+          [
+            1672,
+            0,
+            1672,
+            941
+          ],
+          [
+            0,
+            941,
+            1672,
+            941
+          ],
+          [
+            1672,
+            941,
+            1672,
+            941
+          ]
+        ],
+        "mobileCrop": {
+          "width": 390,
+          "height": 236,
+          "sourceWidth": 1672,
+          "sourceHeight": 941,
+          "fit": "cover"
+        },
+        "errors": []
+      }
+    ],
+    "captions": 25,
+    "contactSheet": "短片十镜头预览.jpg"
+  },
+  "interactionEdges": {
+    "passed": true,
+    "browser": "152.0.7977.30",
+    "base": "http://127.0.0.1:8765/",
+    "shareTests": "Mock only; navigator.share replaced in the test page. No external sharing.",
+    "checks": [
+      {
+        "name": "keyboard-dialog-focus",
+        "passed": true,
+        "openedWithKeyboard": true,
+        "imageSize": [
+          1600,
+          1100
+        ],
+        "returnFocus": "preview-card"
+      },
+      {
+        "name": "draft-back-navigation",
+        "passed": true,
+        "beforeGoBack": {
+          "recipient": "草稿 B",
+          "message": "来信页更新为 B。",
+          "stored": {
+            "scene": 0,
+            "recipient": "草稿 B",
+            "message": "来信页更新为 B。"
+          }
+        },
+        "realGoBack": {
+          "recipient": "草稿 B",
+          "message": "来信页更新为 B。",
+          "stored": {
+            "scene": 0,
+            "recipient": "草稿 B",
+            "message": "来信页更新为 B。"
+          },
+          "pageshowEvents": [
+            {
+              "persisted": false
+            }
+          ],
+          "sameDocument": false
+        },
+        "realBFCache": false,
+        "syntheticPersistedHandler": {
+          "tested": true,
+          "note": "BFCache was not used in real navigation. This separately dispatches a synthetic persisted pageshow to exercise only the handler; the real navigation result is asserted independently."
+        }
+      },
+      {
+        "name": "native-share-success-and-user-cancel-mocks",
+        "passed": true,
+        "calls": [
+          {
+            "mode": "success",
+            "title": "侨乡来信 · 江门",
+            "files": [
+              {
+                "name": "侨乡来信-江门明信片.png",
+                "type": "image/png",
+                "size": 1651028
+              }
+            ]
+          },
+          {
+            "mode": "abort",
+            "title": "侨乡来信 · 江门",
+            "files": [
+              {
+                "name": "侨乡来信-江门明信片.png",
+                "type": "image/png",
+                "size": 1651028
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "four-normal-animations-and-final-completion",
+        "passed": true,
+        "effects": [
+          {
+            "effect": "shards",
+            "pieces": 24
+          },
+          {
+            "effect": "shutters",
+            "pieces": 6
+          },
+          {
+            "effect": "ripples",
+            "pieces": 24
+          },
+          {
+            "effect": "petals",
+            "pieces": 3
+          }
+        ],
+        "finalChapter": "味的归途",
+        "completionVisible": true
+      },
+      {
+        "name": "cross-tab-clear-during-scene-load-removeItem",
+        "passed": true,
+        "storageEvents": [
+          {
+            "key": "jiangmen-letter-stamps",
+            "newValue": null
+          }
+        ],
+        "afterLoad": {
+          "progress": "已收集 0 / 4 枚文化印记",
+          "ownedInUI": 0,
+          "storage": null
+        },
+        "afterNextCollect": {
+          "clickedChapter": 0,
+          "owned": [
+            0
+          ],
+          "progress": "已收集 1 / 4 枚文化印记"
+        }
+      },
+      {
+        "name": "cross-tab-clear-during-scene-load-clear",
+        "passed": true,
+        "storageEvents": [
+          {
+            "key": null,
+            "newValue": null
+          }
+        ],
+        "afterLoad": {
+          "progress": "已收集 0 / 4 枚文化印记",
+          "ownedInUI": 0,
+          "storage": null
+        },
+        "afterNextCollect": {
+          "clickedChapter": 0,
+          "owned": [
+            0
+          ],
+          "progress": "已收集 1 / 4 枚文化印记"
+        }
+      },
+      {
+        "name": "file-protocol-cross-page-compatibility",
+        "passed": true,
+        "homeCollected": [
+          0
+        ],
+        "lettersPassport": {
+          "ownedCount": 1,
+          "status": "已收藏 1 / 4 枚印记，随时都可以写下你的心意。",
+          "storedOwned": [
+            0
+          ]
+        },
+        "homeDraft": {
+          "recipient": "离线跨页草稿",
+          "message": "从来信页回到首页，继续写下乡情。"
+        }
+      }
+    ],
+    "pageErrors": []
+  },
+  "compactHome20261014": {
+    "before": {
+      "data": [
+        {
+          "width": 390,
+          "overflow": false,
+          "hero": 425.375,
+          "explore": 814.5,
+          "rows": [
+            201.875,
+            201.875,
+            201.875
+          ],
+          "heroText": "有些风景，走过一次就记住了。\n有些故乡，远行之后才读懂。",
+          "heroLinks": [
+            "#journey",
+            "#film"
+          ],
+          "filmBelowJourney": true
+        }
+      ],
+      "errors": []
+    },
+    "after": {
+      "data": [
+        {
+          "width": 320,
+          "overflow": false,
+          "hero": 369.6875,
+          "explore": 456.453125,
+          "rows": [
+            91.890625,
+            91.890625,
+            91.890625
+          ],
+          "heroText": "沿着一封信，走进江门的楼、街、水与味，把看见的美，写成自己的乡情。",
+          "heroLinks": [
+            "#journey"
+          ],
+          "filmBelowJourney": true
+        },
+        {
+          "width": 360,
+          "overflow": false,
+          "hero": 369.6875,
+          "explore": 421.65625,
+          "rows": [
+            91.890625,
+            91.890625,
+            91.890625
+          ],
+          "heroText": "沿着一封信，走进江门的楼、街、水与味，把看见的美，写成自己的乡情。",
+          "heroLinks": [
+            "#journey"
+          ],
+          "filmBelowJourney": true
+        },
+        {
+          "width": 390,
+          "overflow": false,
+          "hero": 369.6875,
+          "explore": 421.65625,
+          "rows": [
+            91.890625,
+            91.890625,
+            91.890625
+          ],
+          "heroText": "沿着一封信，走进江门的楼、街、水与味，把看见的美，写成自己的乡情。",
+          "heroLinks": [
+            "#journey"
+          ],
+          "filmBelowJourney": true
+        },
+        {
+          "width": 414,
+          "overflow": false,
+          "hero": 369.6875,
+          "explore": 421.65625,
+          "rows": [
+            91.890625,
+            91.890625,
+            91.890625
+          ],
+          "heroText": "沿着一封信，走进江门的楼、街、水与味，把看见的美，写成自己的乡情。",
+          "heroLinks": [
+            "#journey"
+          ],
+          "filmBelowJourney": true
+        },
+        {
+          "width": 768,
+          "overflow": false,
+          "hero": 530,
+          "explore": 319.28125,
+          "rows": [
+            124.78125,
+            124.78125,
+            124.78125
+          ],
+          "heroText": "沿着一封信，走进江门的楼、街、水与味，把看见的美，写成自己的乡情。",
+          "heroLinks": [
+            "#journey"
+          ],
+          "filmBelowJourney": true
+        },
+        {
+          "width": 1440,
+          "overflow": false,
+          "hero": 600,
+          "explore": 297.1875,
+          "rows": [
+            102.6875,
+            102.6875,
+            102.6875
+          ],
+          "heroText": "沿着一封信，走进江门的楼、街、水与味，把看见的美，写成自己的乡情。",
+          "heroLinks": [
+            "#journey"
+          ],
+          "filmBelowJourney": true
+        }
+      ],
+      "errors": []
+    }
+  },
+  "polish20261014": {
+    "integration": {
+      "initialResources": [
+        {
+          "name": "noto-serif-sc-editorial-400.woff2",
+          "bytes": 63788
+        },
+        {
+          "name": "style.css?v=polish-20261014",
+          "bytes": 17128
+        },
+        {
+          "name": "polish.css?v=polish-20261014",
+          "bytes": 4167
+        },
+        {
+          "name": "scene-0.webp",
+          "bytes": 256324
+        },
+        {
+          "name": "readability.css?v=polish-20261014",
+          "bytes": 3557
+        },
+        {
+          "name": "film-poster.webp",
+          "bytes": 104358
+        },
+        {
+          "name": "common.js?v=polish-20261014",
+          "bytes": 3974
+        },
+        {
+          "name": "stories-data.js",
+          "bytes": 2509
+        },
+        {
+          "name": "chapters.js",
+          "bytes": 2516
+        },
+        {
+          "name": "polish.js?v=polish-20261014",
+          "bytes": 5920
+        },
+        {
+          "name": "app.js?v=polish-20261014",
+          "bytes": 11399
+        },
+        {
+          "name": "postcard.js?v=polish-20261014",
+          "bytes": 19542
+        }
+      ],
+      "video": {
+        "duration": 66.005,
+        "width": 1920,
+        "height": 1080,
+        "paused": false,
+        "error": null
+      },
+      "layouts": [
+        {
+          "file": "index.html",
+          "width": 320,
+          "overflow": false,
+          "nav": [
+            {
+              "text": "首页",
+              "width": 26,
+              "height": 37,
+              "font": 13
+            },
+            {
+              "text": "侨乡故事",
+              "width": 52,
+              "height": 37,
+              "font": 13
+            },
+            {
+              "text": "我的来信",
+              "width": 52,
+              "height": 37,
+              "font": 13
+            },
+            {
+              "text": "关于创作",
+              "width": 52,
+              "height": 37,
+              "font": 13
+            }
+          ],
+          "heroFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+          "exploreHeight": 463.65625
+        },
+        {
+          "file": "stories.html",
+          "width": 320,
+          "overflow": false,
+          "nav": [
+            {
+              "text": "首页",
+              "width": 26,
+              "height": 37,
+              "font": 13
+            },
+            {
+              "text": "侨乡故事",
+              "width": 52,
+              "height": 37,
+              "font": 13
+            },
+            {
+              "text": "我的来信",
+              "width": 52,
+              "height": 37,
+              "font": 13
+            },
+            {
+              "text": "关于创作",
+              "width": 52,
+              "height": 37,
+              "font": 13
+            }
+          ],
+          "heroFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif"
+        },
+        {
+          "file": "letters.html",
+          "width": 320,
+          "overflow": false,
+          "nav": [
+            {
+              "text": "首页",
+              "width": 26,
+              "height": 37,
+              "font": 13
+            },
+            {
+              "text": "侨乡故事",
+              "width": 52,
+              "height": 37,
+              "font": 13
+            },
+            {
+              "text": "我的来信",
+              "width": 52,
+              "height": 37,
+              "font": 13
+            },
+            {
+              "text": "关于创作",
+              "width": 52,
+              "height": 37,
+              "font": 13
+            }
+          ],
+          "heroFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif"
+        },
+        {
+          "file": "about.html",
+          "width": 320,
+          "overflow": false,
+          "nav": [
+            {
+              "text": "首页",
+              "width": 26,
+              "height": 37,
+              "font": 13
+            },
+            {
+              "text": "侨乡故事",
+              "width": 52,
+              "height": 37,
+              "font": 13
+            },
+            {
+              "text": "我的来信",
+              "width": 52,
+              "height": 37,
+              "font": 13
+            },
+            {
+              "text": "关于创作",
+              "width": 52,
+              "height": 37,
+              "font": 13
+            }
+          ],
+          "heroFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif"
+        },
+        {
+          "file": "index.html",
+          "width": 390,
+          "overflow": false,
+          "nav": [
+            {
+              "text": "首页",
+              "width": 26,
+              "height": 37,
+              "font": 13
+            },
+            {
+              "text": "侨乡故事",
+              "width": 52,
+              "height": 37,
+              "font": 13
+            },
+            {
+              "text": "我的来信",
+              "width": 52,
+              "height": 37,
+              "font": 13
+            },
+            {
+              "text": "关于创作",
+              "width": 52,
+              "height": 37,
+              "font": 13
+            }
+          ],
+          "heroFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+          "exploreHeight": 428.859375
+        },
+        {
+          "file": "stories.html",
+          "width": 390,
+          "overflow": false,
+          "nav": [
+            {
+              "text": "首页",
+              "width": 26,
+              "height": 37,
+              "font": 13
+            },
+            {
+              "text": "侨乡故事",
+              "width": 52,
+              "height": 37,
+              "font": 13
+            },
+            {
+              "text": "我的来信",
+              "width": 52,
+              "height": 37,
+              "font": 13
+            },
+            {
+              "text": "关于创作",
+              "width": 52,
+              "height": 37,
+              "font": 13
+            }
+          ],
+          "heroFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif"
+        },
+        {
+          "file": "letters.html",
+          "width": 390,
+          "overflow": false,
+          "nav": [
+            {
+              "text": "首页",
+              "width": 26,
+              "height": 37,
+              "font": 13
+            },
+            {
+              "text": "侨乡故事",
+              "width": 52,
+              "height": 37,
+              "font": 13
+            },
+            {
+              "text": "我的来信",
+              "width": 52,
+              "height": 37,
+              "font": 13
+            },
+            {
+              "text": "关于创作",
+              "width": 52,
+              "height": 37,
+              "font": 13
+            }
+          ],
+          "heroFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif"
+        },
+        {
+          "file": "about.html",
+          "width": 390,
+          "overflow": false,
+          "nav": [
+            {
+              "text": "首页",
+              "width": 26,
+              "height": 37,
+              "font": 13
+            },
+            {
+              "text": "侨乡故事",
+              "width": 52,
+              "height": 37,
+              "font": 13
+            },
+            {
+              "text": "我的来信",
+              "width": 52,
+              "height": 37,
+              "font": 13
+            },
+            {
+              "text": "关于创作",
+              "width": 52,
+              "height": 37,
+              "font": 13
+            }
+          ],
+          "heroFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif"
+        },
+        {
+          "file": "index.html",
+          "width": 768,
+          "overflow": false,
+          "nav": [
+            {
+              "text": "首页",
+              "width": 26,
+              "height": 44,
+              "font": 13
+            },
+            {
+              "text": "侨乡故事",
+              "width": 52,
+              "height": 44,
+              "font": 13
+            },
+            {
+              "text": "我的来信",
+              "width": 52,
+              "height": 44,
+              "font": 13
+            },
+            {
+              "text": "关于创作",
+              "width": 52,
+              "height": 44,
+              "font": 13
+            }
+          ],
+          "heroFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+          "exploreHeight": 322.875
+        },
+        {
+          "file": "stories.html",
+          "width": 768,
+          "overflow": false,
+          "nav": [
+            {
+              "text": "首页",
+              "width": 26,
+              "height": 44,
+              "font": 13
+            },
+            {
+              "text": "侨乡故事",
+              "width": 52,
+              "height": 44,
+              "font": 13
+            },
+            {
+              "text": "我的来信",
+              "width": 52,
+              "height": 44,
+              "font": 13
+            },
+            {
+              "text": "关于创作",
+              "width": 52,
+              "height": 44,
+              "font": 13
+            }
+          ],
+          "heroFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif"
+        },
+        {
+          "file": "letters.html",
+          "width": 768,
+          "overflow": false,
+          "nav": [
+            {
+              "text": "首页",
+              "width": 26,
+              "height": 44,
+              "font": 13
+            },
+            {
+              "text": "侨乡故事",
+              "width": 52,
+              "height": 44,
+              "font": 13
+            },
+            {
+              "text": "我的来信",
+              "width": 52,
+              "height": 44,
+              "font": 13
+            },
+            {
+              "text": "关于创作",
+              "width": 52,
+              "height": 44,
+              "font": 13
+            }
+          ],
+          "heroFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif"
+        },
+        {
+          "file": "about.html",
+          "width": 768,
+          "overflow": false,
+          "nav": [
+            {
+              "text": "首页",
+              "width": 26,
+              "height": 44,
+              "font": 13
+            },
+            {
+              "text": "侨乡故事",
+              "width": 52,
+              "height": 44,
+              "font": 13
+            },
+            {
+              "text": "我的来信",
+              "width": 52,
+              "height": 44,
+              "font": 13
+            },
+            {
+              "text": "关于创作",
+              "width": 52,
+              "height": 44,
+              "font": 13
+            }
+          ],
+          "heroFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif"
+        },
+        {
+          "file": "index.html",
+          "width": 1024,
+          "overflow": false,
+          "nav": [
+            {
+              "text": "首页",
+              "width": 26,
+              "height": 44,
+              "font": 13
+            },
+            {
+              "text": "侨乡故事",
+              "width": 52,
+              "height": 44,
+              "font": 13
+            },
+            {
+              "text": "我的来信",
+              "width": 52,
+              "height": 44,
+              "font": 13
+            },
+            {
+              "text": "关于创作",
+              "width": 52,
+              "height": 44,
+              "font": 13
+            }
+          ],
+          "heroFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+          "exploreHeight": 300.78125
+        },
+        {
+          "file": "stories.html",
+          "width": 1024,
+          "overflow": false,
+          "nav": [
+            {
+              "text": "首页",
+              "width": 26,
+              "height": 44,
+              "font": 13
+            },
+            {
+              "text": "侨乡故事",
+              "width": 52,
+              "height": 44,
+              "font": 13
+            },
+            {
+              "text": "我的来信",
+              "width": 52,
+              "height": 44,
+              "font": 13
+            },
+            {
+              "text": "关于创作",
+              "width": 52,
+              "height": 44,
+              "font": 13
+            }
+          ],
+          "heroFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif"
+        },
+        {
+          "file": "letters.html",
+          "width": 1024,
+          "overflow": false,
+          "nav": [
+            {
+              "text": "首页",
+              "width": 26,
+              "height": 44,
+              "font": 13
+            },
+            {
+              "text": "侨乡故事",
+              "width": 52,
+              "height": 44,
+              "font": 13
+            },
+            {
+              "text": "我的来信",
+              "width": 52,
+              "height": 44,
+              "font": 13
+            },
+            {
+              "text": "关于创作",
+              "width": 52,
+              "height": 44,
+              "font": 13
+            }
+          ],
+          "heroFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif"
+        },
+        {
+          "file": "about.html",
+          "width": 1024,
+          "overflow": false,
+          "nav": [
+            {
+              "text": "首页",
+              "width": 26,
+              "height": 44,
+              "font": 13
+            },
+            {
+              "text": "侨乡故事",
+              "width": 52,
+              "height": 44,
+              "font": 13
+            },
+            {
+              "text": "我的来信",
+              "width": 52,
+              "height": 44,
+              "font": 13
+            },
+            {
+              "text": "关于创作",
+              "width": 52,
+              "height": 44,
+              "font": 13
+            }
+          ],
+          "heroFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif"
+        },
+        {
+          "file": "index.html",
+          "width": 1440,
+          "overflow": false,
+          "nav": [
+            {
+              "text": "首页",
+              "width": 26,
+              "height": 44,
+              "font": 13
+            },
+            {
+              "text": "侨乡故事",
+              "width": 52,
+              "height": 44,
+              "font": 13
+            },
+            {
+              "text": "我的来信",
+              "width": 52,
+              "height": 44,
+              "font": 13
+            },
+            {
+              "text": "关于创作",
+              "width": 52,
+              "height": 44,
+              "font": 13
+            }
+          ],
+          "heroFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+          "exploreHeight": 300.78125
+        },
+        {
+          "file": "stories.html",
+          "width": 1440,
+          "overflow": false,
+          "nav": [
+            {
+              "text": "首页",
+              "width": 26,
+              "height": 44,
+              "font": 13
+            },
+            {
+              "text": "侨乡故事",
+              "width": 52,
+              "height": 44,
+              "font": 13
+            },
+            {
+              "text": "我的来信",
+              "width": 52,
+              "height": 44,
+              "font": 13
+            },
+            {
+              "text": "关于创作",
+              "width": 52,
+              "height": 44,
+              "font": 13
+            }
+          ],
+          "heroFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif"
+        },
+        {
+          "file": "letters.html",
+          "width": 1440,
+          "overflow": false,
+          "nav": [
+            {
+              "text": "首页",
+              "width": 26,
+              "height": 44,
+              "font": 13
+            },
+            {
+              "text": "侨乡故事",
+              "width": 52,
+              "height": 44,
+              "font": 13
+            },
+            {
+              "text": "我的来信",
+              "width": 52,
+              "height": 44,
+              "font": 13
+            },
+            {
+              "text": "关于创作",
+              "width": 52,
+              "height": 44,
+              "font": 13
+            }
+          ],
+          "heroFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif"
+        },
+        {
+          "file": "about.html",
+          "width": 1440,
+          "overflow": false,
+          "nav": [
+            {
+              "text": "首页",
+              "width": 26,
+              "height": 44,
+              "font": 13
+            },
+            {
+              "text": "侨乡故事",
+              "width": 52,
+              "height": 44,
+              "font": 13
+            },
+            {
+              "text": "我的来信",
+              "width": 52,
+              "height": 44,
+              "font": 13
+            },
+            {
+              "text": "关于创作",
+              "width": 52,
+              "height": 44,
+              "font": 13
+            }
+          ],
+          "heroFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif"
+        }
+      ],
+      "noJavaScriptFallback": true,
+      "reducedMotionReadable": true,
+      "errors": [],
+      "failed": [],
+      "passed": true
+    },
+    "media": {
+      "passed": true,
+      "checks": [
+        {
+          "name": "single-scene-http-and-racing-selection",
+          "passed": true,
+          "initialScenes": [
+            "scene-0.webp"
+          ],
+          "forbiddenRequests": [],
+          "exportSize": [
+            1600,
+            1100
+          ]
+        },
+        {
+          "name": "export-snapshot-survives-scene-change",
+          "passed": true,
+          "previewLabel": "江门明信片：开平 · 赤坎骑楼意象；致远方的你；点击预览时的信；已收集0枚印记；互动纪念；创作署名 RTHLanStar。",
+          "editorScene": "3"
+        },
+        {
+          "name": "failed-scene-retry",
+          "passed": true,
+          "attempts": 2
+        },
+        {
+          "name": "chapter-race-and-four-collection-effects",
+          "passed": true,
+          "effects": [
+            "shards",
+            "shutters",
+            "ripples",
+            "petals"
+          ],
+          "atlasRequests": []
+        },
+        {
+          "name": "offline-file-canvas-png",
+          "passed": true,
+          "size": [
+            1600,
+            1100
+          ],
+          "embeddedAtlas": true
+        }
+      ],
+      "errors": []
+    },
+    "readability": {
+      "passed": true,
+      "checkedAt": "2026-10-14T13:37:15.537Z",
+      "checks": [
+        {
+          "file": "index.html",
+          "width": 320,
+          "horizontalOverflow": false,
+          "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+          "fontLoaded": true,
+          "titleWhiteSpace": "normal",
+          "titleWidth": 275,
+          "navFits": true,
+          "navFonts": [
+            "13px",
+            "13px",
+            "13px",
+            "13px"
+          ],
+          "small": [
+            {
+              "selector": "eyebrow",
+              "size": 13
+            },
+            {
+              "selector": "hero-foot",
+              "size": 13
+            },
+            {
+              "selector": "eyebrow",
+              "size": 13
+            },
+            {
+              "selector": "eyebrow",
+              "size": 13
+            },
+            {
+              "selector": "image-disclosure",
+              "size": 13
+            },
+            {
+              "selector": "eyebrow",
+              "size": 13
+            },
+            {
+              "selector": "eyebrow",
+              "size": 13
+            },
+            {
+              "selector": "eyebrow",
+              "size": 13
+            },
+            {
+              "selector": "eyebrow",
+              "size": 13
+            },
+            {
+              "selector": "local-note",
+              "size": 13
+            },
+            {
+              "selector": "eyebrow",
+              "size": 13
+            },
+            {
+              "selector": "eyebrow",
+              "size": 13
+            },
+            {
+              "selector": "footer-bottom",
+              "size": 13
+            }
+          ],
+          "exploreHeight": 464,
+          "actualTitleFonts": [
+            {
+              "familyName": "Noto Serif SC",
+              "postScriptName": "NotoSerifSC-Regular",
+              "isCustomFont": true,
+              "glyphCount": 12
+            }
+          ]
+        },
+        {
+          "file": "stories.html",
+          "width": 320,
+          "horizontalOverflow": false,
+          "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+          "fontLoaded": true,
+          "titleWhiteSpace": "normal",
+          "titleWidth": 282,
+          "navFits": true,
+          "navFonts": [
+            "13px",
+            "13px",
+            "13px",
+            "13px"
+          ],
+          "small": [
+            {
+              "selector": "story-source",
+              "size": 13
+            },
+            {
+              "selector": "story-source",
+              "size": 13
+            },
+            {
+              "selector": "story-source",
+              "size": 13
+            },
+            {
+              "selector": "story-source",
+              "size": 13
+            },
+            {
+              "selector": "page-footer page-shell",
+              "size": 13
+            }
+          ],
+          "exploreHeight": null,
+          "actualTitleFonts": [
+            {
+              "familyName": "Noto Serif SC",
+              "postScriptName": "NotoSerifSC-Regular",
+              "isCustomFont": true,
+              "glyphCount": 14
+            }
+          ]
+        },
+        {
+          "file": "letters.html",
+          "width": 320,
+          "horizontalOverflow": false,
+          "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+          "fontLoaded": true,
+          "titleWhiteSpace": "normal",
+          "titleWidth": 275,
+          "navFits": true,
+          "navFonts": [
+            "13px",
+            "13px",
+            "13px",
+            "13px"
+          ],
+          "small": [
+            {
+              "selector": "eyebrow",
+              "size": 13
+            },
+            {
+              "selector": "eyebrow",
+              "size": 13
+            },
+            {
+              "selector": "eyebrow",
+              "size": 13
+            },
+            {
+              "selector": "local-note",
+              "size": 13
+            },
+            {
+              "selector": "eyebrow",
+              "size": 13
+            },
+            {
+              "selector": "footer-bottom",
+              "size": 13
+            }
+          ],
+          "exploreHeight": null,
+          "actualTitleFonts": [
+            {
+              "familyName": "Noto Serif SC",
+              "postScriptName": "NotoSerifSC-Regular",
+              "isCustomFont": true,
+              "glyphCount": 9
+            }
+          ]
+        },
+        {
+          "file": "about.html",
+          "width": 320,
+          "horizontalOverflow": false,
+          "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+          "fontLoaded": true,
+          "titleWhiteSpace": "normal",
+          "titleWidth": 282,
+          "navFits": true,
+          "navFonts": [
+            "13px",
+            "13px",
+            "13px",
+            "13px"
+          ],
+          "small": [
+            {
+              "selector": "",
+              "size": 13
+            },
+            {
+              "selector": "",
+              "size": 13
+            },
+            {
+              "selector": "",
+              "size": 13
+            },
+            {
+              "selector": "",
+              "size": 13
+            },
+            {
+              "selector": "page-footer page-shell",
+              "size": 13
+            }
+          ],
+          "exploreHeight": null,
+          "actualTitleFonts": [
+            {
+              "familyName": "Noto Serif SC",
+              "postScriptName": "NotoSerifSC-Regular",
+              "isCustomFont": true,
+              "glyphCount": 13
+            }
+          ]
+        },
+        {
+          "file": "index.html",
+          "width": 390,
+          "horizontalOverflow": false,
+          "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+          "fontLoaded": true,
+          "titleWhiteSpace": "normal",
+          "titleWidth": 335,
+          "navFits": true,
+          "navFonts": [
+            "13px",
+            "13px",
+            "13px",
+            "13px"
+          ],
+          "small": [
+            {
+              "selector": "eyebrow",
+              "size": 13
+            },
+            {
+              "selector": "hero-foot",
+              "size": 13
+            },
+            {
+              "selector": "eyebrow",
+              "size": 13
+            },
+            {
+              "selector": "eyebrow",
+              "size": 13
+            },
+            {
+              "selector": "image-disclosure",
+              "size": 13
+            },
+            {
+              "selector": "eyebrow",
+              "size": 13
+            },
+            {
+              "selector": "eyebrow",
+              "size": 13
+            },
+            {
+              "selector": "eyebrow",
+              "size": 13
+            },
+            {
+              "selector": "eyebrow",
+              "size": 13
+            },
+            {
+              "selector": "local-note",
+              "size": 13
+            },
+            {
+              "selector": "eyebrow",
+              "size": 13
+            },
+            {
+              "selector": "eyebrow",
+              "size": 13
+            },
+            {
+              "selector": "footer-bottom",
+              "size": 13
+            }
+          ],
+          "exploreHeight": 429,
+          "actualTitleFonts": [
+            {
+              "familyName": "Noto Serif SC",
+              "postScriptName": "NotoSerifSC-Regular",
+              "isCustomFont": true,
+              "glyphCount": 12
+            }
+          ]
+        },
+        {
+          "file": "stories.html",
+          "width": 390,
+          "horizontalOverflow": false,
+          "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+          "fontLoaded": true,
+          "titleWhiteSpace": "normal",
+          "titleWidth": 343,
+          "navFits": true,
+          "navFonts": [
+            "13px",
+            "13px",
+            "13px",
+            "13px"
+          ],
+          "small": [
+            {
+              "selector": "story-source",
+              "size": 13
+            },
+            {
+              "selector": "story-source",
+              "size": 13
+            },
+            {
+              "selector": "story-source",
+              "size": 13
+            },
+            {
+              "selector": "story-source",
+              "size": 13
+            },
+            {
+              "selector": "page-footer page-shell",
+              "size": 13
+            }
+          ],
+          "exploreHeight": null,
+          "actualTitleFonts": [
+            {
+              "familyName": "Noto Serif SC",
+              "postScriptName": "NotoSerifSC-Regular",
+              "isCustomFont": true,
+              "glyphCount": 14
+            }
+          ]
+        },
+        {
+          "file": "letters.html",
+          "width": 390,
+          "horizontalOverflow": false,
+          "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+          "fontLoaded": true,
+          "titleWhiteSpace": "normal",
+          "titleWidth": 335,
+          "navFits": true,
+          "navFonts": [
+            "13px",
+            "13px",
+            "13px",
+            "13px"
+          ],
+          "small": [
+            {
+              "selector": "eyebrow",
+              "size": 13
+            },
+            {
+              "selector": "eyebrow",
+              "size": 13
+            },
+            {
+              "selector": "eyebrow",
+              "size": 13
+            },
+            {
+              "selector": "local-note",
+              "size": 13
+            },
+            {
+              "selector": "eyebrow",
+              "size": 13
+            },
+            {
+              "selector": "footer-bottom",
+              "size": 13
+            }
+          ],
+          "exploreHeight": null,
+          "actualTitleFonts": [
+            {
+              "familyName": "Noto Serif SC",
+              "postScriptName": "NotoSerifSC-Regular",
+              "isCustomFont": true,
+              "glyphCount": 9
+            }
+          ]
+        },
+        {
+          "file": "about.html",
+          "width": 390,
+          "horizontalOverflow": false,
+          "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+          "fontLoaded": true,
+          "titleWhiteSpace": "normal",
+          "titleWidth": 343,
+          "navFits": true,
+          "navFonts": [
+            "13px",
+            "13px",
+            "13px",
+            "13px"
+          ],
+          "small": [
+            {
+              "selector": "",
+              "size": 13
+            },
+            {
+              "selector": "",
+              "size": 13
+            },
+            {
+              "selector": "",
+              "size": 13
+            },
+            {
+              "selector": "",
+              "size": 13
+            },
+            {
+              "selector": "page-footer page-shell",
+              "size": 13
+            }
+          ],
+          "exploreHeight": null,
+          "actualTitleFonts": [
+            {
+              "familyName": "Noto Serif SC",
+              "postScriptName": "NotoSerifSC-Regular",
+              "isCustomFont": true,
+              "glyphCount": 13
+            }
+          ]
+        },
+        {
+          "file": "index.html",
+          "width": 700,
+          "horizontalOverflow": false,
+          "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+          "fontLoaded": true,
+          "titleWhiteSpace": "normal",
+          "titleWidth": 602,
+          "navFits": true,
+          "navFonts": [
+            "13px",
+            "13px",
+            "13px",
+            "13px"
+          ],
+          "small": [
+            {
+              "selector": "eyebrow",
+              "size": 13
+            },
+            {
+              "selector": "hero-foot",
+              "size": 13
+            },
+            {
+              "selector": "eyebrow",
+              "size": 13
+            },
+            {
+              "selector": "eyebrow",
+              "size": 13
+            },
+            {
+              "selector": "image-disclosure",
+              "size": 13
+            },
+            {
+              "selector": "eyebrow",
+              "size": 13
+            },
+            {
+              "selector": "eyebrow",
+              "size": 13
+            },
+            {
+              "selector": "eyebrow",
+              "size": 13
+            },
+            {
+              "selector": "eyebrow",
+              "size": 13
+            },
+            {
+              "selector": "local-note",
+              "size": 13
+            },
+            {
+              "selector": "eyebrow",
+              "size": 13
+            },
+            {
+              "selector": "eyebrow",
+              "size": 13
+            },
+            {
+              "selector": "footer-bottom",
+              "size": 13
+            }
+          ],
+          "exploreHeight": 429,
+          "actualTitleFonts": [
+            {
+              "familyName": "Noto Serif SC",
+              "postScriptName": "NotoSerifSC-Regular",
+              "isCustomFont": true,
+              "glyphCount": 12
+            }
+          ]
+        },
+        {
+          "file": "stories.html",
+          "width": 700,
+          "horizontalOverflow": false,
+          "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+          "fontLoaded": true,
+          "titleWhiteSpace": "normal",
+          "titleWidth": 319,
+          "navFits": true,
+          "navFonts": [
+            "13px",
+            "13px",
+            "13px",
+            "13px"
+          ],
+          "small": [
+            {
+              "selector": "story-source",
+              "size": 13
+            },
+            {
+              "selector": "story-source",
+              "size": 13
+            },
+            {
+              "selector": "story-source",
+              "size": 13
+            },
+            {
+              "selector": "story-source",
+              "size": 13
+            },
+            {
+              "selector": "page-footer page-shell",
+              "size": 13
+            }
+          ],
+          "exploreHeight": null,
+          "actualTitleFonts": [
+            {
+              "familyName": "Noto Serif SC",
+              "postScriptName": "NotoSerifSC-Regular",
+              "isCustomFont": true,
+              "glyphCount": 14
+            }
+          ]
+        },
+        {
+          "file": "letters.html",
+          "width": 700,
+          "horizontalOverflow": false,
+          "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+          "fontLoaded": true,
+          "titleWhiteSpace": "normal",
+          "titleWidth": 602,
+          "navFits": true,
+          "navFonts": [
+            "13px",
+            "13px",
+            "13px",
+            "13px"
+          ],
+          "small": [
+            {
+              "selector": "eyebrow",
+              "size": 13
+            },
+            {
+              "selector": "eyebrow",
+              "size": 13
+            },
+            {
+              "selector": "eyebrow",
+              "size": 13
+            },
+            {
+              "selector": "local-note",
+              "size": 13
+            },
+            {
+              "selector": "eyebrow",
+              "size": 13
+            },
+            {
+              "selector": "footer-bottom",
+              "size": 13
+            }
+          ],
+          "exploreHeight": null,
+          "actualTitleFonts": [
+            {
+              "familyName": "Noto Serif SC",
+              "postScriptName": "NotoSerifSC-Regular",
+              "isCustomFont": true,
+              "glyphCount": 9
+            }
+          ]
+        },
+        {
+          "file": "about.html",
+          "width": 700,
+          "horizontalOverflow": false,
+          "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+          "fontLoaded": true,
+          "titleWhiteSpace": "normal",
+          "titleWidth": 319,
+          "navFits": true,
+          "navFonts": [
+            "13px",
+            "13px",
+            "13px",
+            "13px"
+          ],
+          "small": [
+            {
+              "selector": "",
+              "size": 13
+            },
+            {
+              "selector": "",
+              "size": 13
+            },
+            {
+              "selector": "",
+              "size": 13
+            },
+            {
+              "selector": "",
+              "size": 13
+            },
+            {
+              "selector": "page-footer page-shell",
+              "size": 13
+            }
+          ],
+          "exploreHeight": null,
+          "actualTitleFonts": [
+            {
+              "familyName": "Noto Serif SC",
+              "postScriptName": "NotoSerifSC-Regular",
+              "isCustomFont": true,
+              "glyphCount": 13
+            }
+          ]
+        },
+        {
+          "file": "index.html",
+          "width": 800,
+          "horizontalOverflow": false,
+          "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+          "fontLoaded": true,
+          "titleWhiteSpace": "normal",
+          "titleWidth": 282,
+          "navFits": true,
+          "navFonts": [
+            "13px",
+            "13px",
+            "13px",
+            "13px"
+          ],
+          "small": [
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "hero-foot",
+              "size": 12
+            },
+            {
+              "selector": "eyebrow",
+              "size": 14
+            },
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "image-disclosure",
+              "size": 12
+            },
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "local-note",
+              "size": 12
+            },
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "footer-bottom",
+              "size": 12
+            }
+          ],
+          "exploreHeight": 323,
+          "actualTitleFonts": [
+            {
+              "familyName": "Noto Serif SC",
+              "postScriptName": "NotoSerifSC-Regular",
+              "isCustomFont": true,
+              "glyphCount": 12
+            }
+          ]
+        },
+        {
+          "file": "stories.html",
+          "width": 800,
+          "horizontalOverflow": false,
+          "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+          "fontLoaded": true,
+          "titleWhiteSpace": "normal",
+          "titleWidth": 365,
+          "navFits": true,
+          "navFonts": [
+            "13px",
+            "13px",
+            "13px",
+            "13px"
+          ],
+          "small": [
+            {
+              "selector": "story-source",
+              "size": 12
+            },
+            {
+              "selector": "story-source",
+              "size": 12
+            },
+            {
+              "selector": "story-source",
+              "size": 12
+            },
+            {
+              "selector": "story-source",
+              "size": 12
+            },
+            {
+              "selector": "page-footer page-shell",
+              "size": 12
+            }
+          ],
+          "exploreHeight": null,
+          "actualTitleFonts": [
+            {
+              "familyName": "Noto Serif SC",
+              "postScriptName": "NotoSerifSC-Regular",
+              "isCustomFont": true,
+              "glyphCount": 14
+            }
+          ]
+        },
+        {
+          "file": "letters.html",
+          "width": 800,
+          "horizontalOverflow": false,
+          "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+          "fontLoaded": true,
+          "titleWhiteSpace": "normal",
+          "titleWidth": 704,
+          "navFits": true,
+          "navFonts": [
+            "13px",
+            "13px",
+            "13px",
+            "13px"
+          ],
+          "small": [
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "local-note",
+              "size": 12
+            },
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "footer-bottom",
+              "size": 12
+            }
+          ],
+          "exploreHeight": null,
+          "actualTitleFonts": [
+            {
+              "familyName": "Noto Serif SC",
+              "postScriptName": "NotoSerifSC-Regular",
+              "isCustomFont": true,
+              "glyphCount": 9
+            }
+          ]
+        },
+        {
+          "file": "about.html",
+          "width": 800,
+          "horizontalOverflow": false,
+          "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+          "fontLoaded": true,
+          "titleWhiteSpace": "normal",
+          "titleWidth": 365,
+          "navFits": true,
+          "navFonts": [
+            "13px",
+            "13px",
+            "13px",
+            "13px"
+          ],
+          "small": [
+            {
+              "selector": "",
+              "size": 12
+            },
+            {
+              "selector": "",
+              "size": 12
+            },
+            {
+              "selector": "",
+              "size": 12
+            },
+            {
+              "selector": "",
+              "size": 12
+            },
+            {
+              "selector": "page-footer page-shell",
+              "size": 12
+            }
+          ],
+          "exploreHeight": null,
+          "actualTitleFonts": [
+            {
+              "familyName": "Noto Serif SC",
+              "postScriptName": "NotoSerifSC-Regular",
+              "isCustomFont": true,
+              "glyphCount": 13
+            }
+          ]
+        },
+        {
+          "file": "index.html",
+          "width": 1000,
+          "horizontalOverflow": false,
+          "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+          "fontLoaded": true,
+          "titleWhiteSpace": "normal",
+          "titleWidth": 353,
+          "navFits": true,
+          "navFonts": [
+            "13px",
+            "13px",
+            "13px",
+            "13px"
+          ],
+          "small": [
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "hero-foot",
+              "size": 12
+            },
+            {
+              "selector": "eyebrow",
+              "size": 14
+            },
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "image-disclosure",
+              "size": 12
+            },
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "local-note",
+              "size": 12
+            },
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "footer-bottom",
+              "size": 12
+            }
+          ],
+          "exploreHeight": 301,
+          "actualTitleFonts": [
+            {
+              "familyName": "Noto Serif SC",
+              "postScriptName": "NotoSerifSC-Regular",
+              "isCustomFont": true,
+              "glyphCount": 12
+            }
+          ]
+        },
+        {
+          "file": "stories.html",
+          "width": 1000,
+          "horizontalOverflow": false,
+          "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+          "fontLoaded": true,
+          "titleWhiteSpace": "normal",
+          "titleWidth": 442,
+          "navFits": true,
+          "navFonts": [
+            "13px",
+            "13px",
+            "13px",
+            "13px"
+          ],
+          "small": [
+            {
+              "selector": "story-source",
+              "size": 12
+            },
+            {
+              "selector": "story-source",
+              "size": 12
+            },
+            {
+              "selector": "story-source",
+              "size": 12
+            },
+            {
+              "selector": "story-source",
+              "size": 12
+            },
+            {
+              "selector": "page-footer page-shell",
+              "size": 12
+            }
+          ],
+          "exploreHeight": null,
+          "actualTitleFonts": [
+            {
+              "familyName": "Noto Serif SC",
+              "postScriptName": "NotoSerifSC-Regular",
+              "isCustomFont": true,
+              "glyphCount": 14
+            }
+          ]
+        },
+        {
+          "file": "letters.html",
+          "width": 1000,
+          "horizontalOverflow": false,
+          "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+          "fontLoaded": true,
+          "titleWhiteSpace": "normal",
+          "titleWidth": 880,
+          "navFits": true,
+          "navFonts": [
+            "13px",
+            "13px",
+            "13px",
+            "13px"
+          ],
+          "small": [
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "local-note",
+              "size": 12
+            },
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "footer-bottom",
+              "size": 12
+            }
+          ],
+          "exploreHeight": null,
+          "actualTitleFonts": [
+            {
+              "familyName": "Noto Serif SC",
+              "postScriptName": "NotoSerifSC-Regular",
+              "isCustomFont": true,
+              "glyphCount": 9
+            }
+          ]
+        },
+        {
+          "file": "about.html",
+          "width": 1000,
+          "horizontalOverflow": false,
+          "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+          "fontLoaded": true,
+          "titleWhiteSpace": "normal",
+          "titleWidth": 442,
+          "navFits": true,
+          "navFonts": [
+            "13px",
+            "13px",
+            "13px",
+            "13px"
+          ],
+          "small": [
+            {
+              "selector": "",
+              "size": 12
+            },
+            {
+              "selector": "",
+              "size": 12
+            },
+            {
+              "selector": "",
+              "size": 12
+            },
+            {
+              "selector": "",
+              "size": 12
+            },
+            {
+              "selector": "page-footer page-shell",
+              "size": 12
+            }
+          ],
+          "exploreHeight": null,
+          "actualTitleFonts": [
+            {
+              "familyName": "Noto Serif SC",
+              "postScriptName": "NotoSerifSC-Regular",
+              "isCustomFont": true,
+              "glyphCount": 13
+            }
+          ]
+        },
+        {
+          "file": "index.html",
+          "width": 1100,
+          "horizontalOverflow": false,
+          "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+          "fontLoaded": true,
+          "titleWhiteSpace": "normal",
+          "titleWidth": 369,
+          "navFits": true,
+          "navFonts": [
+            "13px",
+            "13px",
+            "13px",
+            "13px"
+          ],
+          "small": [
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "hero-foot",
+              "size": 12
+            },
+            {
+              "selector": "eyebrow",
+              "size": 14
+            },
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "image-disclosure",
+              "size": 12
+            },
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "local-note",
+              "size": 12
+            },
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "footer-bottom",
+              "size": 12
+            }
+          ],
+          "exploreHeight": 301,
+          "actualTitleFonts": [
+            {
+              "familyName": "Noto Serif SC",
+              "postScriptName": "NotoSerifSC-Regular",
+              "isCustomFont": true,
+              "glyphCount": 12
+            }
+          ]
+        },
+        {
+          "file": "stories.html",
+          "width": 1100,
+          "horizontalOverflow": false,
+          "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+          "fontLoaded": true,
+          "titleWhiteSpace": "normal",
+          "titleWidth": 486,
+          "navFits": true,
+          "navFonts": [
+            "13px",
+            "13px",
+            "13px",
+            "13px"
+          ],
+          "small": [
+            {
+              "selector": "story-source",
+              "size": 12
+            },
+            {
+              "selector": "story-source",
+              "size": 12
+            },
+            {
+              "selector": "story-source",
+              "size": 12
+            },
+            {
+              "selector": "story-source",
+              "size": 12
+            },
+            {
+              "selector": "page-footer page-shell",
+              "size": 12
+            }
+          ],
+          "exploreHeight": null,
+          "actualTitleFonts": [
+            {
+              "familyName": "Noto Serif SC",
+              "postScriptName": "NotoSerifSC-Regular",
+              "isCustomFont": true,
+              "glyphCount": 14
+            }
+          ]
+        },
+        {
+          "file": "letters.html",
+          "width": 1100,
+          "horizontalOverflow": false,
+          "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+          "fontLoaded": true,
+          "titleWhiteSpace": "normal",
+          "titleWidth": 946,
+          "navFits": true,
+          "navFonts": [
+            "13px",
+            "13px",
+            "13px",
+            "13px"
+          ],
+          "small": [
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "local-note",
+              "size": 12
+            },
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "footer-bottom",
+              "size": 12
+            }
+          ],
+          "exploreHeight": null,
+          "actualTitleFonts": [
+            {
+              "familyName": "Noto Serif SC",
+              "postScriptName": "NotoSerifSC-Regular",
+              "isCustomFont": true,
+              "glyphCount": 9
+            }
+          ]
+        },
+        {
+          "file": "about.html",
+          "width": 1100,
+          "horizontalOverflow": false,
+          "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+          "fontLoaded": true,
+          "titleWhiteSpace": "normal",
+          "titleWidth": 486,
+          "navFits": true,
+          "navFonts": [
+            "13px",
+            "13px",
+            "13px",
+            "13px"
+          ],
+          "small": [
+            {
+              "selector": "",
+              "size": 12
+            },
+            {
+              "selector": "",
+              "size": 12
+            },
+            {
+              "selector": "",
+              "size": 12
+            },
+            {
+              "selector": "",
+              "size": 12
+            },
+            {
+              "selector": "page-footer page-shell",
+              "size": 12
+            }
+          ],
+          "exploreHeight": null,
+          "actualTitleFonts": [
+            {
+              "familyName": "Noto Serif SC",
+              "postScriptName": "NotoSerifSC-Regular",
+              "isCustomFont": true,
+              "glyphCount": 13
+            }
+          ]
+        },
+        {
+          "file": "index.html",
+          "width": 1440,
+          "horizontalOverflow": false,
+          "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+          "fontLoaded": true,
+          "titleWhiteSpace": "normal",
+          "titleWidth": 483,
+          "navFits": true,
+          "navFonts": [
+            "13px",
+            "13px",
+            "13px",
+            "13px"
+          ],
+          "small": [
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "hero-foot",
+              "size": 12
+            },
+            {
+              "selector": "eyebrow",
+              "size": 14
+            },
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "image-disclosure",
+              "size": 12
+            },
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "local-note",
+              "size": 12
+            },
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "footer-bottom",
+              "size": 12
+            }
+          ],
+          "exploreHeight": 301,
+          "actualTitleFonts": [
+            {
+              "familyName": "Noto Serif SC",
+              "postScriptName": "NotoSerifSC-Regular",
+              "isCustomFont": true,
+              "glyphCount": 12
+            }
+          ]
+        },
+        {
+          "file": "stories.html",
+          "width": 1440,
+          "horizontalOverflow": false,
+          "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+          "fontLoaded": true,
+          "titleWhiteSpace": "normal",
+          "titleWidth": 636,
+          "navFits": true,
+          "navFonts": [
+            "13px",
+            "13px",
+            "13px",
+            "13px"
+          ],
+          "small": [
+            {
+              "selector": "story-source",
+              "size": 12
+            },
+            {
+              "selector": "story-source",
+              "size": 12
+            },
+            {
+              "selector": "story-source",
+              "size": 12
+            },
+            {
+              "selector": "story-source",
+              "size": 12
+            },
+            {
+              "selector": "page-footer page-shell",
+              "size": 12
+            }
+          ],
+          "exploreHeight": null,
+          "actualTitleFonts": [
+            {
+              "familyName": "Noto Serif SC",
+              "postScriptName": "NotoSerifSC-Regular",
+              "isCustomFont": true,
+              "glyphCount": 14
+            }
+          ]
+        },
+        {
+          "file": "letters.html",
+          "width": 1440,
+          "horizontalOverflow": false,
+          "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+          "fontLoaded": true,
+          "titleWhiteSpace": "normal",
+          "titleWidth": 1238,
+          "navFits": true,
+          "navFonts": [
+            "13px",
+            "13px",
+            "13px",
+            "13px"
+          ],
+          "small": [
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "local-note",
+              "size": 12
+            },
+            {
+              "selector": "eyebrow",
+              "size": 12
+            },
+            {
+              "selector": "footer-bottom",
+              "size": 12
+            }
+          ],
+          "exploreHeight": null,
+          "actualTitleFonts": [
+            {
+              "familyName": "Noto Serif SC",
+              "postScriptName": "NotoSerifSC-Regular",
+              "isCustomFont": true,
+              "glyphCount": 9
+            }
+          ]
+        },
+        {
+          "file": "about.html",
+          "width": 1440,
+          "horizontalOverflow": false,
+          "titleFont": "\"Jiangmen Noto Serif\", \"Noto Serif SC\", \"Noto Serif CJK SC\", \"Songti SC\", STSong, SimSun, serif",
+          "fontLoaded": true,
+          "titleWhiteSpace": "normal",
+          "titleWidth": 636,
+          "navFits": true,
+          "navFonts": [
+            "13px",
+            "13px",
+            "13px",
+            "13px"
+          ],
+          "small": [
+            {
+              "selector": "",
+              "size": 12
+            },
+            {
+              "selector": "",
+              "size": 12
+            },
+            {
+              "selector": "",
+              "size": 12
+            },
+            {
+              "selector": "",
+              "size": 12
+            },
+            {
+              "selector": "page-footer page-shell",
+              "size": 12
+            }
+          ],
+          "exploreHeight": null,
+          "actualTitleFonts": [
+            {
+              "familyName": "Noto Serif SC",
+              "postScriptName": "NotoSerifSC-Regular",
+              "isCustomFont": true,
+              "glyphCount": 13
+            }
+          ]
+        }
+      ]
+    },
+    "interactionEdges": {
+      "passed": true,
+      "browser": "152.0.7977.30",
+      "base": "http://127.0.0.1:8765/",
+      "shareTests": "Mock only; navigator.share replaced in the test page. No external sharing.",
+      "checks": [
+        {
+          "name": "keyboard-dialog-focus",
+          "passed": true,
+          "openedWithKeyboard": true,
+          "imageSize": [
+            1600,
+            1100
+          ],
+          "returnFocus": "preview-card"
+        },
+        {
+          "name": "draft-back-navigation",
+          "passed": true,
+          "beforeGoBack": {
+            "recipient": "草稿 B",
+            "message": "来信页更新为 B。",
+            "stored": {
+              "scene": 0,
+              "recipient": "草稿 B",
+              "message": "来信页更新为 B。"
+            }
+          },
+          "realGoBack": {
+            "recipient": "草稿 B",
+            "message": "来信页更新为 B。",
+            "stored": {
+              "scene": 0,
+              "recipient": "草稿 B",
+              "message": "来信页更新为 B。"
+            },
+            "pageshowEvents": [
+              {
+                "persisted": false
+              }
+            ],
+            "sameDocument": false
+          },
+          "realBFCache": false,
+          "syntheticPersistedHandler": {
+            "tested": true,
+            "note": "BFCache was not used in real navigation. This separately dispatches a synthetic persisted pageshow to exercise only the handler; the real navigation result is asserted independently."
+          }
+        },
+        {
+          "name": "native-share-success-and-user-cancel-mocks",
+          "passed": true,
+          "calls": [
+            {
+              "mode": "success",
+              "title": "侨乡来信 · 江门",
+              "files": [
+                {
+                  "name": "侨乡来信-江门明信片.png",
+                  "type": "image/png",
+                  "size": 1651028
+                }
+              ]
+            },
+            {
+              "mode": "abort",
+              "title": "侨乡来信 · 江门",
+              "files": [
+                {
+                  "name": "侨乡来信-江门明信片.png",
+                  "type": "image/png",
+                  "size": 1651028
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "four-normal-animations-and-final-completion",
+          "passed": true,
+          "effects": [
+            {
+              "effect": "shards",
+              "pieces": 24
+            },
+            {
+              "effect": "shutters",
+              "pieces": 6
+            },
+            {
+              "effect": "ripples",
+              "pieces": 24
+            },
+            {
+              "effect": "petals",
+              "pieces": 3
+            }
+          ],
+          "finalChapter": "味的归途",
+          "completionVisible": true
+        },
+        {
+          "name": "cross-tab-clear-during-scene-load-removeItem",
+          "passed": true,
+          "storageEvents": [
+            {
+              "key": "jiangmen-letter-stamps",
+              "newValue": null
+            }
+          ],
+          "afterLoad": {
+            "progress": "已收集 0 / 4 枚文化印记",
+            "ownedInUI": 0,
+            "storage": null
+          },
+          "afterNextCollect": {
+            "clickedChapter": 0,
+            "owned": [
+              0
+            ],
+            "progress": "已收集 1 / 4 枚文化印记"
+          }
+        },
+        {
+          "name": "cross-tab-clear-during-scene-load-clear",
+          "passed": true,
+          "storageEvents": [
+            {
+              "key": null,
+              "newValue": null
+            }
+          ],
+          "afterLoad": {
+            "progress": "已收集 0 / 4 枚文化印记",
+            "ownedInUI": 0,
+            "storage": null
+          },
+          "afterNextCollect": {
+            "clickedChapter": 0,
+            "owned": [
+              0
+            ],
+            "progress": "已收集 1 / 4 枚文化印记"
+          }
+        },
+        {
+          "name": "file-protocol-cross-page-compatibility",
+          "passed": true,
+          "homeCollected": [
+            0
+          ],
+          "lettersPassport": {
+            "ownedCount": 1,
+            "status": "已收藏 1 / 4 枚印记，随时都可以写下你的心意。",
+            "storedOwned": [
+              0
+            ]
+          },
+          "homeDraft": {
+            "recipient": "离线跨页草稿",
+            "message": "从来信页回到首页，继续写下乡情。"
+          }
+        }
+      ],
+      "pageErrors": []
+    }
+  },
+  "travelGuide20261015": {
+    "checks": [
+      {
+        "file": "index",
+        "width": 320,
+        "noOverflow": true
+      },
+      {
+        "file": "stories",
+        "width": 320,
+        "noOverflow": true
+      },
+      {
+        "file": "letters",
+        "width": 320,
+        "noOverflow": true
+      },
+      {
+        "file": "about",
+        "width": 320,
+        "noOverflow": true
+      },
+      {
+        "file": "travel",
+        "width": 320,
+        "noOverflow": true
+      },
+      {
+        "file": "food",
+        "width": 320,
+        "noOverflow": true
+      },
+      {
+        "file": "routes",
+        "width": 320,
+        "noOverflow": true
+      },
+      {
+        "file": "index",
+        "width": 390,
+        "noOverflow": true
+      },
+      {
+        "file": "stories",
+        "width": 390,
+        "noOverflow": true
+      },
+      {
+        "file": "letters",
+        "width": 390,
+        "noOverflow": true
+      },
+      {
+        "file": "about",
+        "width": 390,
+        "noOverflow": true
+      },
+      {
+        "file": "travel",
+        "width": 390,
+        "noOverflow": true
+      },
+      {
+        "file": "food",
+        "width": 390,
+        "noOverflow": true
+      },
+      {
+        "file": "routes",
+        "width": 390,
+        "noOverflow": true
+      },
+      {
+        "file": "index",
+        "width": 768,
+        "noOverflow": true
+      },
+      {
+        "file": "stories",
+        "width": 768,
+        "noOverflow": true
+      },
+      {
+        "file": "letters",
+        "width": 768,
+        "noOverflow": true
+      },
+      {
+        "file": "about",
+        "width": 768,
+        "noOverflow": true
+      },
+      {
+        "file": "travel",
+        "width": 768,
+        "noOverflow": true
+      },
+      {
+        "file": "food",
+        "width": 768,
+        "noOverflow": true
+      },
+      {
+        "file": "routes",
+        "width": 768,
+        "noOverflow": true
+      },
+      {
+        "file": "index",
+        "width": 1440,
+        "noOverflow": true
+      },
+      {
+        "file": "stories",
+        "width": 1440,
+        "noOverflow": true
+      },
+      {
+        "file": "letters",
+        "width": 1440,
+        "noOverflow": true
+      },
+      {
+        "file": "about",
+        "width": 1440,
+        "noOverflow": true
+      },
+      {
+        "file": "travel",
+        "width": 1440,
+        "noOverflow": true
+      },
+      {
+        "file": "food",
+        "width": 1440,
+        "noOverflow": true
+      },
+      {
+        "file": "routes",
+        "width": 1440,
+        "noOverflow": true
+      },
+      {
+        "name": "filter-empty-reset-wishlist-cross-page-reload",
+        "passed": true
+      },
+      {
+        "name": "clipboard-success-mock-and-real-fallback",
+        "passed": true
+      },
+      {
+        "name": "storage-denied-nojs-file-protocol-local-links",
+        "passed": true
+      }
+    ],
+    "errors": [],
+    "failed": [],
+    "passed": true
+  }
+}

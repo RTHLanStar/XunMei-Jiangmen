@@ -1,0 +1,52 @@
+{
+  "checkedAt": "2026-10-19T05:48:06.492Z",
+  "checks": [
+    {
+      "name": "simplified-controls-and-synchronized-content",
+      "passed": true,
+      "finalChapter": "味的归途"
+    },
+    {
+      "name": "swipe-intent-cancel-and-pinch",
+      "passed": true,
+      "touchAction": "pan-y pinch-zoom"
+    },
+    {
+      "name": "keyboard-tabs-and-reduced-motion",
+      "passed": true
+    },
+    {
+      "name": "native-chromium-touch-swipe-and-vertical-scroll",
+      "passed": true,
+      "verticalScrollPixels": 118,
+      "engine": "Headless Chromium touch emulation; not a real WeChat test"
+    },
+    {
+      "name": "late-image-response-cannot-replace-current-slide",
+      "passed": true
+    },
+    {
+      "name": "collection-blocks-navigation-until-settled",
+      "passed": true,
+      "selected": 1
+    },
+    {
+      "name": "failed-image-keeps-navigation-and-retry",
+      "passed": true
+    },
+    {
+      "name": "narrow-and-enlarged-text-stays-in-viewport",
+      "passed": true,
+      "widths": [
+        320,
+        375,
+        390,
+        430,
+        844,
+        1440
+      ]
+    }
+  ],
+  "pageErrors": [],
+  "passed": true
+}

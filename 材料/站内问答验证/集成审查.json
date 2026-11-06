@@ -1,0 +1,86 @@
+{
+  "engine": "Headless Chromium; mobile simulation, not WeChat hardware",
+  "checks": [
+    {
+      "allNinePagesHaveBothFooterEntrances": true
+    },
+    {
+      "name": "faq",
+      "width": 320,
+      "headingLevels": [
+        1
+      ],
+      "overflow": false,
+      "controls44px": true,
+      "queryAndPrint": true
+    },
+    {
+      "name": "faq",
+      "width": 390,
+      "headingLevels": [
+        1
+      ],
+      "overflow": false,
+      "controls44px": true,
+      "queryAndPrint": true
+    },
+    {
+      "name": "faq",
+      "width": 1440,
+      "headingLevels": [
+        1
+      ],
+      "overflow": false,
+      "controls44px": true,
+      "queryAndPrint": true
+    },
+    {
+      "name": "tour",
+      "width": 320,
+      "headingLevels": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "overflow": false,
+      "controls44px": true,
+      "queryAndPrint": false
+    },
+    {
+      "name": "tour",
+      "width": 390,
+      "headingLevels": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "overflow": false,
+      "controls44px": true,
+      "queryAndPrint": false
+    },
+    {
+      "name": "tour",
+      "width": 1440,
+      "headingLevels": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "overflow": false,
+      "controls44px": true,
+      "queryAndPrint": false
+    }
+  ],
+  "brokenLinks": [],
+  "errors": [],
+  "passed": true
+}

@@ -1,0 +1,737 @@
+{
+  "checkedAt": "2026-10-15T11:44:52.496Z",
+  "engine": "Chromium mobile emulation; not a real WeChat engine",
+  "checks": [
+    {
+      "file": "travel",
+      "width": 390,
+      "dpr": 3,
+      "mode": "stale-css",
+      "before": {
+        "viewport": {
+          "inner": 1043,
+          "client": 390,
+          "scroll": 1043
+        },
+        "photos": [
+          {
+            "id": "cover",
+            "window": {
+              "left": 63.40625,
+              "right": 326.59375,
+              "top": 443.953125,
+              "bottom": 1092.953125,
+              "width": 263.1875,
+              "height": 649
+            },
+            "image": {
+              "left": 63.40625,
+              "right": 1023.40625,
+              "top": 443.953125,
+              "bottom": 1084.953125,
+              "width": 960,
+              "height": 641
+            },
+            "figure": {
+              "left": 63.40625,
+              "right": 326.59375,
+              "top": 443.953125,
+              "bottom": 1119.953125,
+              "width": 263.1875,
+              "height": 676
+            },
+            "card": null,
+            "loaded": false
+          },
+          {
+            "id": "place-longdi",
+            "window": {
+              "left": 83.40625,
+              "right": 306.59375,
+              "top": 2191.40625,
+              "bottom": 2839.40625,
+              "width": 223.1875,
+              "height": 648
+            },
+            "image": {
+              "left": 83.40625,
+              "right": 1043.40625,
+              "top": 2191.40625,
+              "bottom": 2831.40625,
+              "width": 960,
+              "height": 640
+            },
+            "figure": {
+              "left": 83.40625,
+              "right": 306.59375,
+              "top": 2191.40625,
+              "bottom": 2866.40625,
+              "width": 223.1875,
+              "height": 675
+            },
+            "card": {
+              "left": 23.40625,
+              "right": 366.59375,
+              "top": 2154.40625,
+              "bottom": 3297.578125,
+              "width": 343.1875,
+              "height": 1143.171875
+            },
+            "loaded": false
+          },
+          {
+            "id": "place-qiming",
+            "window": {
+              "left": 83.40625,
+              "right": 306.59375,
+              "top": 3350.578125,
+              "bottom": 4078.578125,
+              "width": 223.1875,
+              "height": 728
+            },
+            "image": {
+              "left": 83.40625,
+              "right": 1043.40625,
+              "top": 3350.578125,
+              "bottom": 4070.578125,
+              "width": 960,
+              "height": 720
+            },
+            "figure": {
+              "left": 83.40625,
+              "right": 306.59375,
+              "top": 3350.578125,
+              "bottom": 4105.578125,
+              "width": 223.1875,
+              "height": 755
+            },
+            "card": {
+              "left": 23.40625,
+              "right": 366.59375,
+              "top": 3313.578125,
+              "bottom": 4526.25,
+              "width": 343.1875,
+              "height": 1212.671875
+            },
+            "loaded": false
+          },
+          {
+            "id": "place-liang",
+            "window": {
+              "left": 83.40625,
+              "right": 306.59375,
+              "top": 4579.25,
+              "bottom": 5227.25,
+              "width": 223.1875,
+              "height": 648
+            },
+            "image": {
+              "left": 83.40625,
+              "right": 1043.40625,
+              "top": 4579.25,
+              "bottom": 5219.25,
+              "width": 960,
+              "height": 640
+            },
+            "figure": {
+              "left": 83.40625,
+              "right": 306.59375,
+              "top": 4579.25,
+              "bottom": 5254.25,
+              "width": 223.1875,
+              "height": 675
+            },
+            "card": {
+              "left": 23.40625,
+              "right": 366.59375,
+              "top": 4542.25,
+              "bottom": 5674.921875,
+              "width": 343.1875,
+              "height": 1132.671875
+            },
+            "loaded": false
+          },
+          {
+            "id": "place-bird",
+            "window": {
+              "left": 83.40625,
+              "right": 306.59375,
+              "top": 5727.921875,
+              "bottom": 6465.921875,
+              "width": 223.1875,
+              "height": 738
+            },
+            "image": {
+              "left": 83.40625,
+              "right": 1043.40625,
+              "top": 5727.921875,
+              "bottom": 6457.921875,
+              "width": 960,
+              "height": 730
+            },
+            "figure": {
+              "left": 83.40625,
+              "right": 306.59375,
+              "top": 5727.921875,
+              "bottom": 6492.921875,
+              "width": 223.1875,
+              "height": 765
+            },
+            "card": {
+              "left": 23.40625,
+              "right": 366.59375,
+              "top": 5690.921875,
+              "bottom": 6913.59375,
+              "width": 343.1875,
+              "height": 1222.671875
+            },
+            "loaded": false
+          },
+          {
+            "id": "place-chenpi",
+            "window": {
+              "left": 83.40625,
+              "right": 306.59375,
+              "top": 6966.59375,
+              "bottom": 7715.59375,
+              "width": 223.1875,
+              "height": 749
+            },
+            "image": {
+              "left": 83.40625,
+              "right": 952.40625,
+              "top": 6966.59375,
+              "bottom": 7707.59375,
+              "width": 869,
+              "height": 741
+            },
+            "figure": {
+              "left": 83.40625,
+              "right": 306.59375,
+              "top": 6966.59375,
+              "bottom": 7769.59375,
+              "width": 223.1875,
+              "height": 803
+            },
+            "card": {
+              "left": 23.40625,
+              "right": 366.59375,
+              "top": 6929.59375,
+              "bottom": 8190.265625,
+              "width": 343.1875,
+              "height": 1260.671875
+            },
+            "loaded": false
+          },
+          {
+            "id": "place-zili",
+            "window": {
+              "left": 83.40625,
+              "right": 306.59375,
+              "top": 8243.265625,
+              "bottom": 8892.265625,
+              "width": 223.1875,
+              "height": 649
+            },
+            "image": {
+              "left": 83.40625,
+              "right": 1043.40625,
+              "top": 8243.265625,
+              "bottom": 8884.265625,
+              "width": 960,
+              "height": 641
+            },
+            "figure": {
+              "left": 83.40625,
+              "right": 306.59375,
+              "top": 8243.265625,
+              "bottom": 8919.265625,
+              "width": 223.1875,
+              "height": 676
+            },
+            "card": {
+              "left": 23.40625,
+              "right": 366.59375,
+              "top": 8206.265625,
+              "bottom": 9339.9375,
+              "width": 343.1875,
+              "height": 1133.671875
+            },
+            "loaded": false
+          },
+          {
+            "id": "place-chikan",
+            "window": {
+              "left": 83.40625,
+              "right": 306.59375,
+              "top": 9392.9375,
+              "bottom": 9880.9375,
+              "width": 223.1875,
+              "height": 488
+            },
+            "image": {
+              "left": 83.40625,
+              "right": 1043.40625,
+              "top": 9392.9375,
+              "bottom": 9872.9375,
+              "width": 960,
+              "height": 480
+            },
+            "figure": {
+              "left": 83.40625,
+              "right": 306.59375,
+              "top": 9392.9375,
+              "bottom": 9907.9375,
+              "width": 223.1875,
+              "height": 515
+            },
+            "card": {
+              "left": 23.40625,
+              "right": 366.59375,
+              "top": 9355.9375,
+              "bottom": 10328.609375,
+              "width": 343.1875,
+              "height": 972.671875
+            },
+            "loaded": false
+          },
+          {
+            "id": "place-chuandao",
+            "window": {
+              "left": 83.40625,
+              "right": 306.59375,
+              "top": 10381.609375,
+              "bottom": 10929.609375,
+              "width": 223.1875,
+              "height": 548
+            },
+            "image": {
+              "left": 83.40625,
+              "right": 1043.40625,
+              "top": 10381.609375,
+              "bottom": 10921.609375,
+              "width": 960,
+              "height": 540
+            },
+            "figure": {
+              "left": 83.40625,
+              "right": 306.59375,
+              "top": 10381.609375,
+              "bottom": 10956.609375,
+              "width": 223.1875,
+              "height": 575
+            },
+            "card": {
+              "left": 23.40625,
+              "right": 366.59375,
+              "top": 10344.609375,
+              "bottom": 11350.28125,
+              "width": 343.1875,
+              "height": 1005.671875
+            },
+            "loaded": false
+          }
+        ]
+      },
+      "passed": false,
+      "error": "document scrollWidth 1043 exceeds configured viewport 390; innerWidth=1043"
+    },
+    {
+      "file": "travel",
+      "width": 390,
+      "dpr": 3,
+      "mode": "css-failed",
+      "before": {
+        "viewport": {
+          "inner": 1008,
+          "client": 390,
+          "scroll": 1008
+        },
+        "photos": [
+          {
+            "id": "cover",
+            "window": {
+              "left": 48,
+              "right": 342,
+              "top": 350.875,
+              "bottom": 995.875,
+              "width": 294,
+              "height": 645
+            },
+            "image": {
+              "left": 48,
+              "right": 1008,
+              "top": 350.875,
+              "bottom": 991.875,
+              "width": 960,
+              "height": 641
+            },
+            "figure": {
+              "left": 48,
+              "right": 342,
+              "top": 350.875,
+              "bottom": 1016.875,
+              "width": 294,
+              "height": 666
+            },
+            "card": null,
+            "loaded": false
+          },
+          {
+            "id": "place-longdi",
+            "window": {
+              "left": 48,
+              "right": 342,
+              "top": 1987.25,
+              "bottom": 2631.25,
+              "width": 294,
+              "height": 644
+            },
+            "image": {
+              "left": 48,
+              "right": 1008,
+              "top": 1987.25,
+              "bottom": 2627.25,
+              "width": 960,
+              "height": 640
+            },
+            "figure": {
+              "left": 48,
+              "right": 342,
+              "top": 1987.25,
+              "bottom": 2652.25,
+              "width": 294,
+              "height": 665
+            },
+            "card": {
+              "left": 8,
+              "right": 382,
+              "top": 1987.25,
+              "bottom": 2957.0625,
+              "width": 374,
+              "height": 969.8125
+            },
+            "loaded": false
+          },
+          {
+            "id": "place-qiming",
+            "window": {
+              "left": 48,
+              "right": 342,
+              "top": 2973.0625,
+              "bottom": 3697.0625,
+              "width": 294,
+              "height": 724
+            },
+            "image": {
+              "left": 48,
+              "right": 1008,
+              "top": 2973.0625,
+              "bottom": 3693.0625,
+              "width": 960,
+              "height": 720
+            },
+            "figure": {
+              "left": 48,
+              "right": 342,
+              "top": 2973.0625,
+              "bottom": 3718.0625,
+              "width": 294,
+              "height": 745
+            },
+            "card": {
+              "left": 8,
+              "right": 382,
+              "top": 2973.0625,
+              "bottom": 4022.875,
+              "width": 374,
+              "height": 1049.8125
+            },
+            "loaded": false
+          },
+          {
+            "id": "place-liang",
+            "window": {
+              "left": 48,
+              "right": 342,
+              "top": 4038.875,
+              "bottom": 4682.875,
+              "width": 294,
+              "height": 644
+            },
+            "image": {
+              "left": 48,
+              "right": 1008,
+              "top": 4038.875,
+              "bottom": 4678.875,
+              "width": 960,
+              "height": 640
+            },
+            "figure": {
+              "left": 48,
+              "right": 342,
+              "top": 4038.875,
+              "bottom": 4703.875,
+              "width": 294,
+              "height": 665
+            },
+            "card": {
+              "left": 8,
+              "right": 382,
+              "top": 4038.875,
+              "bottom": 5029.6875,
+              "width": 374,
+              "height": 990.8125
+            },
+            "loaded": false
+          },
+          {
+            "id": "place-bird",
+            "window": {
+              "left": 48,
+              "right": 342,
+              "top": 5045.6875,
+              "bottom": 5779.6875,
+              "width": 294,
+              "height": 734
+            },
+            "image": {
+              "left": 48,
+              "right": 1008,
+              "top": 5045.6875,
+              "bottom": 5775.6875,
+              "width": 960,
+              "height": 730
+            },
+            "figure": {
+              "left": 48,
+              "right": 342,
+              "top": 5045.6875,
+              "bottom": 5800.6875,
+              "width": 294,
+              "height": 755
+            },
+            "card": {
+              "left": 8,
+              "right": 382,
+              "top": 5045.6875,
+              "bottom": 6105.5,
+              "width": 374,
+              "height": 1059.8125
+            },
+            "loaded": false
+          },
+          {
+            "id": "place-chenpi",
+            "window": {
+              "left": 48,
+              "right": 342,
+              "top": 6121.5,
+              "bottom": 6866.5,
+              "width": 294,
+              "height": 745
+            },
+            "image": {
+              "left": 48,
+              "right": 917,
+              "top": 6121.5,
+              "bottom": 6862.5,
+              "width": 869,
+              "height": 741
+            },
+            "figure": {
+              "left": 48,
+              "right": 342,
+              "top": 6121.5,
+              "bottom": 6887.5,
+              "width": 294,
+              "height": 766
+            },
+            "card": {
+              "left": 8,
+              "right": 382,
+              "top": 6121.5,
+              "bottom": 7192.3125,
+              "width": 374,
+              "height": 1070.8125
+            },
+            "loaded": false
+          },
+          {
+            "id": "place-zili",
+            "window": {
+              "left": 48,
+              "right": 342,
+              "top": 7208.3125,
+              "bottom": 7853.3125,
+              "width": 294,
+              "height": 645
+            },
+            "image": {
+              "left": 48,
+              "right": 1008,
+              "top": 7208.3125,
+              "bottom": 7849.3125,
+              "width": 960,
+              "height": 641
+            },
+            "figure": {
+              "left": 48,
+              "right": 342,
+              "top": 7208.3125,
+              "bottom": 7874.3125,
+              "width": 294,
+              "height": 666
+            },
+            "card": {
+              "left": 8,
+              "right": 382,
+              "top": 7208.3125,
+              "bottom": 8179.125,
+              "width": 374,
+              "height": 970.8125
+            },
+            "loaded": false
+          },
+          {
+            "id": "place-chikan",
+            "window": {
+              "left": 48,
+              "right": 342,
+              "top": 8195.125,
+              "bottom": 8679.125,
+              "width": 294,
+              "height": 484
+            },
+            "image": {
+              "left": 48,
+              "right": 1008,
+              "top": 8195.125,
+              "bottom": 8675.125,
+              "width": 960,
+              "height": 480
+            },
+            "figure": {
+              "left": 48,
+              "right": 342,
+              "top": 8195.125,
+              "bottom": 8700.125,
+              "width": 294,
+              "height": 505
+            },
+            "card": {
+              "left": 8,
+              "right": 382,
+              "top": 8195.125,
+              "bottom": 9025.9375,
+              "width": 374,
+              "height": 830.8125
+            },
+            "loaded": false
+          },
+          {
+            "id": "place-chuandao",
+            "window": {
+              "left": 48,
+              "right": 342,
+              "top": 9041.9375,
+              "bottom": 9585.9375,
+              "width": 294,
+              "height": 544
+            },
+            "image": {
+              "left": 48,
+              "right": 1008,
+              "top": 9041.9375,
+              "bottom": 9581.9375,
+              "width": 960,
+              "height": 540
+            },
+            "figure": {
+              "left": 48,
+              "right": 342,
+              "top": 9041.9375,
+              "bottom": 9606.9375,
+              "width": 294,
+              "height": 565
+            },
+            "card": {
+              "left": 8,
+              "right": 382,
+              "top": 9041.9375,
+              "bottom": 9911.75,
+              "width": 374,
+              "height": 869.8125
+            },
+            "loaded": false
+          }
+        ]
+      },
+      "passed": false,
+      "error": "document scrollWidth 1008 exceeds configured viewport 390; innerWidth=1008"
+    },
+    {
+      "file": "food",
+      "width": 390,
+      "dpr": 3,
+      "mode": "stale-css",
+      "before": {
+        "viewport": {
+          "inner": 390,
+          "client": 390,
+          "scroll": 390
+        },
+        "photos": []
+      },
+      "after": {
+        "viewport": {
+          "inner": 390,
+          "client": 390,
+          "scroll": 390
+        },
+        "photos": []
+      },
+      "passed": true
+    },
+    {
+      "file": "food",
+      "width": 390,
+      "dpr": 3,
+      "mode": "css-failed",
+      "before": {
+        "viewport": {
+          "inner": 390,
+          "client": 390,
+          "scroll": 390
+        },
+        "photos": []
+      },
+      "after": {
+        "viewport": {
+          "inner": 390,
+          "client": 390,
+          "scroll": 390
+        },
+        "photos": []
+      },
+      "passed": true
+    }
+  ],
+  "failures": [
+    {
+      "file": "travel",
+      "width": 390,
+      "dpr": 3,
+      "mode": "stale-css",
+      "error": "document scrollWidth 1043 exceeds configured viewport 390; innerWidth=1043"
+    },
+    {
+      "file": "travel",
+      "width": 390,
+      "dpr": 3,
+      "mode": "css-failed",
+      "error": "document scrollWidth 1008 exceeds configured viewport 390; innerWidth=1008"
+    }
+  ],
+  "passed": false
+}

@@ -1,0 +1,17 @@
+{
+  "sourceCount": 87,
+  "detailCount": 87,
+  "categories": [
+    "culture",
+    "food",
+    "places",
+    "practical",
+    "routes",
+    "website"
+  ],
+  "sourceLinks": 248,
+  "fullAnswers": true,
+  "allSourceFields": true,
+  "safeEscaping": true,
+  "passed": true
+}

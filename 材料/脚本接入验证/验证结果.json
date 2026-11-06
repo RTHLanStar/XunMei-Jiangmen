@@ -1,0 +1,140 @@
+{
+  "date": "2026-10-24T11:09:10.881Z",
+  "engine": "Chromium mobile simulation; not real WeChat",
+  "passed": true,
+  "results": [
+    {
+      "page": "index.html",
+      "passed": true,
+      "layout": {
+        "clientWidth": 390,
+        "scrollWidth": 390,
+        "scripts": [
+          {
+            "src": "https://trtc.io/knocket-sdk/sdk.js?identifier=7cacdcf02616dcfa4e&v=1792401160166",
+            "async": true
+          }
+        ],
+        "images": []
+      },
+      "sdkResponses": [
+        200
+      ],
+      "errors": []
+    },
+    {
+      "page": "travel.html",
+      "passed": true,
+      "layout": {
+        "clientWidth": 390,
+        "scrollWidth": 390,
+        "scripts": [
+          {
+            "src": "https://trtc.io/knocket-sdk/sdk.js?identifier=7cacdcf02616dcfa4e&v=1792401160166",
+            "async": true
+          }
+        ],
+        "images": []
+      },
+      "sdkResponses": [
+        200
+      ],
+      "errors": []
+    },
+    {
+      "page": "food.html",
+      "passed": true,
+      "layout": {
+        "clientWidth": 390,
+        "scrollWidth": 390,
+        "scripts": [
+          {
+            "src": "https://trtc.io/knocket-sdk/sdk.js?identifier=7cacdcf02616dcfa4e&v=1792401160166",
+            "async": true
+          }
+        ],
+        "images": []
+      },
+      "sdkResponses": [
+        200
+      ],
+      "errors": []
+    },
+    {
+      "page": "routes.html",
+      "passed": true,
+      "layout": {
+        "clientWidth": 390,
+        "scrollWidth": 390,
+        "scripts": [
+          {
+            "src": "https://trtc.io/knocket-sdk/sdk.js?identifier=7cacdcf02616dcfa4e&v=1792401160166",
+            "async": true
+          }
+        ],
+        "images": []
+      },
+      "sdkResponses": [
+        200
+      ],
+      "errors": []
+    },
+    {
+      "page": "stories.html",
+      "passed": true,
+      "layout": {
+        "clientWidth": 390,
+        "scrollWidth": 390,
+        "scripts": [
+          {
+            "src": "https://trtc.io/knocket-sdk/sdk.js?identifier=7cacdcf02616dcfa4e&v=1792401160166",
+            "async": true
+          }
+        ],
+        "images": []
+      },
+      "sdkResponses": [
+        200
+      ],
+      "errors": []
+    },
+    {
+      "page": "letters.html",
+      "passed": true,
+      "layout": {
+        "clientWidth": 390,
+        "scrollWidth": 390,
+        "scripts": [
+          {
+            "src": "https://trtc.io/knocket-sdk/sdk.js?identifier=7cacdcf02616dcfa4e&v=1792401160166",
+            "async": true
+          }
+        ],
+        "images": []
+      },
+      "sdkResponses": [
+        200
+      ],
+      "errors": []
+    },
+    {
+      "page": "about.html",
+      "passed": true,
+      "layout": {
+        "clientWidth": 390,
+        "scrollWidth": 390,
+        "scripts": [
+          {
+            "src": "https://trtc.io/knocket-sdk/sdk.js?identifier=7cacdcf02616dcfa4e&v=1792401160166",
+            "async": true
+          }
+        ],
+        "images": []
+      },
+      "sdkResponses": [
+        200
+      ],
+      "errors": []
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "checkedAt": "2026-10-24T10:56:32.315Z",
+  "engine": "Chromium; mobile emulation, not WeChat hardware",
+  "checks": [
+    {
+      "width": 320,
+      "large": false,
+      "progressive": true,
+      "oneShot": true,
+      "noLayoutShift": true,
+      "accessible": true
+    },
+    {
+      "width": 390,
+      "large": false,
+      "progressive": true,
+      "oneShot": true,
+      "noLayoutShift": true,
+      "accessible": true
+    },
+    {
+      "width": 430,
+      "large": false,
+      "progressive": true,
+      "oneShot": true,
+      "noLayoutShift": true,
+      "accessible": true
+    },
+    {
+      "width": 844,
+      "large": false,
+      "progressive": true,
+      "oneShot": true,
+      "noLayoutShift": true,
+      "accessible": true
+    },
+    {
+      "width": 1440,
+      "large": false,
+      "progressive": true,
+      "oneShot": true,
+      "noLayoutShift": true,
+      "accessible": true
+    },
+    {
+      "width": 320,
+      "large": true,
+      "progressive": true,
+      "oneShot": true,
+      "noLayoutShift": true,
+      "accessible": true
+    },
+    {
+      "width": 390,
+      "large": true,
+      "progressive": true,
+      "oneShot": true,
+      "noLayoutShift": true,
+      "accessible": true
+    },
+    {
+      "mode": "reduce",
+      "fullTitleReadable": true
+    },
+    {
+      "mode": "no-css",
+      "fullTitleReadable": true
+    },
+    {
+      "mode": "no-js",
+      "fullTitleReadable": true
+    },
+    {
+      "mode": "normal",
+      "fullTitleReadable": true
+    }
+  ],
+  "passed": true
+}

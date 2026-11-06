@@ -1,0 +1,24 @@
+{
+  "checkedAt": "2026-10-19T08:24:27.104Z",
+  "passed": true,
+  "checks": [
+    {
+      "name": "9-pages:exact-original-sdk-both-entries-user-only-opening-27-layouts",
+      "passed": true
+    },
+    {
+      "name": "delayed-sdk:wait-for-ready-open-once-local-search-independent",
+      "passed": true
+    },
+    {
+      "name": "failed-sdk-and-offline:bounded-wait-local-94-answers-still-work",
+      "passed": true
+    },
+    {
+      "name": "no-js:online-explanation-and-all-static-answers",
+      "passed": true
+    }
+  ],
+  "errors": [],
+  "scope": "Chromium模拟；在线按钮使用已核对SDK接口的替身，不发送客服消息、不验证云端回答。"
+}

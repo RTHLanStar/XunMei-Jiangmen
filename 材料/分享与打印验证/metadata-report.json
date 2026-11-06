@@ -1,0 +1,52 @@
+{
+  "checks": [
+    {
+      "file": "index.html",
+      "metadata": true,
+      "idempotent": true
+    },
+    {
+      "file": "stories.html",
+      "metadata": true,
+      "idempotent": true
+    },
+    {
+      "file": "letters.html",
+      "metadata": true,
+      "idempotent": true
+    },
+    {
+      "file": "about.html",
+      "metadata": true,
+      "idempotent": true
+    },
+    {
+      "file": "travel.html",
+      "metadata": true,
+      "idempotent": true
+    },
+    {
+      "file": "food.html",
+      "metadata": true,
+      "idempotent": true
+    },
+    {
+      "file": "routes.html",
+      "metadata": true,
+      "idempotent": true
+    },
+    {
+      "file": "faq.html",
+      "metadata": true,
+      "idempotent": true
+    },
+    {
+      "file": "tour.html",
+      "metadata": true,
+      "idempotent": true
+    }
+  ],
+  "escaping": true,
+  "oldTagsReplaced": true,
+  "printProgressive": true
+}

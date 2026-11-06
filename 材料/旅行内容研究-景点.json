@@ -1,0 +1,842 @@
+{
+  "title": "旅行内容研究：江门景点",
+  "checkedAt": "2026-10-16",
+  "audience": "第一次来江门、计划1—2天的游客",
+  "scope": "景点事实与编辑路线建议；不提供未经实时确认的票价、开门时间、公交班次或车程。",
+  "places": [
+    {
+      "id": "longdi",
+      "name": "长堤历史文化街区 · 三十三墟街",
+      "region": "蓬江区",
+      "group": "老城慢逛",
+      "tags": [
+        "骑楼",
+        "街巷",
+        "小吃"
+      ],
+      "fact": "从蓬江河畔的骑楼与三十三墟街出发，可以读到江门商埠与市井生活的痕迹。",
+      "editorialTip": "第一次来，适合与启明里连成一段步行行程；看建筑、找小吃，少安排跨区来回。",
+      "planningLabel": "编辑建议：半天慢逛，含启明里",
+      "verifyBeforeGo": "商户、展馆与集市各有安排；节庆市集不能默认每天营业。",
+      "mapQuery": "江门 蓬江 长堤历史文化街区 三十三墟街",
+      "sources": [
+        "longdi-20261009",
+        "pengjiang-20260130"
+      ]
+    },
+    {
+      "id": "qiming",
+      "name": "启明里",
+      "region": "蓬江区",
+      "group": "老城慢逛",
+      "tags": [
+        "侨屋",
+        "非遗",
+        "咖啡"
+      ],
+      "fact": "长堤历史文化街区东段的百年侨居片区，房屋结合岭南与西方建筑元素，巷子以在地故事与非遗为主题。",
+      "editorialTip": "顺着小巷看屋前故事牌，再找一家咖啡店坐坐；拍照时给居民和店铺出入口留通道。",
+      "planningLabel": "编辑建议：与长堤同一半天",
+      "verifyBeforeGo": "展馆、店铺和活动以当日安排为准。",
+      "mapQuery": "江门 蓬江 启明里",
+      "sources": [
+        "qiming-20250314",
+        "pengjiang-20260130"
+      ]
+    },
+    {
+      "id": "liang",
+      "name": "梁启超故居纪念馆",
+      "region": "新会区",
+      "group": "人文与湿地",
+      "tags": [
+        "人物",
+        "家风",
+        "故居"
+      ],
+      "fact": "位于新会的梁启超故居纪念馆是启超故里·小鸟天堂文化旅游区的一部分，可从故居与展览认识梁启超及其家风。",
+      "editorialTip": "与小鸟天堂、陈皮村安排在同一天；给阅读展览留时间，比只拍门口更有收获。",
+      "planningLabel": "编辑建议：新会一日线的文化一站",
+      "verifyBeforeGo": "出行前核对开馆及临时闭馆公告；旧攻略的周一闭馆规则不应代替当日通知。",
+      "mapQuery": "江门 新会 梁启超故居纪念馆",
+      "sources": [
+        "xinhui-zone-20231128",
+        "xinhui-route-20241028"
+      ]
+    },
+    {
+      "id": "bird",
+      "name": "小鸟天堂",
+      "region": "新会区",
+      "group": "人文与湿地",
+      "tags": [
+        "古榕",
+        "湿地",
+        "观鸟"
+      ],
+      "fact": "以古榕和鸟类生态闻名的国家湿地公园，与巴金《鸟的天堂》有联系；陆路游览和水路游船是不同体验。",
+      "editorialTip": "喜欢自然与亲子观察的游客可优先选这里；带望远镜并保持安静，看到鸟群的数量与状态随时节、天气而变。",
+      "planningLabel": "编辑建议：新会一日线的自然一站",
+      "verifyBeforeGo": "确认门票是否含船票、当日游船是否运行；营业时间曾于2026年7月调整，查景区公告。",
+      "mapQuery": "江门 新会 小鸟天堂",
+      "sources": [
+        "xinhui-zone-20231128",
+        "xinhui-route-20241028",
+        "bird-hours-20260702"
+      ]
+    },
+    {
+      "id": "chenpi",
+      "name": "新会陈皮村",
+      "region": "新会区",
+      "group": "人文与湿地",
+      "tags": [
+        "陈皮",
+        "文化体验",
+        "手信"
+      ],
+      "fact": "集陈皮产业、文化体验、餐饮与商品交易于一体的商业文化综合体，地址为新会区银湖大道东9号。",
+      "editorialTip": "当作认识陈皮、喝茶和选手信的一站；先看年份、产地与标识，再按用途少量购买。",
+      "planningLabel": "编辑建议：与故居、小鸟天堂串联",
+      "verifyBeforeGo": "陈皮村不是所有店铺统一价的景区，商品与体验项目各自收费。",
+      "mapQuery": "江门 新会 陈皮村",
+      "sources": [
+        "xinhui-route-20241028"
+      ]
+    },
+    {
+      "id": "zili",
+      "name": "自力村碉楼群",
+      "region": "开平市",
+      "group": "碉楼与华侨古镇",
+      "tags": [
+        "世界遗产",
+        "田园",
+        "建筑"
+      ],
+      "fact": "位于开平市塘口镇，是开平碉楼与村落世界文化遗产的组成地之一，碉楼、居庐与田园构成独特景观。",
+      "editorialTip": "想看“田野中的碉楼”，优先选自力村；同一天还去赤坎时，别再把所有碉楼片区都塞进路线。",
+      "planningLabel": "编辑建议：开平一日线的白天主站",
+      "verifyBeforeGo": "购票时分清自力村、立园、马降龙的单点票与联票；开放建筑以现场安排为准。",
+      "mapQuery": "开平 塘口 自力村碉楼群",
+      "sources": [
+        "zili-20151204",
+        "kaiping-20260429"
+      ]
+    },
+    {
+      "id": "chikan",
+      "name": "赤坎华侨古镇",
+      "region": "开平市",
+      "group": "碉楼与华侨古镇",
+      "tags": [
+        "骑楼",
+        "夜景",
+        "演艺"
+      ],
+      "fact": "开平赤坎的华侨文化旅游度假区，以骑楼街区、潭江沿岸景观与演艺体验见长。导航可搜索“赤坎·广东华侨国际旅游度假区”。",
+      "editorialTip": "与自力村搭配时，把古镇放在下午至晚间，并事先确认夜游后的返程交通。",
+      "planningLabel": "编辑建议：开平线下午至晚间",
+      "verifyBeforeGo": "查当日节目单及剧场预约方式；节日烟花、演出数量并非每天保证。注意这里不是湛江赤坎老街。",
+      "mapQuery": "开平 赤坎 广东华侨国际旅游度假区",
+      "sources": [
+        "chikan-20260506",
+        "chikan-address-20260305",
+        "chikan-visit-20260506"
+      ]
+    },
+    {
+      "id": "chuandao",
+      "name": "上川岛 / 下川岛",
+      "region": "台山市",
+      "group": "另留时间的海岛",
+      "tags": [
+        "海岛",
+        "海滩",
+        "轮渡"
+      ],
+      "fact": "两座不同海岛均可经台山山咀港乘船前往，上川岛有飞沙滩，下川岛有海滨与椰林景观。",
+      "editorialTip": "先选一座岛，再安排独立的一晚行程；首次周末游，不建议与江门老城、新会、开平全部拼在两天内。",
+      "planningLabel": "编辑建议：另开海岛行程",
+      "verifyBeforeGo": "出发前查天气、当日航班与回程船票；岛上接驳也需留时间，航班以官方公告为准。",
+      "mapQuery": "台山 山咀港",
+      "sources": [
+        "chuandao-20230818",
+        "chuandao-20260109",
+        "chuandao-20260416"
+      ]
+    },
+    {
+      "id": "baisha",
+      "name": "陈白沙纪念馆",
+      "region": "蓬江区",
+      "group": "古建与人物",
+      "tags": [
+        "古建",
+        "理学",
+        "人物"
+      ],
+      "fact": "位于白沙大道西37号，以陈白沙祠为重要载体，介绍明代思想家、教育家陈献章与江门学派。",
+      "editorialTip": "喜欢人文的游客可从老城行程中拨出一站，细看牌楼、庭院与陈列；它和陈少白故居是不同地点。",
+      "planningLabel": "编辑建议：蓬江人文加站",
+      "verifyBeforeGo": "出发前查看江门市博物馆的场馆开放、预约及临时调整通知。",
+      "mapQuery": "江门 蓬江 陈白沙纪念馆 白沙大道西37号",
+      "sources": [
+        "baisha-20230524"
+      ],
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "id": "baishuidai",
+      "name": "白水带 · 横坑彩虹村",
+      "region": "江海区",
+      "group": "城市绿意与亲子",
+      "tags": [
+        "公园",
+        "彩虹村",
+        "亲子"
+      ],
+      "fact": "白水带风景区与横坑彩虹村位于江海区，官方休闲线路将两者串联；周边还有儿童公园与缤纷乐园。",
+      "editorialTip": "想从老城换到户外，可选白水带散步，再到彩虹村一带停留；带小朋友时少排跨区景点。",
+      "planningLabel": "编辑建议：江海户外半天",
+      "verifyBeforeGo": "风景区、儿童公园、缤纷乐园并非同一项目，分别核对开放安排；旧报道中的夜市与夜场不代表每天都有。",
+      "mapQuery": "江门 江海 白水带风景区 横坑彩虹村",
+      "sources": [
+        "jianghai-routes-20240930",
+        "baishuidai-20240806"
+      ],
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "id": "shaobai",
+      "name": "陈少白故居",
+      "region": "江海区",
+      "group": "古建与人物",
+      "tags": [
+        "故居",
+        "园林",
+        "近代史"
+      ],
+      "fact": "位于江海区外海街道南华里1号，白园与莎萝坪隔河相望，由白桥连接，保留近代故居与庭园景观。",
+      "editorialTip": "先读人物介绍，再看白桥与院落；可把外海人文参观与外海面安排在同一趟。",
+      "planningLabel": "编辑建议：外海人文一站",
+      "verifyBeforeGo": "核对故居当日开放与预约安排，不默认所有建筑内部均可参观。",
+      "mapQuery": "江门 江海 外海 陈少白故居",
+      "sources": [
+        "shaobai-20250903",
+        "jianghai-routes-20240930"
+      ],
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "id": "guifeng",
+      "name": "圭峰山 · 玉湖",
+      "region": "新会区",
+      "group": "山林与湖畔",
+      "tags": [
+        "森林",
+        "湖畔",
+        "徒步"
+      ],
+      "fact": "新会圭峰山兼有森林、湖泊与古建景观，玉湖、玉台寺等属于圭峰山片区的不同游览点。",
+      "editorialTip": "轻松游可先选玉湖一带；想登山则单独留半天，别把湖畔散步和长距离登山当成同一强度。",
+      "planningLabel": "编辑建议：按体力选湖畔或登山",
+      "verifyBeforeGo": "按具体入口核对路线、天气及防火封山通知，缆车或观光车是否运行以现场公告为准。",
+      "mapQuery": "江门 新会 圭峰山 玉湖",
+      "sources": [
+        "guifeng-20231110"
+      ],
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "id": "liyuan",
+      "name": "立园",
+      "region": "开平市",
+      "group": "碉楼与华侨园林",
+      "tags": [
+        "华侨园林",
+        "别墅",
+        "建筑"
+      ],
+      "fact": "位于开平塘口镇，是旅美华侨谢维立兴建的私家园林，将中国园林意趣与西式别墅建筑结合。",
+      "editorialTip": "偏爱园林、回廊与建筑细节，可优先选立园；它与田园中的自力村风格不同，可按兴趣取舍。",
+      "planningLabel": "编辑建议：开平线的园林选项",
+      "verifyBeforeGo": "确认所购票包含哪些片区、是否有预约要求；不要把立园票当成全部碉楼景点通票。",
+      "mapQuery": "开平 塘口 立园",
+      "sources": [
+        "liyuan-20230928"
+      ],
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "id": "majianglong",
+      "name": "马降龙碉楼群",
+      "region": "开平市",
+      "group": "碉楼与华侨古村",
+      "tags": [
+        "世界遗产",
+        "竹林",
+        "古村"
+      ],
+      "fact": "位于开平百合镇，是开平碉楼与村落世界文化遗产的组成地之一，碉楼与村屋掩映在竹林中。",
+      "editorialTip": "喜欢绿荫古村，可把它作为开平的主要停留点；与自力村、立园择一两处，留出村间接驳时间。",
+      "planningLabel": "编辑建议：开平古村深度选项",
+      "verifyBeforeGo": "核对票种、开放建筑与步道情况；雨后石板路可能湿滑，游览时留意脚下。",
+      "mapQuery": "开平 百合 马降龙碉楼群",
+      "sources": [
+        "majianglong-20260629",
+        "kaiping-heritage-20260618"
+      ],
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "id": "meijia",
+      "name": "梅家大院 · 汀江圩",
+      "region": "台山市",
+      "group": "台山侨乡古建",
+      "tags": [
+        "骑楼",
+        "华侨建筑",
+        "圩市"
+      ],
+      "fact": "位于台山端芬镇大同河畔，由海内外乡亲集资兴建，骑楼围绕中央市场空地排列，体现侨乡圩市格局。",
+      "editorialTip": "沿着骑楼看门窗与立面，再到中央空地观察整体布局；可与同镇海口埠组成一段侨乡文化行程。",
+      "planningLabel": "编辑建议：端芬古建半天的一站",
+      "verifyBeforeGo": "建筑内部、展馆和商户的开放各有安排，不把骑楼外观游览等同于所有房屋可进入。",
+      "mapQuery": "台山 端芬 梅家大院 汀江圩",
+      "sources": [
+        "meijia-20250421"
+      ],
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "id": "haikoubu",
+      "name": "海口埠",
+      "region": "台山市",
+      "group": "台山侨乡记忆",
+      "tags": [
+        "银信",
+        "古埠",
+        "华侨历史"
+      ],
+      "fact": "位于台山端芬镇，曾是五邑乡亲乘船出洋的重要口岸，与侨批、银信文化密切相关，保留古埠与旧街记忆。",
+      "editorialTip": "适合接着梅家大院了解“从哪里出发、如何寄信回家”；阅读展陈，比只在码头拍一张照更有意思。",
+      "planningLabel": "编辑建议：与梅家大院同线",
+      "verifyBeforeGo": "展馆、讲解与活动需查当日安排；这里是历史文化游览地，不能当作上下川岛乘船码头。",
+      "mapQuery": "台山 端芬 海口埠",
+      "sources": [
+        "haikoubu-20230612"
+      ],
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "id": "gulao",
+      "name": "古劳水乡",
+      "region": "鹤山市",
+      "group": "水乡与慢生活",
+      "tags": [
+        "水网",
+        "石桥",
+        "游船"
+      ],
+      "fact": "位于鹤山古劳镇、西江岸边，鱼塘、水道、石桥与村落交织，形成岭南围墩水乡景观。",
+      "editorialTip": "把时间留给水边散步和观察村落；想乘船时，先选清楚游览片区与线路，再安排餐饮停留。",
+      "planningLabel": "编辑建议：鹤山水乡半天",
+      "verifyBeforeGo": "古劳水乡范围较大，具体运营景区、村落与游船码头须分清；船票、班次及天气停航情况临行确认。",
+      "mapQuery": "鹤山 古劳水乡 游客中心",
+      "sources": [
+        "gulao-20260902",
+        "heshan-upgrade-20260605"
+      ],
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "id": "dayan",
+      "name": "大雁山",
+      "region": "鹤山市",
+      "group": "山林与眺望",
+      "tags": [
+        "登高",
+        "西江",
+        "森林"
+      ],
+      "fact": "位于鹤山城区北部、濒临西江，有纪元塔、日月峰、山林湖景等游览点，可从高处眺望江岸风光。",
+      "editorialTip": "喜欢登高可把大雁山作为鹤山主站；若再去古劳水乡，先评估体力，减少山上支线。",
+      "planningLabel": "编辑建议：鹤山登高半天",
+      "verifyBeforeGo": "有不同出入口，先定入口和返程接驳；核对防火管控、天气及观光接驳运营安排。",
+      "mapQuery": "鹤山 大雁山风景区",
+      "sources": [
+        "dayan-20231107",
+        "heshan-upgrade-20260605"
+      ],
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "id": "xiema",
+      "name": "歇马举人村",
+      "region": "恩平市",
+      "group": "古村与耕读",
+      "tags": [
+        "古村",
+        "举人文化",
+        "家风"
+      ],
+      "fact": "位于恩平圣堂镇，是以科举与重教传统闻名的历史文化名村，村内保存举人碑、进士碑等文化遗存。",
+      "editorialTip": "适合对家风、教育和古村感兴趣的游客；慢看碑刻与村落肌理，也给仍在生活的居民留出空间。",
+      "planningLabel": "编辑建议：恩平文化半天",
+      "verifyBeforeGo": "进入祠堂、展陈或参加研学讲解前，确认当天开放、预约与收费范围。",
+      "mapQuery": "恩平 圣堂 歇马举人村",
+      "sources": [
+        "xiema-20260902"
+      ],
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "id": "jinjiang",
+      "name": "锦江温泉",
+      "region": "恩平市",
+      "group": "温泉与休闲",
+      "tags": [
+        "温泉",
+        "度假",
+        "放松"
+      ],
+      "fact": "位于恩平大田镇，是以温泉体验为特色的休闲目的地，官方介绍涵盖泡池与水上温泉项目。",
+      "editorialTip": "想放慢节奏，可在恩平文化游之外留一段温泉休闲时间；住一晚的安排比当天来回多地更从容。",
+      "planningLabel": "编辑建议：恩平休闲或住一晚",
+      "verifyBeforeGo": "核对当天营业、泡池开放、住宿是否含温泉和儿童使用规则；不将旧项目列表视为全部实时开放。",
+      "mapQuery": "恩平 大田 锦江温泉",
+      "sources": [
+        "jinjiang-20250903"
+      ],
+      "checkedAt": "2026-10-16"
+    }
+  ],
+  "sources": [
+    {
+      "id": "longdi-20261009",
+      "title": "老街融新潮 满城烟火气——江门国庆假期消费潜力持续释放",
+      "publisher": "江门市人民政府门户网站（来源：江门新闻网）",
+      "url": "https://www.jiangmen.gov.cn/home/bmdt/content/post_3565103.html",
+      "published": "2026-10-09",
+      "opened": true,
+      "kind": "官方转载新闻",
+      "supports": "长堤、三十三墟街、启明里在老城片区；江门墟为新文旅IP；节假日交通停车有压力。"
+    },
+    {
+      "id": "qiming-20250314",
+      "title": "国家级旅游休闲街区“上新”！江门启明里上榜",
+      "publisher": "江门市文化广电旅游体育局",
+      "url": "https://www.jiangmen.gov.cn/bmpd/jmswhgdlytyj/zwgk/gzdt/content/post_3262825.html",
+      "published": "2025-03-14",
+      "opened": true,
+      "kind": "官方文旅介绍",
+      "supports": "启明里在蓬江区长堤历史文化街区东段；华侨屋融合岭南和西方风格；一屋一故事、一巷一主题；活动为不定期。"
+    },
+    {
+      "id": "pengjiang-20260130",
+      "title": "媒体记者、高校学子深入蓬江采风",
+      "publisher": "江门市人民政府门户网站（来源：江门新闻网）",
+      "url": "https://www.jiangmen.gov.cn/home/sqdt/pkzx/content/post_3436283.html",
+      "published": "2026-01-30",
+      "opened": true,
+      "kind": "官方转载新闻",
+      "supports": "启明里百年华侨村、咖啡文创业态；长堤地处蓬江河畔，不是西江岸边。"
+    },
+    {
+      "id": "xinhui-zone-20231128",
+      "title": "启超故里·小鸟天堂文化旅游区",
+      "publisher": "江门市文化广电旅游体育局",
+      "url": "https://www.jiangmen.gov.cn/jmwgj/gkmlpt/content/2/2866/post_2866173.html",
+      "published": "2023-11-28",
+      "opened": true,
+      "kind": "官方景区介绍",
+      "supports": "旅游区在新会城区南部，由梁启超故居纪念馆与小鸟天堂两部分组成；前者为全国重点文物保护单位，后者为国家湿地公园。"
+    },
+    {
+      "id": "xinhui-route-20241028",
+      "title": "12月1日起，江门这一景区套票上线！周边还可以这样玩",
+      "publisher": "江门市文化广电旅游体育局",
+      "url": "https://www.jiangmen.gov.cn/bmpd/jmswhgdlytyj/zwgk/zdlyxxgk/ggwhtyxxgk/gyxhd/content/post_3190543.html",
+      "published": "2024-10-28",
+      "opened": true,
+      "kind": "官方公告与线路",
+      "supports": "新会陈皮村—梁启超故居—小鸟天堂同片区官方一日串联；门票与游船分项、游船自选且恶劣天气可停航；陈皮村为产业与商业文化综合体。旧票价、旧开放时间不直接搬入页面。"
+    },
+    {
+      "id": "bird-hours-20260702",
+      "title": "小鸟天堂景区营业时间有调整！",
+      "publisher": "江门文旅（南方+南方号）",
+      "url": "https://static.nfnews.com/content/202607/02/c12585486.html?enterColumnId=0",
+      "published": "2026-07-02",
+      "event_date": "2026-07-01",
+      "notice_date": "2026-06-30",
+      "opened": true,
+      "kind": "官方文旅账号转景区公告",
+      "supports": "营业时间会随季节调整；官方公众号为小鸟天堂景区、新会小鸟天堂、启超故里小鸟天堂文化旅游区；抖音为小鸟天堂官方号。"
+    },
+    {
+      "id": "zili-20151204",
+      "title": "自力村碉楼群简介",
+      "publisher": "开平市塘口镇人民政府",
+      "url": "https://www.kaiping.gov.cn/tkzrmzf/tkgk/dlly/content/post_553104.html",
+      "published": "2015-12-04",
+      "opened": true,
+      "kind": "官方景区历史介绍",
+      "supports": "自力村位于开平市塘口镇，为世界文化遗产地之一；碉楼与田园、居庐相伴，体现中西建筑交融。"
+    },
+    {
+      "id": "kaiping-20260429",
+      "title": "景区边颜值升级！开平文旅再上新阶",
+      "publisher": "开平市人民政府",
+      "url": "https://www.kaiping.gov.cn/kpszfw/xwdt/tpxw/content/post_3483548.html",
+      "published": "2026-04-29",
+      "opened": true,
+      "kind": "官方近况",
+      "supports": "2026年仍将自力村、立园、马降龙作为开平碉楼文化旅游区的不同片区管理；自力村与赤坎是两个游览对象。"
+    },
+    {
+      "id": "chikan-20260506",
+      "title": "这是一篇来自开平市赤坎镇官方发布的旅游攻略",
+      "publisher": "开平市赤坎镇人民政府",
+      "url": "https://www.kaiping.gov.cn/jmkpsckz/gkmlpt/content/3/3485/post_3485707.html",
+      "published": "2026-05-06",
+      "opened": true,
+      "kind": "官方攻略",
+      "supports": "赤坎镇在开平市；华侨古镇以骑楼、侨文化与演艺为主要体验；全镇还有多个独立景点，不能把整个镇等同于古镇度假区。"
+    },
+    {
+      "id": "chikan-address-20260305",
+      "title": "入选省级旅游线路！跟着非遗游开平赤坎！",
+      "publisher": "开平市赤坎镇人民政府",
+      "url": "https://www.kaiping.gov.cn/jmkpsckz/gkmlpt/content/3/3451/post_3451175.html",
+      "published": "2026-03-05",
+      "opened": true,
+      "kind": "官方线路",
+      "supports": "导航名赤坎·广东华侨国际旅游度假区；地址开平市赤坎镇古镇大道。"
+    },
+    {
+      "id": "chikan-visit-20260506",
+      "title": "每日安排超100场演出 赤坎华侨古镇热度拉满",
+      "publisher": "江门市人民政府门户网站（来源：江门新闻网）",
+      "url": "https://www.jiangmen.gov.cn/newzjqx/lyzy/lyzx/content/post_3485604.html",
+      "published": "2026-05-06",
+      "opened": true,
+      "kind": "官方转载现场报道",
+      "supports": "演出场次为五一特别安排，不能当日常保证；曾有客流与室内表演预约问题，报道包含整改和游客体验。"
+    },
+    {
+      "id": "chuandao-20230818",
+      "title": "川岛十大打卡点",
+      "publisher": "台山市川岛镇人民政府",
+      "url": "https://www.cnts.gov.cn/zjzc/cdzrmzf/zjgk/lyjd/content/post_2919309.html",
+      "published": "2023-08-18",
+      "opened": true,
+      "kind": "官方景点介绍",
+      "supports": "上川岛有飞沙滩、三洲港；下川岛有椰林与海滨景观。"
+    },
+    {
+      "id": "chuandao-20260109",
+      "title": "台山港航经营开发有限公司",
+      "publisher": "台山市交通运输局",
+      "url": "https://www.cnts.gov.cn/zfgzbm/sjtysj/ggqsydwxxgk/content/post_3423601.html",
+      "published": "2026-01-09",
+      "opened": true,
+      "kind": "官方公共服务信息",
+      "supports": "山咀港为上下川岛出发集散地；公众号上下川岛船票官网；航班、岛上班车以当天窗口或公众号为准。正文部分动态展示，搜索索引包含完整航班与购票指南，故不抄录具体时刻。"
+    },
+    {
+      "id": "chuandao-20260416",
+      "title": "头等舱来啦！山咀港往返上下川岛",
+      "publisher": "台山市人民政府（来源：台山发布）",
+      "url": "https://www.cnts.gov.cn/tssrmzf/tsyw/tskx/content/post_3477715.html",
+      "published": "2026-04-16",
+      "opened": true,
+      "kind": "官方航线资讯",
+      "supports": "再次确认山咀港往返上川岛、下川岛航线；不引用升级舱位促销和票价。"
+    },
+    {
+      "id": "baisha-20230524",
+      "title": "江门市博物馆",
+      "publisher": "江门市文化广电旅游体育局",
+      "url": "https://www.jiangmen.gov.cn/bmpd/jmswhgdlytyj/zzjg/zssydw/content/post_2863994.html",
+      "published": "2023-05-24",
+      "checkedAt": "2026-10-16",
+      "opened": true,
+      "kind": "官方场馆介绍",
+      "supports": "陈白沙纪念馆位于蓬江白沙大道西37号，以陈白沙祠为载体；陈献章及江门学派背景。"
+    },
+    {
+      "id": "jianghai-routes-20240930",
+      "title": "国庆假期将至，江海区推出5条“独家线路” 乐享生活 玩转江海",
+      "publisher": "江门市人民政府门户网站（来源：江门新闻网）",
+      "url": "https://www.jiangmen.gov.cn/home/sqdt/gxjhzx/content/post_3174220.html",
+      "published": "2024-09-30",
+      "checkedAt": "2026-10-16",
+      "opened": true,
+      "kind": "官方转载文旅线路",
+      "supports": "白水带风景区与彩虹村可串联；陈少白故居在外海人文线路。只采纳地理关系，节庆活动与旧夜场不作实时承诺。"
+    },
+    {
+      "id": "baishuidai-20240806",
+      "title": "不出意外，江门这个新晋夜市，马上要火出圈了……",
+      "publisher": "江门市文化广电旅游体育局",
+      "url": "https://www.jiangmen.gov.cn/jmwgj/gkmlpt/content/3/3141/post_3141000.html",
+      "published": "2024-08-06",
+      "checkedAt": "2026-10-16",
+      "opened": true,
+      "kind": "官方文旅报道",
+      "supports": "白水带、横坑彩虹村、儿童公园与缤纷乐园所在片区；夜市报道为当时情形，不能承诺每日营业。"
+    },
+    {
+      "id": "shaobai-20250903",
+      "title": "陈少白故居",
+      "publisher": "江门市文化广电旅游体育局",
+      "url": "https://www.jiangmen.gov.cn/newzjqx/lyzy/lyjd/qxwh/content/post_3545770.html",
+      "published": "2026-09-02",
+      "checkedAt": "2026-10-16",
+      "opened": true,
+      "kind": "官方景点介绍",
+      "supports": "外海街道南华里1号；白园与莎萝坪由白桥连接；近代故居及庭园格局。"
+    },
+    {
+      "id": "guifeng-20231110",
+      "title": "圭峰山",
+      "publisher": "江门市文化广电旅游体育局",
+      "url": "https://www.jiangmen.gov.cn/jmwgj/gkmlpt/content/2/2864/mpost_2864085.html",
+      "published": "2023-11-10",
+      "checkedAt": "2026-10-16",
+      "opened": true,
+      "kind": "官方景点介绍",
+      "supports": "新会圭峰山的森林、湖泊、玉台寺与玉湖等景观；不沿用宣传性最高级与设施实时运营推断。"
+    },
+    {
+      "id": "liyuan-20230928",
+      "title": "这个假期，一起和小侨踏上开平“优游计划”华侨文化之旅吧！",
+      "publisher": "开平市文化广电旅游体育局",
+      "url": "https://www.kaiping.gov.cn/kpswhgdlytyj/zwgk/zwgk/content/post_2948435.html",
+      "published": "2023-09-28",
+      "checkedAt": "2026-10-16",
+      "opened": true,
+      "kind": "官方景点与线路介绍",
+      "supports": "立园在开平塘口镇，由旅美华侨谢维立兴建，融合园林与西式别墅。官文长线路不直接作为首次游客的一日路线。"
+    },
+    {
+      "id": "majianglong-20260629",
+      "title": "开平市百合镇马降龙村委会简介",
+      "publisher": "开平市百合镇人民政府",
+      "url": "https://www.kaiping.gov.cn/bhzrmzf/cjzc/mjlcw/content/post_3513302.html",
+      "published": "2026-06-29",
+      "checkedAt": "2026-10-16",
+      "opened": true,
+      "kind": "官方村落介绍",
+      "supports": "马降龙位于百合镇，临潭江，为开平碉楼文化旅游区片区；不采用未经独立认证的“世界最美”宣传评价。"
+    },
+    {
+      "id": "kaiping-heritage-20260618",
+      "title": "解锁世遗文化魅力！江门藏着一条amazing的旅游路线→",
+      "publisher": "江门市文化广电旅游体育局",
+      "url": "https://www.jiangmen.gov.cn/bmpd/jmswhgdlytyj/zwgk/gzdt/content/post_3508220.html",
+      "published": "2026-06-18",
+      "checkedAt": "2026-10-16",
+      "opened": true,
+      "kind": "官方文旅介绍",
+      "supports": "马降龙是世界文化遗产组成部分，碉楼与村落位于竹林间；不引用已过期端午活动。"
+    },
+    {
+      "id": "meijia-20250421",
+      "title": "梅家大院",
+      "publisher": "台山市端芬镇人民政府",
+      "url": "https://www.cnts.gov.cn/jmtssrfz/gkmlpt/content/3/3285/mpost_3285484.html",
+      "published": "2025-04-21",
+      "checkedAt": "2026-10-16",
+      "opened": true,
+      "kind": "官方景点介绍",
+      "supports": "位于端芬镇大同河畔，由海内外乡亲集资建设；骑楼环绕市场空地的华侨圩市格局。"
+    },
+    {
+      "id": "haikoubu-20230612",
+      "title": "驻足海口埠 从出洋的离愁到回家的乡愁",
+      "publisher": "江门市人民政府门户网站（来源：江门新闻网）",
+      "url": "https://www.jiangmen.gov.cn/home/sqdt/tszx/content/post_2874641.html",
+      "published": "2023-06-12",
+      "checkedAt": "2026-10-16",
+      "opened": true,
+      "kind": "官方转载历史文化报道",
+      "supports": "台山端芬海口埠是五邑人历史上出洋的口岸，与银信文化、古码头和旧街有关；不是今天上下川岛船班出发地。"
+    },
+    {
+      "id": "gulao-20260902",
+      "title": "古劳水乡",
+      "publisher": "江门市文化广电旅游体育局",
+      "url": "https://www.jiangmen.gov.cn/newzjqx/lyzy/lyjd/st/content/post_3545759.html",
+      "published": "2026-09-02",
+      "checkedAt": "2026-10-16",
+      "opened": true,
+      "kind": "官方景点介绍",
+      "supports": "鹤山古劳镇、西江岸边的围墩水乡，鱼塘、水道、石桥、古榕与村落景观。"
+    },
+    {
+      "id": "dayan-20231107",
+      "title": "大雁山",
+      "publisher": "江门市文化广电旅游体育局",
+      "url": "https://www.jiangmen.gov.cn/jmwgj/gkmlpt/content/2/2866/post_2866063.html",
+      "published": "2023-11-07",
+      "checkedAt": "2026-10-16",
+      "opened": true,
+      "kind": "官方景点介绍",
+      "supports": "位于鹤山城区北部，濒临西江，有纪元塔、日月峰等山林景观与登高视野。"
+    },
+    {
+      "id": "heshan-upgrade-20260605",
+      "title": "精细化管护！鹤山“景区边”颜值升级！",
+      "publisher": "鹤山市文化广电旅游体育局",
+      "url": "https://www.heshan.gov.cn/zwgk/ztzl/jswmcjztzl/content/post_3513607.html",
+      "published": "2026-06-05",
+      "checkedAt": "2026-10-16",
+      "opened": true,
+      "kind": "官方景区近况",
+      "supports": "2026年持续维护大雁山与古劳水乡；大雁山有西、北、南入口，古劳水乡有游客服务中心。"
+    },
+    {
+      "id": "xiema-20260902",
+      "title": "歇马举人村",
+      "publisher": "江门市文化广电旅游体育局",
+      "url": "https://www.jiangmen.gov.cn/newzjqx/lyzy/lyjd/qxwh/content/post_3545769.html",
+      "published": "2026-09-02",
+      "checkedAt": "2026-10-16",
+      "opened": true,
+      "kind": "官方景点介绍",
+      "supports": "恩平圣堂镇歇马村的科举文化、举人碑与进士碑；不采用“全国举人最多”等无可比口径的宣传表述。"
+    },
+    {
+      "id": "jinjiang-20250903",
+      "title": "锦江温泉",
+      "publisher": "江门市文化广电旅游体育局",
+      "url": "https://www.jiangmen.gov.cn/newzjqx/lyzy/lyjd/wq/content/post_3545748.html",
+      "published": "2026-09-02",
+      "checkedAt": "2026-10-16",
+      "opened": true,
+      "kind": "官方景点介绍",
+      "supports": "位于恩平大田镇，以温泉池与水上温泉产品为特色。具体项目数量、开放时间和旧宣传的疗效均不搬入游客指南。"
+    }
+  ],
+  "routes": [
+    {
+      "name": "只有一天：老城慢逛",
+      "type": "编辑建议",
+      "steps": [
+        "长堤骑楼 / 三十三墟街",
+        "启明里",
+        "在老城选小吃或正餐"
+      ],
+      "note": "围绕蓬江老城，不因点位多而赶着跨区；适合公共交通到达后步行与必要短途接驳。"
+    },
+    {
+      "name": "两天：老城 + 新会",
+      "type": "编辑建议",
+      "days": [
+        [
+          "长堤 / 三十三墟街",
+          "启明里"
+        ],
+        [
+          "梁启超故居纪念馆",
+          "新会陈皮村",
+          "小鸟天堂"
+        ]
+      ],
+      "note": "第二天顺序按馆舍开放、游船安排和个人兴趣调整；新会三点之间仍需核对导航接驳，不写成全程步行。"
+    },
+    {
+      "name": "两天：老城 + 开平",
+      "type": "编辑建议",
+      "days": [
+        [
+          "长堤 / 三十三墟街",
+          "启明里"
+        ],
+        [
+          "自力村碉楼群",
+          "赤坎华侨古镇"
+        ]
+      ],
+      "note": "第二天预留跨区交通及晚间返程，公共交通先核对末班；这是建筑爱好者替代新会的一条线，不和新会同时塞入第二天。"
+    }
+  ],
+  "publicExperienceSources": [
+    {
+      "title": "启明里广场用户点评",
+      "publisher": "携程攻略社区",
+      "author": "地瓜出门了；走遍天下XZ",
+      "url": "https://you.ctrip.com/sight/jiangmen362/5709872.html",
+      "published": [
+        "2025-10-04",
+        "2025-02-08"
+      ],
+      "opened": true,
+      "summary": "两则可读点评共同提到侨屋建筑、咖啡店和慢逛拍照体验。作为游客主观体验补充，不用评分、耗时或用户写的历史数据代替官方事实。",
+      "usage": "可作“看其他游客怎么说”外链，不复制照片。"
+    },
+    {
+      "title": "2025江门行 | 启明里：百年侨乡“活态遗产”老街巷原住民烟火气兴盛",
+      "publisher": "携程游记",
+      "url": "https://you.ctrip.com/travels/jiangmen362/4175663.html",
+      "published": "2025-10-04",
+      "opened": true,
+      "summary": "公开游记描写启明里的故事牌、主题巷和拍照点，也反映商业店铺较多的不同观感。作为体验阅读，不采信其未经核实的建筑风格细节、路线耗时。",
+      "usage": "可引用简短概括并外链；历史游记信息可能陈旧。"
+    },
+    {
+      "title": "喜欢怀旧的人，也会喜欢这里",
+      "publisher": "携程游记",
+      "author": "Even",
+      "url": "https://gs.ctrip.com/html5/you/travels/362/4152683.html",
+      "published": null,
+      "publishedNote": "读取页未显出版日；只显示6月出发，不能猜测年份。",
+      "opened": true,
+      "summary": "六天行程把开平、江门城区和新会分开安排；作者谈到开平一天难以游完各碉楼片区。可作深度游参考，不能复制为两天路线。",
+      "usage": "含旧价格和旧班次，页面中不可用这些数据。"
+    }
+  ],
+  "platformResearch": {
+    "wechat": "检索过 mp.weixin.qq.com 公开索引，未获得可直接核验的独立微信测评文章全文。已找到官方政府转载及江门文旅南方号公开公告，保留真实来源标签，不能伪称微信原创测评。",
+    "xiaohongshu": "尝试公开索引检索，未获得可核查的小红书单篇笔记；不制造博主姓名、评分或推荐理由。",
+    "douyin": "未取得可核查的单条测评视频全文；江门文旅公告确认小鸟天堂官方号存在，可提供搜索词但应标为搜索入口，不称精选测评。",
+    "verifiedAccounts": [
+      {
+        "platform": "微信公众号",
+        "name": "小鸟天堂景区 / 新会小鸟天堂 / 启超故里小鸟天堂文化旅游区",
+        "source": "bird-hours-20260702"
+      },
+      {
+        "platform": "抖音",
+        "name": "小鸟天堂官方号",
+        "source": "bird-hours-20260702"
+      },
+      {
+        "platform": "微信公众号",
+        "name": "上下川岛船票官网",
+        "source": "chuandao-20260109"
+      },
+      {
+        "platform": "微信公众号",
+        "name": "江门启明里",
+        "source": "qiming-20250314",
+        "note": "官方文旅文章注明图源为江门启明里微信号。"
+      }
+    ]
+  },
+  "pitfalls": [
+    "长堤、三十三墟街、启明里是同一老城片区可组合的停留点，不是三次远途。",
+    "长堤临蓬江河，不能把网站西江意境图当作该景区实拍或精确地点照片。",
+    "梁启超故居纪念馆与小鸟天堂同属文化旅游区，但各有入口和运营安排，不能假定一张票覆盖所有项目。",
+    "自力村碉楼不等于全部开平碉楼；赤坎华侨古镇与自力村也不是同一个景区。",
+    "官方长线路为主题串联，不代表适合一天走完；不要把省级九站线路压成周末打卡。",
+    "长堤集市、赤坎节日演出等新闻描述有明确日期，不能变成每日开放承诺。",
+    "上下川岛不同岛，不能只标“川岛”让游客不知目的地；山咀港、候船、海上航行及岛上接驳都占时间。",
+    "旅游图片若沿用AI画面，必须标为意境图；不可拿AI图证明景区真实外观。"
+  ],
+  "updateNote": "2026-10-16新增12条景点并核查官方来源；原8条内容沿用2026-10-15的整理，新增条目分别标注checkedAt。",
+  "countingNote": "按网站景点条目计数，组合条目仍算一条。原有上川岛 / 下川岛合并为chuandao，明确为两座不同海岛，不能把20条等同20个单独景区。"
+}
